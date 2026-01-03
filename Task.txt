@@ -1,0 +1,13 @@
+Practical Task: Road Sign Recognition
+Project Overview
+Develop an image classification system to recognize various road signs. The project involves building three different models using:
+
+1-Scikit-Learn: Extract features (e.g., HOG or CNN embeddings) and train a traditional classifier.
+
+2-YOLOv8: Use YOLOv8 in classification mode for an end-to-end deep learning approach.
+
+3-Teachable Machine: Create a rapid prototype via the Teachable Machine web interface.
+
+Use a dataset like the German Traffic Sign Recognition Benchmark (GTSRB) or another public road sign dataset.
+
+Do Comparative Analysis and Reporting and final conclusions.

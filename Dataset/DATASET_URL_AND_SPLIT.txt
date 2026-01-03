@@ -1,0 +1,59 @@
+German Traffic Sign Recognition Benchmark (GTSRB) dataset URL and split steps
+
+Official dataset (canonical):
+https://benchmark.ini.rub.de/gtsrb_dataset.html#Downloads
+
+Notes:
+- This repository uses the GTSRB dataset (43 classes numbered 0..42).
+- Desired split used in this project (as in README): Train 70%, Val 15%, Test 15%.
+
+Steps to create Train / Val / Test split (one-time):
+
+1) Download and extract the GTSRB dataset from the official page above.
+   After extraction, you should have a folder with class subfolders named 0..42
+   (e.g. GTSRB/Final_Training/Images/0, ... , GTSRB/Final_Training/Images/42).
+
+2) Choose a destination layout matching this repo:
+   Dataset/Train_split/<class_id>/
+   Dataset/Val/<class_id>/
+   Dataset/Test/<class_id>/
+
+3) For each class, shuffle images and split per-class to preserve class balance.
+   Example proportions: train = floor(N*0.70), val = floor(N*0.15), test = remaining.
+
+4) Use a script to copy files (safer) or move files. Example Python snippet:
+
+   import os
+   import random
+   from pathlib import Path
+   from shutil import copy2
+
+   src_root = Path('path/to/extracted/GTSRB/Final_Training/Images')
+   dst_root = Path('Dataset')
+   train_p, val_p = 0.7, 0.15
+   seed = 42
+
+   random.seed(seed)
+   for class_dir in sorted(src_root.iterdir()):
+       if not class_dir.is_dir():
+           continue
+       imgs = list(class_dir.glob('*.ppm')) + list(class_dir.glob('*.jpg'))
+       random.shuffle(imgs)
+       n = len(imgs)
+       n_train = int(n * train_p)
+       n_val = int(n * val_p)
+       train_imgs = imgs[:n_train]
+       val_imgs = imgs[n_train:n_train+n_val]
+       test_imgs = imgs[n_train+n_val:]
+
+       for name, group in [('Train_split', train_imgs), ('Val', val_imgs), ('Test', test_imgs)]:
+           out_dir = dst_root / name / class_dir.name
+           out_dir.mkdir(parents=True, exist_ok=True)
+           for p in group:
+               copy2(p, out_dir / p.name)
+
+5) Verify counts: ensure each class folder exists under each split and counts match expected proportions.
+
+6) Optional: use a fixed random seed to make splits reproducible.
+
+That's it — the repo expects Dataset/Train_split, Dataset/Val, and Dataset/Test folders with class subfolders.

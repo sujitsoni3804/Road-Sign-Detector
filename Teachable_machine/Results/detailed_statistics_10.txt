@@ -1,0 +1,2053 @@
+Image Directory: C:/Users/sujit/PycharmProjects/Road-Sign-Recognition/Dataset/Train/10
+
+Summary Statistics
+================================================================================
+Total Images Processed: 2010
+
+Class                     Count      Avg Confidence      
+--------------------------------------------------------------------------------
+ NO OVERTAKING BY TRUCKS  965        0.9250              
+SPEED LIMIT 60            132        0.8256              
+SPEED LIMIT 70            19         0.7108              
+SPEED LIMIT 50            27         0.8430              
+NO OVERTAKING             201        0.8391              
+END OF SPEED LIMIT 80     60         0.7899              
+ ROUNDABOUT               9          0.7017              
+ RIGHT BEND               1          0.7468              
+SPEED LIMIT 80            131        0.8359              
+SPEED LIMIT 120           104        0.7301              
+ NO TRUCKS                159        0.7973              
+SPEED LIMIT 30            59         0.7566              
+ NO ENTRY FOR VEHICLES    19         0.6442              
+SPEED LIMIT 100           8          0.7157              
+ TURN RIGHT               1          0.8800              
+ END OF NO OVERTAKING FOR TRUCKS 3          0.6121              
+ TURN LEFT                37         0.7372              
+SPEED LIMIT 20            21         0.7550              
+ GO STRAIGHT OR RIGHT     7          0.7029              
+ END OF NO OVERTAKING     25         0.7371              
+ END OF ALL RESTRICTIONS  1          0.7599              
+ BUMPY ROAD               1          0.6458              
+ TRAFFIC SIGNALS          12         0.7766              
+ GO STRAIGHT              2          0.7370              
+ PRIORITY ROAD            2          0.5778              
+ NO ENTRY                 3          0.8592              
+ GO STRAIGHT OR LEFT      1          0.4291              
+
+
+
+Detailed Prediction Results
+================================================================================
+Image Name                     Predicted Class           Confidence Score    
+--------------------------------------------------------------------------------
+00010_00000_00000.png           NO OVERTAKING BY TRUCKS  0.9986              
+00010_00000_00001.png           NO OVERTAKING BY TRUCKS  0.9837              
+00010_00000_00002.png           NO OVERTAKING BY TRUCKS  0.9999              
+00010_00000_00003.png           NO OVERTAKING BY TRUCKS  0.9994              
+00010_00000_00004.png           NO OVERTAKING BY TRUCKS  0.9930              
+00010_00000_00005.png           NO OVERTAKING BY TRUCKS  0.9925              
+00010_00000_00006.png           NO OVERTAKING BY TRUCKS  0.9974              
+00010_00000_00007.png           NO OVERTAKING BY TRUCKS  0.9883              
+00010_00000_00008.png           NO OVERTAKING BY TRUCKS  0.9971              
+00010_00000_00009.png           NO OVERTAKING BY TRUCKS  0.9505              
+00010_00000_00010.png           NO OVERTAKING BY TRUCKS  0.6664              
+00010_00000_00011.png           NO OVERTAKING BY TRUCKS  0.9605              
+00010_00000_00012.png           NO OVERTAKING BY TRUCKS  0.9000              
+00010_00000_00013.png           NO OVERTAKING BY TRUCKS  0.9823              
+00010_00000_00014.png           NO OVERTAKING BY TRUCKS  0.7022              
+00010_00000_00015.png           NO OVERTAKING BY TRUCKS  0.9985              
+00010_00000_00016.png           NO OVERTAKING BY TRUCKS  0.9999              
+00010_00000_00017.png           NO OVERTAKING BY TRUCKS  0.9966              
+00010_00000_00018.png           NO OVERTAKING BY TRUCKS  0.9784              
+00010_00000_00019.png           NO OVERTAKING BY TRUCKS  0.9995              
+00010_00000_00020.png           NO OVERTAKING BY TRUCKS  0.8089              
+00010_00000_00021.png           NO OVERTAKING BY TRUCKS  0.9506              
+00010_00000_00022.png           NO OVERTAKING BY TRUCKS  0.9978              
+00010_00000_00023.png           NO OVERTAKING BY TRUCKS  0.9996              
+00010_00000_00024.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00000_00025.png           NO OVERTAKING BY TRUCKS  0.9999              
+00010_00000_00026.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00000_00027.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00000_00028.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00000_00029.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00001_00000.png           NO OVERTAKING BY TRUCKS  0.8387              
+00010_00001_00001.png           NO OVERTAKING BY TRUCKS  0.7005              
+00010_00001_00002.png          SPEED LIMIT 60            0.4523              
+00010_00001_00003.png           NO OVERTAKING BY TRUCKS  0.9846              
+00010_00001_00004.png           NO OVERTAKING BY TRUCKS  0.9991              
+00010_00001_00005.png           NO OVERTAKING BY TRUCKS  0.9858              
+00010_00001_00006.png           NO OVERTAKING BY TRUCKS  0.9999              
+00010_00001_00007.png           NO OVERTAKING BY TRUCKS  0.6392              
+00010_00001_00008.png           NO OVERTAKING BY TRUCKS  0.9989              
+00010_00001_00009.png           NO OVERTAKING BY TRUCKS  0.9988              
+00010_00001_00010.png           NO OVERTAKING BY TRUCKS  0.9967              
+00010_00001_00011.png           NO OVERTAKING BY TRUCKS  0.9710              
+00010_00001_00012.png           NO OVERTAKING BY TRUCKS  0.9856              
+00010_00001_00013.png           NO OVERTAKING BY TRUCKS  0.9802              
+00010_00001_00014.png           NO OVERTAKING BY TRUCKS  0.9914              
+00010_00001_00015.png           NO OVERTAKING BY TRUCKS  0.9960              
+00010_00001_00016.png           NO OVERTAKING BY TRUCKS  0.9901              
+00010_00001_00017.png           NO OVERTAKING BY TRUCKS  0.9932              
+00010_00001_00018.png           NO OVERTAKING BY TRUCKS  0.9900              
+00010_00001_00019.png           NO OVERTAKING BY TRUCKS  0.9808              
+00010_00001_00020.png           NO OVERTAKING BY TRUCKS  0.5589              
+00010_00001_00021.png           NO OVERTAKING BY TRUCKS  0.9912              
+00010_00001_00022.png           NO OVERTAKING BY TRUCKS  0.9036              
+00010_00001_00023.png           NO OVERTAKING BY TRUCKS  0.9688              
+00010_00001_00024.png           NO OVERTAKING BY TRUCKS  0.9976              
+00010_00001_00025.png           NO OVERTAKING BY TRUCKS  0.9941              
+00010_00001_00026.png           NO OVERTAKING BY TRUCKS  0.9998              
+00010_00001_00027.png           NO OVERTAKING BY TRUCKS  0.9999              
+00010_00001_00028.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00001_00029.png           NO OVERTAKING BY TRUCKS  0.9997              
+00010_00002_00000.png           NO OVERTAKING BY TRUCKS  0.9825              
+00010_00002_00001.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00002_00002.png           NO OVERTAKING BY TRUCKS  0.9999              
+00010_00002_00003.png           NO OVERTAKING BY TRUCKS  0.9999              
+00010_00002_00004.png           NO OVERTAKING BY TRUCKS  0.9999              
+00010_00002_00005.png           NO OVERTAKING BY TRUCKS  0.9998              
+00010_00002_00006.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00002_00007.png           NO OVERTAKING BY TRUCKS  0.9639              
+00010_00002_00008.png           NO OVERTAKING BY TRUCKS  0.9999              
+00010_00002_00009.png           NO OVERTAKING BY TRUCKS  0.9946              
+00010_00002_00010.png           NO OVERTAKING BY TRUCKS  0.9989              
+00010_00002_00011.png           NO OVERTAKING BY TRUCKS  0.9947              
+00010_00002_00012.png           NO OVERTAKING BY TRUCKS  0.9691              
+00010_00002_00013.png           NO OVERTAKING BY TRUCKS  0.9947              
+00010_00002_00014.png           NO OVERTAKING BY TRUCKS  0.7708              
+00010_00002_00015.png           NO OVERTAKING BY TRUCKS  0.9955              
+00010_00002_00016.png           NO OVERTAKING BY TRUCKS  0.9993              
+00010_00002_00017.png           NO OVERTAKING BY TRUCKS  0.9967              
+00010_00002_00018.png           NO OVERTAKING BY TRUCKS  0.9985              
+00010_00002_00019.png          SPEED LIMIT 70            0.7215              
+00010_00002_00020.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00002_00021.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00002_00022.png           NO OVERTAKING BY TRUCKS  0.9989              
+00010_00002_00023.png           NO OVERTAKING BY TRUCKS  0.9925              
+00010_00002_00024.png           NO OVERTAKING BY TRUCKS  0.9999              
+00010_00002_00025.png           NO OVERTAKING BY TRUCKS  0.9997              
+00010_00002_00026.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00002_00027.png           NO OVERTAKING BY TRUCKS  0.9997              
+00010_00002_00028.png           NO OVERTAKING BY TRUCKS  0.9995              
+00010_00002_00029.png           NO OVERTAKING BY TRUCKS  0.9930              
+00010_00003_00000.png          SPEED LIMIT 50            0.9999              
+00010_00003_00001.png          SPEED LIMIT 50            0.9682              
+00010_00003_00002.png          SPEED LIMIT 50            0.9939              
+00010_00003_00003.png          SPEED LIMIT 50            0.9988              
+00010_00003_00004.png          SPEED LIMIT 50            0.9713              
+00010_00003_00005.png          SPEED LIMIT 50            0.9814              
+00010_00003_00006.png          SPEED LIMIT 50            0.9904              
+00010_00003_00007.png          SPEED LIMIT 50            0.6162              
+00010_00003_00008.png          SPEED LIMIT 50            0.5223              
+00010_00003_00009.png          NO OVERTAKING             0.9136              
+00010_00003_00010.png          NO OVERTAKING             0.8475              
+00010_00003_00011.png          NO OVERTAKING             0.7803              
+00010_00003_00012.png          NO OVERTAKING             0.9306              
+00010_00003_00013.png          NO OVERTAKING             1.0000              
+00010_00003_00014.png          NO OVERTAKING             0.9999              
+00010_00003_00015.png          NO OVERTAKING             0.9996              
+00010_00003_00016.png          NO OVERTAKING             0.9997              
+00010_00003_00017.png          NO OVERTAKING             1.0000              
+00010_00003_00018.png          NO OVERTAKING             0.9994              
+00010_00003_00019.png          NO OVERTAKING             0.9992              
+00010_00003_00020.png          NO OVERTAKING             0.9994              
+00010_00003_00021.png          NO OVERTAKING             0.9997              
+00010_00003_00022.png          NO OVERTAKING             0.9998              
+00010_00003_00023.png          NO OVERTAKING             1.0000              
+00010_00003_00024.png          NO OVERTAKING             0.9995              
+00010_00003_00025.png          NO OVERTAKING             0.9999              
+00010_00003_00026.png          NO OVERTAKING             0.9999              
+00010_00003_00027.png          NO OVERTAKING             1.0000              
+00010_00003_00028.png          NO OVERTAKING             0.9999              
+00010_00003_00029.png          NO OVERTAKING             0.9999              
+00010_00004_00000.png           NO OVERTAKING BY TRUCKS  0.5814              
+00010_00004_00001.png           NO OVERTAKING BY TRUCKS  0.5004              
+00010_00004_00002.png           NO OVERTAKING BY TRUCKS  0.9844              
+00010_00004_00003.png           NO OVERTAKING BY TRUCKS  0.9918              
+00010_00004_00004.png           NO OVERTAKING BY TRUCKS  0.3831              
+00010_00004_00005.png           NO OVERTAKING BY TRUCKS  0.4167              
+00010_00004_00006.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00004_00007.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00004_00008.png           NO OVERTAKING BY TRUCKS  0.9522              
+00010_00004_00009.png           NO OVERTAKING BY TRUCKS  0.6673              
+00010_00004_00010.png           NO OVERTAKING BY TRUCKS  0.9996              
+00010_00004_00011.png           NO OVERTAKING BY TRUCKS  0.8906              
+00010_00004_00012.png           NO OVERTAKING BY TRUCKS  0.9997              
+00010_00004_00013.png           NO OVERTAKING BY TRUCKS  0.9853              
+00010_00004_00014.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00004_00015.png           NO OVERTAKING BY TRUCKS  0.9976              
+00010_00004_00016.png           NO OVERTAKING BY TRUCKS  0.9996              
+00010_00004_00017.png           NO OVERTAKING BY TRUCKS  0.9998              
+00010_00004_00018.png           NO OVERTAKING BY TRUCKS  0.9996              
+00010_00004_00019.png           NO OVERTAKING BY TRUCKS  0.9679              
+00010_00004_00020.png           NO OVERTAKING BY TRUCKS  0.9648              
+00010_00004_00021.png           NO OVERTAKING BY TRUCKS  0.9985              
+00010_00004_00022.png           NO OVERTAKING BY TRUCKS  0.9976              
+00010_00004_00023.png           NO OVERTAKING BY TRUCKS  0.9996              
+00010_00004_00024.png           NO OVERTAKING BY TRUCKS  0.9995              
+00010_00004_00025.png           NO OVERTAKING BY TRUCKS  0.9995              
+00010_00004_00026.png           NO OVERTAKING BY TRUCKS  0.9999              
+00010_00004_00027.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00004_00028.png           NO OVERTAKING BY TRUCKS  0.9995              
+00010_00004_00029.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00005_00000.png           NO OVERTAKING BY TRUCKS  0.9900              
+00010_00005_00001.png           NO OVERTAKING BY TRUCKS  0.9999              
+00010_00005_00002.png           NO OVERTAKING BY TRUCKS  0.9999              
+00010_00005_00003.png           NO OVERTAKING BY TRUCKS  0.9994              
+00010_00005_00004.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00005_00005.png          END OF SPEED LIMIT 80     0.9312              
+00010_00005_00006.png           ROUNDABOUT               0.9833              
+00010_00005_00007.png           NO OVERTAKING BY TRUCKS  0.3831              
+00010_00005_00008.png           ROUNDABOUT               0.9925              
+00010_00005_00009.png           ROUNDABOUT               0.5043              
+00010_00005_00010.png           RIGHT BEND               0.7468              
+00010_00005_00011.png          END OF SPEED LIMIT 80     0.9989              
+00010_00005_00012.png           NO OVERTAKING BY TRUCKS  0.9717              
+00010_00005_00013.png          SPEED LIMIT 80            0.9672              
+00010_00005_00014.png          END OF SPEED LIMIT 80     0.5648              
+00010_00005_00015.png           NO OVERTAKING BY TRUCKS  0.7685              
+00010_00005_00016.png           NO OVERTAKING BY TRUCKS  0.9971              
+00010_00005_00017.png           NO OVERTAKING BY TRUCKS  0.9954              
+00010_00005_00018.png           NO OVERTAKING BY TRUCKS  0.9999              
+00010_00005_00019.png           NO OVERTAKING BY TRUCKS  0.9989              
+00010_00005_00020.png           NO OVERTAKING BY TRUCKS  0.9999              
+00010_00005_00021.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00005_00022.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00005_00023.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00005_00024.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00005_00025.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00005_00026.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00005_00027.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00005_00028.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00005_00029.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00006_00000.png           NO OVERTAKING BY TRUCKS  0.7669              
+00010_00006_00001.png           NO OVERTAKING BY TRUCKS  0.9534              
+00010_00006_00002.png           NO OVERTAKING BY TRUCKS  0.9998              
+00010_00006_00003.png           NO OVERTAKING BY TRUCKS  0.9966              
+00010_00006_00004.png           NO OVERTAKING BY TRUCKS  0.9995              
+00010_00006_00005.png           NO OVERTAKING BY TRUCKS  0.9997              
+00010_00006_00006.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00006_00007.png           NO OVERTAKING BY TRUCKS  0.9999              
+00010_00006_00008.png           NO OVERTAKING BY TRUCKS  0.9996              
+00010_00006_00009.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00006_00010.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00006_00011.png           NO OVERTAKING BY TRUCKS  0.9999              
+00010_00006_00012.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00006_00013.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00006_00014.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00006_00015.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00006_00016.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00006_00017.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00006_00018.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00006_00019.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00006_00020.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00006_00021.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00006_00022.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00006_00023.png           NO OVERTAKING BY TRUCKS  0.9999              
+00010_00006_00024.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00006_00025.png           NO OVERTAKING BY TRUCKS  0.9946              
+00010_00006_00026.png           NO OVERTAKING BY TRUCKS  0.9969              
+00010_00006_00027.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00006_00028.png           NO OVERTAKING BY TRUCKS  0.9996              
+00010_00006_00029.png           NO OVERTAKING BY TRUCKS  0.9997              
+00010_00007_00000.png           NO OVERTAKING BY TRUCKS  0.9996              
+00010_00007_00001.png           NO OVERTAKING BY TRUCKS  0.9998              
+00010_00007_00002.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00007_00003.png           NO OVERTAKING BY TRUCKS  0.9971              
+00010_00007_00004.png           NO OVERTAKING BY TRUCKS  0.9996              
+00010_00007_00005.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00007_00006.png           NO OVERTAKING BY TRUCKS  0.9999              
+00010_00007_00007.png           NO OVERTAKING BY TRUCKS  0.9997              
+00010_00007_00008.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00007_00009.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00007_00010.png           NO OVERTAKING BY TRUCKS  0.9998              
+00010_00007_00011.png           NO OVERTAKING BY TRUCKS  0.9993              
+00010_00007_00012.png           NO OVERTAKING BY TRUCKS  0.9995              
+00010_00007_00013.png           NO OVERTAKING BY TRUCKS  0.9999              
+00010_00007_00014.png           NO OVERTAKING BY TRUCKS  0.9992              
+00010_00007_00015.png           NO OVERTAKING BY TRUCKS  0.9993              
+00010_00007_00016.png           NO OVERTAKING BY TRUCKS  0.9997              
+00010_00007_00017.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00007_00018.png           NO OVERTAKING BY TRUCKS  0.9995              
+00010_00007_00019.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00007_00020.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00007_00021.png           NO OVERTAKING BY TRUCKS  0.9999              
+00010_00007_00022.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00007_00023.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00007_00024.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00007_00025.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00007_00026.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00007_00027.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00007_00028.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00007_00029.png           NO OVERTAKING BY TRUCKS  0.9999              
+00010_00008_00000.png           NO OVERTAKING BY TRUCKS  0.9986              
+00010_00008_00001.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00008_00002.png           NO OVERTAKING BY TRUCKS  0.9983              
+00010_00008_00003.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00008_00004.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00008_00005.png           NO OVERTAKING BY TRUCKS  0.9998              
+00010_00008_00006.png           NO OVERTAKING BY TRUCKS  0.9999              
+00010_00008_00007.png           NO OVERTAKING BY TRUCKS  0.9998              
+00010_00008_00008.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00008_00009.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00008_00010.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00008_00011.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00008_00012.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00008_00013.png           NO OVERTAKING BY TRUCKS  0.9998              
+00010_00008_00014.png           NO OVERTAKING BY TRUCKS  0.9996              
+00010_00008_00015.png           NO OVERTAKING BY TRUCKS  0.9999              
+00010_00008_00016.png           NO OVERTAKING BY TRUCKS  0.9934              
+00010_00008_00017.png           NO OVERTAKING BY TRUCKS  0.9999              
+00010_00008_00018.png           NO OVERTAKING BY TRUCKS  0.9999              
+00010_00008_00019.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00008_00020.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00008_00021.png           NO OVERTAKING BY TRUCKS  0.9998              
+00010_00008_00022.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00008_00023.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00008_00024.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00008_00025.png           NO OVERTAKING BY TRUCKS  0.9999              
+00010_00008_00026.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00008_00027.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00008_00028.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00008_00029.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00009_00000.png           NO OVERTAKING BY TRUCKS  0.9999              
+00010_00009_00001.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00009_00002.png           NO OVERTAKING BY TRUCKS  0.9996              
+00010_00009_00003.png           NO OVERTAKING BY TRUCKS  0.9996              
+00010_00009_00004.png           NO OVERTAKING BY TRUCKS  0.9999              
+00010_00009_00005.png           NO OVERTAKING BY TRUCKS  0.9999              
+00010_00009_00006.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00009_00007.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00009_00008.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00009_00009.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00009_00010.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00009_00011.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00009_00012.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00009_00013.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00009_00014.png           NO OVERTAKING BY TRUCKS  0.9999              
+00010_00009_00015.png           NO OVERTAKING BY TRUCKS  0.9999              
+00010_00009_00016.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00009_00017.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00009_00018.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00009_00019.png           NO OVERTAKING BY TRUCKS  0.9705              
+00010_00009_00020.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00009_00021.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00009_00022.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00009_00023.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00009_00024.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00009_00025.png           NO OVERTAKING BY TRUCKS  0.9998              
+00010_00009_00026.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00009_00027.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00009_00028.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00009_00029.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00010_00000.png           NO OVERTAKING BY TRUCKS  0.9913              
+00010_00010_00001.png           NO OVERTAKING BY TRUCKS  0.9987              
+00010_00010_00002.png           NO OVERTAKING BY TRUCKS  0.9905              
+00010_00010_00003.png           NO OVERTAKING BY TRUCKS  0.9985              
+00010_00010_00004.png           NO OVERTAKING BY TRUCKS  0.9967              
+00010_00010_00005.png           NO OVERTAKING BY TRUCKS  0.9998              
+00010_00010_00006.png           NO OVERTAKING BY TRUCKS  0.9998              
+00010_00010_00007.png           NO OVERTAKING BY TRUCKS  0.9998              
+00010_00010_00008.png           NO OVERTAKING BY TRUCKS  0.9988              
+00010_00010_00009.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00010_00010.png           NO OVERTAKING BY TRUCKS  0.9999              
+00010_00010_00011.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00010_00012.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00010_00013.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00010_00014.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00010_00015.png           NO OVERTAKING BY TRUCKS  0.9997              
+00010_00010_00016.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00010_00017.png           NO OVERTAKING BY TRUCKS  0.9999              
+00010_00010_00018.png           NO OVERTAKING BY TRUCKS  0.9999              
+00010_00010_00019.png           NO OVERTAKING BY TRUCKS  0.9999              
+00010_00010_00020.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00010_00021.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00010_00022.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00010_00023.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00010_00024.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00010_00025.png           NO OVERTAKING BY TRUCKS  0.9999              
+00010_00010_00026.png           NO OVERTAKING BY TRUCKS  0.9997              
+00010_00010_00027.png           NO OVERTAKING BY TRUCKS  0.9999              
+00010_00010_00028.png           NO OVERTAKING BY TRUCKS  0.9999              
+00010_00010_00029.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00011_00000.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00011_00001.png           NO OVERTAKING BY TRUCKS  0.9997              
+00010_00011_00002.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00011_00003.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00011_00004.png           NO OVERTAKING BY TRUCKS  0.9996              
+00010_00011_00005.png           NO OVERTAKING BY TRUCKS  0.9993              
+00010_00011_00006.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00011_00007.png           NO OVERTAKING BY TRUCKS  0.9998              
+00010_00011_00008.png           NO OVERTAKING BY TRUCKS  0.9980              
+00010_00011_00009.png           NO OVERTAKING BY TRUCKS  0.9842              
+00010_00011_00010.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00011_00011.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00011_00012.png           NO OVERTAKING BY TRUCKS  0.9997              
+00010_00011_00013.png           NO OVERTAKING BY TRUCKS  0.9998              
+00010_00011_00014.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00011_00015.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00011_00016.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00011_00017.png           NO OVERTAKING BY TRUCKS  0.9713              
+00010_00011_00018.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00011_00019.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00011_00020.png           NO OVERTAKING BY TRUCKS  0.9999              
+00010_00011_00021.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00011_00022.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00011_00023.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00011_00024.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00011_00025.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00011_00026.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00011_00027.png           NO OVERTAKING BY TRUCKS  0.9999              
+00010_00011_00028.png           NO OVERTAKING BY TRUCKS  0.9995              
+00010_00011_00029.png           NO OVERTAKING BY TRUCKS  0.9999              
+00010_00012_00000.png           NO OVERTAKING BY TRUCKS  0.9991              
+00010_00012_00001.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00012_00002.png           NO OVERTAKING BY TRUCKS  0.9938              
+00010_00012_00003.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00012_00004.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00012_00005.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00012_00006.png           NO OVERTAKING BY TRUCKS  0.9999              
+00010_00012_00007.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00012_00008.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00012_00009.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00012_00010.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00012_00011.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00012_00012.png           NO OVERTAKING BY TRUCKS  0.9999              
+00010_00012_00013.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00012_00014.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00012_00015.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00012_00016.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00012_00017.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00012_00018.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00012_00019.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00012_00020.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00012_00021.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00012_00022.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00012_00023.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00012_00024.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00012_00025.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00012_00026.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00012_00027.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00012_00028.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00012_00029.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00013_00000.png           NO OVERTAKING BY TRUCKS  0.9999              
+00010_00013_00001.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00013_00002.png           NO OVERTAKING BY TRUCKS  0.9993              
+00010_00013_00003.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00013_00004.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00013_00005.png           NO OVERTAKING BY TRUCKS  0.9998              
+00010_00013_00006.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00013_00007.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00013_00008.png           NO OVERTAKING BY TRUCKS  0.9998              
+00010_00013_00009.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00013_00010.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00013_00011.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00013_00012.png           NO OVERTAKING BY TRUCKS  0.9998              
+00010_00013_00013.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00013_00014.png           NO OVERTAKING BY TRUCKS  0.9997              
+00010_00013_00015.png           NO OVERTAKING BY TRUCKS  0.9829              
+00010_00013_00016.png           NO OVERTAKING BY TRUCKS  0.9999              
+00010_00013_00017.png           NO OVERTAKING BY TRUCKS  0.9989              
+00010_00013_00018.png           NO OVERTAKING BY TRUCKS  0.9966              
+00010_00013_00019.png           NO OVERTAKING BY TRUCKS  0.9996              
+00010_00013_00020.png           NO OVERTAKING BY TRUCKS  0.9905              
+00010_00013_00021.png           NO OVERTAKING BY TRUCKS  0.9999              
+00010_00013_00022.png           NO OVERTAKING BY TRUCKS  0.9997              
+00010_00013_00023.png           NO OVERTAKING BY TRUCKS  0.9999              
+00010_00013_00024.png           NO OVERTAKING BY TRUCKS  0.9950              
+00010_00013_00025.png           NO OVERTAKING BY TRUCKS  0.9994              
+00010_00013_00026.png           NO OVERTAKING BY TRUCKS  0.9999              
+00010_00013_00027.png           NO OVERTAKING BY TRUCKS  0.9999              
+00010_00013_00028.png           NO OVERTAKING BY TRUCKS  0.9990              
+00010_00013_00029.png           NO OVERTAKING BY TRUCKS  0.9997              
+00010_00014_00000.png           NO OVERTAKING BY TRUCKS  0.9259              
+00010_00014_00001.png          SPEED LIMIT 120           0.6641              
+00010_00014_00002.png           NO OVERTAKING BY TRUCKS  0.9896              
+00010_00014_00003.png           NO OVERTAKING BY TRUCKS  0.9999              
+00010_00014_00004.png           NO OVERTAKING BY TRUCKS  0.7921              
+00010_00014_00005.png           NO OVERTAKING BY TRUCKS  0.9941              
+00010_00014_00006.png           NO OVERTAKING BY TRUCKS  0.8969              
+00010_00014_00007.png           NO OVERTAKING BY TRUCKS  0.9953              
+00010_00014_00008.png           NO OVERTAKING BY TRUCKS  0.8600              
+00010_00014_00009.png           NO OVERTAKING BY TRUCKS  0.7031              
+00010_00014_00010.png           NO OVERTAKING BY TRUCKS  0.9979              
+00010_00014_00011.png           NO OVERTAKING BY TRUCKS  0.9981              
+00010_00014_00012.png           NO OVERTAKING BY TRUCKS  0.9972              
+00010_00014_00013.png           NO OVERTAKING BY TRUCKS  0.9940              
+00010_00014_00014.png           NO OVERTAKING BY TRUCKS  0.9702              
+00010_00014_00015.png           NO OVERTAKING BY TRUCKS  0.5989              
+00010_00014_00016.png           NO OVERTAKING BY TRUCKS  0.9930              
+00010_00014_00017.png           NO OVERTAKING BY TRUCKS  0.8481              
+00010_00014_00018.png           NO OVERTAKING BY TRUCKS  0.8519              
+00010_00014_00019.png           NO TRUCKS                0.7032              
+00010_00014_00020.png           NO OVERTAKING BY TRUCKS  0.8419              
+00010_00014_00021.png           NO OVERTAKING BY TRUCKS  0.9994              
+00010_00014_00022.png           NO OVERTAKING BY TRUCKS  0.9933              
+00010_00014_00023.png           NO OVERTAKING BY TRUCKS  0.9510              
+00010_00014_00024.png           NO OVERTAKING BY TRUCKS  0.9409              
+00010_00014_00025.png           NO OVERTAKING BY TRUCKS  0.9082              
+00010_00014_00026.png           NO OVERTAKING BY TRUCKS  0.7348              
+00010_00014_00027.png           NO OVERTAKING BY TRUCKS  0.9957              
+00010_00014_00028.png           NO OVERTAKING BY TRUCKS  0.9921              
+00010_00014_00029.png           NO OVERTAKING BY TRUCKS  0.9454              
+00010_00015_00000.png          SPEED LIMIT 120           0.9723              
+00010_00015_00001.png          SPEED LIMIT 120           0.7283              
+00010_00015_00002.png          SPEED LIMIT 120           0.9253              
+00010_00015_00003.png          SPEED LIMIT 120           0.9968              
+00010_00015_00004.png          SPEED LIMIT 120           0.9238              
+00010_00015_00005.png          SPEED LIMIT 60            0.8312              
+00010_00015_00006.png          SPEED LIMIT 120           0.6465              
+00010_00015_00007.png          SPEED LIMIT 120           0.5033              
+00010_00015_00008.png          SPEED LIMIT 120           0.7427              
+00010_00015_00009.png          SPEED LIMIT 120           0.5036              
+00010_00015_00010.png          SPEED LIMIT 80            0.9115              
+00010_00015_00011.png          SPEED LIMIT 120           0.5493              
+00010_00015_00012.png          SPEED LIMIT 80            0.9026              
+00010_00015_00013.png          SPEED LIMIT 120           0.9663              
+00010_00015_00014.png          SPEED LIMIT 120           0.6957              
+00010_00015_00015.png          SPEED LIMIT 80            0.9179              
+00010_00015_00016.png          SPEED LIMIT 120           0.5480              
+00010_00015_00017.png          SPEED LIMIT 120           0.2518              
+00010_00015_00018.png          SPEED LIMIT 120           0.9869              
+00010_00015_00019.png          SPEED LIMIT 120           0.9937              
+00010_00015_00020.png          SPEED LIMIT 120           0.8771              
+00010_00015_00021.png          SPEED LIMIT 120           0.6140              
+00010_00015_00022.png           NO OVERTAKING BY TRUCKS  0.7395              
+00010_00015_00023.png           NO OVERTAKING BY TRUCKS  0.7365              
+00010_00015_00024.png           NO TRUCKS                0.5171              
+00010_00015_00025.png           NO TRUCKS                0.6486              
+00010_00015_00026.png           NO OVERTAKING BY TRUCKS  0.9112              
+00010_00015_00027.png           NO OVERTAKING BY TRUCKS  0.8348              
+00010_00015_00028.png          SPEED LIMIT 120           0.6222              
+00010_00015_00029.png          NO OVERTAKING             0.5188              
+00010_00016_00000.png          NO OVERTAKING             0.6010              
+00010_00016_00001.png          SPEED LIMIT 120           0.4511              
+00010_00016_00002.png          SPEED LIMIT 60            0.5706              
+00010_00016_00003.png          SPEED LIMIT 120           0.7906              
+00010_00016_00004.png          SPEED LIMIT 60            0.9998              
+00010_00016_00005.png          SPEED LIMIT 30            0.9122              
+00010_00016_00006.png          SPEED LIMIT 60            0.9841              
+00010_00016_00007.png          SPEED LIMIT 120           0.8624              
+00010_00016_00008.png          NO OVERTAKING             0.9986              
+00010_00016_00009.png          NO OVERTAKING             0.9821              
+00010_00016_00010.png          SPEED LIMIT 60            0.5136              
+00010_00016_00011.png          NO OVERTAKING             0.5817              
+00010_00016_00012.png          NO OVERTAKING             0.9998              
+00010_00016_00013.png          NO OVERTAKING             0.5844              
+00010_00016_00014.png          NO OVERTAKING             0.9927              
+00010_00016_00015.png          SPEED LIMIT 120           0.7508              
+00010_00016_00016.png          SPEED LIMIT 120           0.4851              
+00010_00016_00017.png           NO TRUCKS                0.7844              
+00010_00016_00018.png          NO OVERTAKING             0.5547              
+00010_00016_00019.png           NO OVERTAKING BY TRUCKS  0.4856              
+00010_00016_00020.png           NO OVERTAKING BY TRUCKS  0.5621              
+00010_00016_00021.png           NO TRUCKS                0.8756              
+00010_00016_00022.png           NO TRUCKS                0.7531              
+00010_00016_00023.png           NO TRUCKS                0.6910              
+00010_00016_00024.png           NO OVERTAKING BY TRUCKS  0.4818              
+00010_00016_00025.png           NO OVERTAKING BY TRUCKS  0.6521              
+00010_00016_00026.png           NO TRUCKS                0.5939              
+00010_00016_00027.png           NO OVERTAKING BY TRUCKS  0.9733              
+00010_00016_00028.png           NO OVERTAKING BY TRUCKS  0.9971              
+00010_00016_00029.png           NO OVERTAKING BY TRUCKS  0.9816              
+00010_00017_00000.png          SPEED LIMIT 60            1.0000              
+00010_00017_00001.png          SPEED LIMIT 60            0.9885              
+00010_00017_00002.png          SPEED LIMIT 60            0.9995              
+00010_00017_00003.png          SPEED LIMIT 60            0.9644              
+00010_00017_00004.png          SPEED LIMIT 80            0.6474              
+00010_00017_00005.png          SPEED LIMIT 60            0.4235              
+00010_00017_00006.png          SPEED LIMIT 80            0.8679              
+00010_00017_00007.png          SPEED LIMIT 60            0.7616              
+00010_00017_00008.png          SPEED LIMIT 80            0.7256              
+00010_00017_00009.png          SPEED LIMIT 60            0.5167              
+00010_00017_00010.png          SPEED LIMIT 80            0.9987              
+00010_00017_00011.png          SPEED LIMIT 80            0.9961              
+00010_00017_00012.png          SPEED LIMIT 80            0.9324              
+00010_00017_00013.png          SPEED LIMIT 80            0.8579              
+00010_00017_00014.png          SPEED LIMIT 80            0.7122              
+00010_00017_00015.png          SPEED LIMIT 80            0.9959              
+00010_00017_00016.png          SPEED LIMIT 80            0.7534              
+00010_00017_00017.png          SPEED LIMIT 80            0.8261              
+00010_00017_00018.png          NO OVERTAKING             0.9778              
+00010_00017_00019.png          NO OVERTAKING             0.6894              
+00010_00017_00020.png           NO TRUCKS                0.4759              
+00010_00017_00021.png          NO OVERTAKING             0.9752              
+00010_00017_00022.png          NO OVERTAKING             0.8441              
+00010_00017_00023.png          NO OVERTAKING             0.9919              
+00010_00017_00024.png          NO OVERTAKING             0.9410              
+00010_00017_00025.png          NO OVERTAKING             0.9356              
+00010_00017_00026.png          NO OVERTAKING             0.9619              
+00010_00017_00027.png          NO OVERTAKING             0.8493              
+00010_00017_00028.png           NO TRUCKS                0.5794              
+00010_00017_00029.png          NO OVERTAKING             0.6972              
+00010_00018_00000.png          NO OVERTAKING             0.5348              
+00010_00018_00001.png          NO OVERTAKING             0.7982              
+00010_00018_00002.png          SPEED LIMIT 60            0.9849              
+00010_00018_00003.png          SPEED LIMIT 60            0.9968              
+00010_00018_00004.png          NO OVERTAKING             0.8297              
+00010_00018_00005.png          SPEED LIMIT 80            0.5996              
+00010_00018_00006.png          NO OVERTAKING             0.7149              
+00010_00018_00007.png          NO OVERTAKING             0.9980              
+00010_00018_00008.png          NO OVERTAKING             0.9852              
+00010_00018_00009.png          NO OVERTAKING             0.7251              
+00010_00018_00010.png          NO OVERTAKING             0.5593              
+00010_00018_00011.png          SPEED LIMIT 80            0.7489              
+00010_00018_00012.png          NO OVERTAKING             0.9577              
+00010_00018_00013.png          SPEED LIMIT 80            0.7640              
+00010_00018_00014.png          NO OVERTAKING             0.7307              
+00010_00018_00015.png          SPEED LIMIT 120           0.8659              
+00010_00018_00016.png          NO OVERTAKING             0.8878              
+00010_00018_00017.png          NO OVERTAKING             0.8458              
+00010_00018_00018.png          NO OVERTAKING             0.9590              
+00010_00018_00019.png          NO OVERTAKING             0.9523              
+00010_00018_00020.png          NO OVERTAKING             0.7735              
+00010_00018_00021.png          NO OVERTAKING             0.9909              
+00010_00018_00022.png          NO OVERTAKING             0.9918              
+00010_00018_00023.png          NO OVERTAKING             0.9768              
+00010_00018_00024.png          NO OVERTAKING             0.9859              
+00010_00018_00025.png          NO OVERTAKING             0.9921              
+00010_00018_00026.png          NO OVERTAKING             0.9842              
+00010_00018_00027.png          NO OVERTAKING             0.9996              
+00010_00018_00028.png          NO OVERTAKING             0.9998              
+00010_00018_00029.png          NO OVERTAKING             0.9796              
+00010_00019_00000.png           NO TRUCKS                0.3949              
+00010_00019_00001.png           NO TRUCKS                0.7363              
+00010_00019_00002.png           NO OVERTAKING BY TRUCKS  0.9870              
+00010_00019_00003.png           NO ENTRY FOR VEHICLES    0.5407              
+00010_00019_00004.png           NO OVERTAKING BY TRUCKS  0.6587              
+00010_00019_00005.png          SPEED LIMIT 120           0.6410              
+00010_00019_00006.png          SPEED LIMIT 120           0.5320              
+00010_00019_00007.png          SPEED LIMIT 60            0.9362              
+00010_00019_00008.png          SPEED LIMIT 80            0.8850              
+00010_00019_00009.png           NO OVERTAKING BY TRUCKS  0.9745              
+00010_00019_00010.png           NO OVERTAKING BY TRUCKS  0.9833              
+00010_00019_00011.png           NO OVERTAKING BY TRUCKS  0.9888              
+00010_00019_00012.png           NO OVERTAKING BY TRUCKS  0.9924              
+00010_00019_00013.png           NO OVERTAKING BY TRUCKS  0.8918              
+00010_00019_00014.png           NO TRUCKS                0.5602              
+00010_00019_00015.png           NO OVERTAKING BY TRUCKS  0.9642              
+00010_00019_00016.png           NO OVERTAKING BY TRUCKS  0.9634              
+00010_00019_00017.png           NO OVERTAKING BY TRUCKS  0.4560              
+00010_00019_00018.png           NO OVERTAKING BY TRUCKS  0.9799              
+00010_00019_00019.png           NO OVERTAKING BY TRUCKS  0.9370              
+00010_00019_00020.png           NO TRUCKS                0.4836              
+00010_00019_00021.png           NO OVERTAKING BY TRUCKS  0.7011              
+00010_00019_00022.png           NO OVERTAKING BY TRUCKS  0.7565              
+00010_00019_00023.png          NO OVERTAKING             0.7213              
+00010_00019_00024.png           NO OVERTAKING BY TRUCKS  0.5152              
+00010_00019_00025.png          NO OVERTAKING             0.8038              
+00010_00019_00026.png          NO OVERTAKING             0.9976              
+00010_00019_00027.png           NO TRUCKS                0.9229              
+00010_00019_00028.png           NO TRUCKS                0.9119              
+00010_00019_00029.png           NO TRUCKS                0.9933              
+00010_00020_00000.png          SPEED LIMIT 60            0.9535              
+00010_00020_00001.png          SPEED LIMIT 60            0.9997              
+00010_00020_00002.png          END OF SPEED LIMIT 80     0.9040              
+00010_00020_00003.png          SPEED LIMIT 60            0.9993              
+00010_00020_00004.png          SPEED LIMIT 60            0.9910              
+00010_00020_00005.png          SPEED LIMIT 60            0.7713              
+00010_00020_00006.png          SPEED LIMIT 60            0.9901              
+00010_00020_00007.png          SPEED LIMIT 60            1.0000              
+00010_00020_00008.png          SPEED LIMIT 60            0.9777              
+00010_00020_00009.png          SPEED LIMIT 60            0.9997              
+00010_00020_00010.png          SPEED LIMIT 60            0.9056              
+00010_00020_00011.png          END OF SPEED LIMIT 80     0.6421              
+00010_00020_00012.png          SPEED LIMIT 60            0.9839              
+00010_00020_00013.png          SPEED LIMIT 80            0.9733              
+00010_00020_00014.png          SPEED LIMIT 60            1.0000              
+00010_00020_00015.png          SPEED LIMIT 60            1.0000              
+00010_00020_00016.png          SPEED LIMIT 60            1.0000              
+00010_00020_00017.png          SPEED LIMIT 60            0.9864              
+00010_00020_00018.png           NO TRUCKS                0.6716              
+00010_00020_00019.png          SPEED LIMIT 60            0.7348              
+00010_00020_00020.png          SPEED LIMIT 120           0.4016              
+00010_00020_00021.png           NO TRUCKS                0.5875              
+00010_00020_00022.png           NO OVERTAKING BY TRUCKS  0.7098              
+00010_00020_00023.png           NO TRUCKS                0.6206              
+00010_00020_00024.png           NO TRUCKS                0.9383              
+00010_00020_00025.png          SPEED LIMIT 120           0.5395              
+00010_00020_00026.png           NO TRUCKS                0.9670              
+00010_00020_00027.png           NO TRUCKS                0.9129              
+00010_00020_00028.png           NO TRUCKS                0.9774              
+00010_00020_00029.png           NO TRUCKS                0.6634              
+00010_00021_00000.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00021_00001.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00021_00002.png           NO OVERTAKING BY TRUCKS  0.9999              
+00010_00021_00003.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00021_00004.png           NO OVERTAKING BY TRUCKS  0.9999              
+00010_00021_00005.png           NO OVERTAKING BY TRUCKS  0.9950              
+00010_00021_00006.png           NO OVERTAKING BY TRUCKS  0.9901              
+00010_00021_00007.png           NO OVERTAKING BY TRUCKS  0.9946              
+00010_00021_00008.png           NO OVERTAKING BY TRUCKS  0.9996              
+00010_00021_00009.png           NO OVERTAKING BY TRUCKS  0.9996              
+00010_00021_00010.png           NO OVERTAKING BY TRUCKS  0.9992              
+00010_00021_00011.png           NO OVERTAKING BY TRUCKS  0.9999              
+00010_00021_00012.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00021_00013.png           NO OVERTAKING BY TRUCKS  0.9993              
+00010_00021_00014.png           NO OVERTAKING BY TRUCKS  0.9700              
+00010_00021_00015.png           NO OVERTAKING BY TRUCKS  0.9998              
+00010_00021_00016.png           NO OVERTAKING BY TRUCKS  0.9999              
+00010_00021_00017.png           NO OVERTAKING BY TRUCKS  0.9998              
+00010_00021_00018.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00021_00019.png           NO OVERTAKING BY TRUCKS  0.9999              
+00010_00021_00020.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00021_00021.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00021_00022.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00021_00023.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00021_00024.png           NO OVERTAKING BY TRUCKS  0.9999              
+00010_00021_00025.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00021_00026.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00021_00027.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00021_00028.png           NO OVERTAKING BY TRUCKS  0.9999              
+00010_00021_00029.png           NO OVERTAKING BY TRUCKS  0.9999              
+00010_00022_00000.png           NO OVERTAKING BY TRUCKS  0.9997              
+00010_00022_00001.png           NO OVERTAKING BY TRUCKS  0.9989              
+00010_00022_00002.png           NO OVERTAKING BY TRUCKS  0.9998              
+00010_00022_00003.png           NO OVERTAKING BY TRUCKS  0.9954              
+00010_00022_00004.png           NO OVERTAKING BY TRUCKS  0.5307              
+00010_00022_00005.png          SPEED LIMIT 80            0.5874              
+00010_00022_00006.png           NO OVERTAKING BY TRUCKS  0.9996              
+00010_00022_00007.png           NO OVERTAKING BY TRUCKS  0.8756              
+00010_00022_00008.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00022_00009.png           NO OVERTAKING BY TRUCKS  0.9131              
+00010_00022_00010.png           NO OVERTAKING BY TRUCKS  0.9389              
+00010_00022_00011.png           NO OVERTAKING BY TRUCKS  0.9898              
+00010_00022_00012.png           NO OVERTAKING BY TRUCKS  0.9691              
+00010_00022_00013.png          SPEED LIMIT 60            0.6469              
+00010_00022_00014.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00022_00015.png           NO OVERTAKING BY TRUCKS  0.9954              
+00010_00022_00016.png           NO OVERTAKING BY TRUCKS  0.9872              
+00010_00022_00017.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00022_00018.png           NO OVERTAKING BY TRUCKS  0.9999              
+00010_00022_00019.png           NO OVERTAKING BY TRUCKS  0.9989              
+00010_00022_00020.png           NO OVERTAKING BY TRUCKS  0.8688              
+00010_00022_00021.png           NO OVERTAKING BY TRUCKS  0.8266              
+00010_00022_00022.png           NO OVERTAKING BY TRUCKS  0.9051              
+00010_00022_00023.png           NO OVERTAKING BY TRUCKS  0.9988              
+00010_00022_00024.png           NO OVERTAKING BY TRUCKS  0.9995              
+00010_00022_00025.png           NO OVERTAKING BY TRUCKS  0.9994              
+00010_00022_00026.png           NO OVERTAKING BY TRUCKS  0.9993              
+00010_00022_00027.png           NO OVERTAKING BY TRUCKS  0.9357              
+00010_00022_00028.png          NO OVERTAKING             0.7104              
+00010_00022_00029.png           NO OVERTAKING BY TRUCKS  0.6021              
+00010_00023_00000.png          SPEED LIMIT 80            0.8866              
+00010_00023_00001.png          SPEED LIMIT 60            0.7982              
+00010_00023_00002.png          SPEED LIMIT 60            0.7327              
+00010_00023_00003.png          SPEED LIMIT 60            0.9939              
+00010_00023_00004.png          SPEED LIMIT 60            0.6405              
+00010_00023_00005.png          SPEED LIMIT 100           0.9486              
+00010_00023_00006.png          SPEED LIMIT 60            0.9952              
+00010_00023_00007.png          SPEED LIMIT 60            0.9995              
+00010_00023_00008.png           NO TRUCKS                0.7188              
+00010_00023_00009.png           NO TRUCKS                0.6265              
+00010_00023_00010.png          SPEED LIMIT 60            0.9592              
+00010_00023_00011.png           NO OVERTAKING BY TRUCKS  0.5216              
+00010_00023_00012.png          SPEED LIMIT 60            0.8681              
+00010_00023_00013.png           NO OVERTAKING BY TRUCKS  0.9243              
+00010_00023_00014.png           NO OVERTAKING BY TRUCKS  0.7016              
+00010_00023_00015.png           NO OVERTAKING BY TRUCKS  0.5390              
+00010_00023_00016.png           NO TRUCKS                0.6795              
+00010_00023_00017.png           NO OVERTAKING BY TRUCKS  0.8664              
+00010_00023_00018.png           NO OVERTAKING BY TRUCKS  0.9320              
+00010_00023_00019.png          SPEED LIMIT 120           0.5204              
+00010_00023_00020.png          SPEED LIMIT 120           0.9989              
+00010_00023_00021.png          SPEED LIMIT 120           0.9977              
+00010_00023_00022.png          SPEED LIMIT 120           0.9466              
+00010_00023_00023.png          SPEED LIMIT 120           0.8105              
+00010_00023_00024.png          SPEED LIMIT 120           0.9878              
+00010_00023_00025.png          END OF SPEED LIMIT 80     0.9775              
+00010_00023_00026.png          SPEED LIMIT 120           0.9996              
+00010_00023_00027.png          SPEED LIMIT 120           0.9916              
+00010_00023_00028.png          SPEED LIMIT 120           0.9270              
+00010_00023_00029.png           NO OVERTAKING BY TRUCKS  0.6230              
+00010_00024_00000.png           TURN RIGHT               0.8800              
+00010_00024_00001.png          SPEED LIMIT 60            0.9998              
+00010_00024_00002.png          SPEED LIMIT 60            0.9999              
+00010_00024_00003.png          SPEED LIMIT 60            0.9950              
+00010_00024_00004.png          SPEED LIMIT 60            1.0000              
+00010_00024_00005.png          SPEED LIMIT 60            0.9947              
+00010_00024_00006.png          SPEED LIMIT 60            0.5318              
+00010_00024_00007.png          SPEED LIMIT 60            0.9194              
+00010_00024_00008.png          SPEED LIMIT 30            0.5038              
+00010_00024_00009.png          SPEED LIMIT 100           0.5459              
+00010_00024_00010.png          END OF SPEED LIMIT 80     0.7858              
+00010_00024_00011.png           NO OVERTAKING BY TRUCKS  0.3816              
+00010_00024_00012.png          END OF SPEED LIMIT 80     0.5024              
+00010_00024_00013.png          END OF SPEED LIMIT 80     0.7012              
+00010_00024_00014.png          SPEED LIMIT 50            0.5498              
+00010_00024_00015.png          SPEED LIMIT 120           0.8491              
+00010_00024_00016.png          SPEED LIMIT 80            0.7878              
+00010_00024_00017.png          SPEED LIMIT 80            0.9948              
+00010_00024_00018.png          SPEED LIMIT 80            0.6042              
+00010_00024_00019.png          SPEED LIMIT 80            0.9395              
+00010_00024_00020.png          SPEED LIMIT 80            0.9283              
+00010_00024_00021.png          SPEED LIMIT 120           0.9236              
+00010_00024_00022.png          SPEED LIMIT 80            0.9312              
+00010_00024_00023.png          SPEED LIMIT 80            0.9940              
+00010_00024_00024.png           NO OVERTAKING BY TRUCKS  0.9084              
+00010_00024_00025.png          NO OVERTAKING             0.5244              
+00010_00024_00026.png          SPEED LIMIT 80            0.9781              
+00010_00024_00027.png           NO OVERTAKING BY TRUCKS  0.5883              
+00010_00024_00028.png          NO OVERTAKING             0.8141              
+00010_00024_00029.png           NO OVERTAKING BY TRUCKS  0.9566              
+00010_00025_00000.png          SPEED LIMIT 60            0.8837              
+00010_00025_00001.png          SPEED LIMIT 60            0.8675              
+00010_00025_00002.png           NO TRUCKS                0.6695              
+00010_00025_00003.png          SPEED LIMIT 60            0.3830              
+00010_00025_00004.png          SPEED LIMIT 60            0.9961              
+00010_00025_00005.png           NO OVERTAKING BY TRUCKS  0.7617              
+00010_00025_00006.png          SPEED LIMIT 60            0.4256              
+00010_00025_00007.png          SPEED LIMIT 60            0.9859              
+00010_00025_00008.png          SPEED LIMIT 60            0.9979              
+00010_00025_00009.png           NO TRUCKS                0.9836              
+00010_00025_00010.png          SPEED LIMIT 60            0.8941              
+00010_00025_00011.png           NO TRUCKS                0.9526              
+00010_00025_00012.png           NO TRUCKS                0.5810              
+00010_00025_00013.png           NO OVERTAKING BY TRUCKS  0.8455              
+00010_00025_00014.png           NO OVERTAKING BY TRUCKS  0.9002              
+00010_00025_00015.png           NO OVERTAKING BY TRUCKS  0.9827              
+00010_00025_00016.png           NO OVERTAKING BY TRUCKS  0.9026              
+00010_00025_00017.png          SPEED LIMIT 120           0.8807              
+00010_00025_00018.png          SPEED LIMIT 120           0.8525              
+00010_00025_00019.png           NO OVERTAKING BY TRUCKS  0.9970              
+00010_00025_00020.png          SPEED LIMIT 120           0.5346              
+00010_00025_00021.png           NO TRUCKS                0.7308              
+00010_00025_00022.png           NO OVERTAKING BY TRUCKS  0.9995              
+00010_00025_00023.png           NO OVERTAKING BY TRUCKS  0.9915              
+00010_00025_00024.png           NO OVERTAKING BY TRUCKS  0.9958              
+00010_00025_00025.png           NO OVERTAKING BY TRUCKS  0.9861              
+00010_00025_00026.png           NO OVERTAKING BY TRUCKS  0.9995              
+00010_00025_00027.png           NO OVERTAKING BY TRUCKS  0.9963              
+00010_00025_00028.png           NO OVERTAKING BY TRUCKS  0.9924              
+00010_00025_00029.png           NO OVERTAKING BY TRUCKS  0.6472              
+00010_00026_00000.png          END OF SPEED LIMIT 80     0.9816              
+00010_00026_00001.png           END OF NO OVERTAKING FOR TRUCKS 0.4988              
+00010_00026_00002.png          END OF SPEED LIMIT 80     0.9999              
+00010_00026_00003.png          END OF SPEED LIMIT 80     0.6114              
+00010_00026_00004.png           TURN LEFT                0.6537              
+00010_00026_00005.png          END OF SPEED LIMIT 80     0.4939              
+00010_00026_00006.png           NO OVERTAKING BY TRUCKS  0.9312              
+00010_00026_00007.png          END OF SPEED LIMIT 80     0.5201              
+00010_00026_00008.png          SPEED LIMIT 60            0.3931              
+00010_00026_00009.png          SPEED LIMIT 120           0.8119              
+00010_00026_00010.png          SPEED LIMIT 60            0.3618              
+00010_00026_00011.png          END OF SPEED LIMIT 80     0.2618              
+00010_00026_00012.png           TURN LEFT                0.4166              
+00010_00026_00013.png           TURN LEFT                0.6687              
+00010_00026_00014.png           NO OVERTAKING BY TRUCKS  0.9389              
+00010_00026_00015.png           NO OVERTAKING BY TRUCKS  0.9997              
+00010_00026_00016.png           NO OVERTAKING BY TRUCKS  0.9933              
+00010_00026_00017.png          SPEED LIMIT 60            0.5739              
+00010_00026_00018.png           NO ENTRY FOR VEHICLES    0.5558              
+00010_00026_00019.png           NO TRUCKS                0.9166              
+00010_00026_00020.png           NO ENTRY FOR VEHICLES    0.5419              
+00010_00026_00021.png           NO TRUCKS                0.7683              
+00010_00026_00022.png           NO ENTRY FOR VEHICLES    0.9126              
+00010_00026_00023.png           NO TRUCKS                0.8202              
+00010_00026_00024.png          SPEED LIMIT 60            0.8156              
+00010_00026_00025.png           NO TRUCKS                0.8055              
+00010_00026_00026.png           NO OVERTAKING BY TRUCKS  0.5411              
+00010_00026_00027.png           NO ENTRY FOR VEHICLES    0.5449              
+00010_00026_00028.png           NO TRUCKS                0.9851              
+00010_00026_00029.png           NO TRUCKS                0.9994              
+00010_00027_00000.png           NO OVERTAKING BY TRUCKS  0.4352              
+00010_00027_00001.png          END OF SPEED LIMIT 80     0.9972              
+00010_00027_00002.png          END OF SPEED LIMIT 80     0.9450              
+00010_00027_00003.png          END OF SPEED LIMIT 80     0.9984              
+00010_00027_00004.png          END OF SPEED LIMIT 80     0.6521              
+00010_00027_00005.png          SPEED LIMIT 120           0.4780              
+00010_00027_00006.png          SPEED LIMIT 80            0.9969              
+00010_00027_00007.png           NO TRUCKS                0.6049              
+00010_00027_00008.png          SPEED LIMIT 80            0.7401              
+00010_00027_00009.png          SPEED LIMIT 80            0.5852              
+00010_00027_00010.png           NO TRUCKS                0.8314              
+00010_00027_00011.png           NO TRUCKS                0.9500              
+00010_00027_00012.png          SPEED LIMIT 80            0.8133              
+00010_00027_00013.png          SPEED LIMIT 120           0.5203              
+00010_00027_00014.png          SPEED LIMIT 80            0.8168              
+00010_00027_00015.png          SPEED LIMIT 80            0.9467              
+00010_00027_00016.png           NO TRUCKS                0.8488              
+00010_00027_00017.png          SPEED LIMIT 80            0.9313              
+00010_00027_00018.png          SPEED LIMIT 80            0.8183              
+00010_00027_00019.png          SPEED LIMIT 80            0.4932              
+00010_00027_00020.png          SPEED LIMIT 80            0.9925              
+00010_00027_00021.png           NO OVERTAKING BY TRUCKS  0.5593              
+00010_00027_00022.png           NO TRUCKS                0.6180              
+00010_00027_00023.png           NO OVERTAKING BY TRUCKS  0.5986              
+00010_00027_00024.png           TURN LEFT                0.7069              
+00010_00027_00025.png           NO TRUCKS                0.8375              
+00010_00027_00026.png           NO OVERTAKING BY TRUCKS  0.5484              
+00010_00027_00027.png           NO OVERTAKING BY TRUCKS  0.4305              
+00010_00027_00028.png           NO OVERTAKING BY TRUCKS  0.6971              
+00010_00027_00029.png           NO OVERTAKING BY TRUCKS  0.9025              
+00010_00028_00000.png          END OF SPEED LIMIT 80     0.9234              
+00010_00028_00001.png           NO TRUCKS                0.9844              
+00010_00028_00002.png          END OF SPEED LIMIT 80     0.4208              
+00010_00028_00003.png          SPEED LIMIT 80            0.8466              
+00010_00028_00004.png           NO TRUCKS                0.5291              
+00010_00028_00005.png          END OF SPEED LIMIT 80     0.5196              
+00010_00028_00006.png          SPEED LIMIT 120           0.4317              
+00010_00028_00007.png           NO TRUCKS                0.8257              
+00010_00028_00008.png          END OF SPEED LIMIT 80     0.9654              
+00010_00028_00009.png          END OF SPEED LIMIT 80     0.7718              
+00010_00028_00010.png          END OF SPEED LIMIT 80     0.8763              
+00010_00028_00011.png           NO TRUCKS                0.8984              
+00010_00028_00012.png           NO OVERTAKING BY TRUCKS  0.7303              
+00010_00028_00013.png           NO OVERTAKING BY TRUCKS  0.8991              
+00010_00028_00014.png           NO OVERTAKING BY TRUCKS  0.9935              
+00010_00028_00015.png          END OF SPEED LIMIT 80     0.3864              
+00010_00028_00016.png          END OF SPEED LIMIT 80     0.7566              
+00010_00028_00017.png          SPEED LIMIT 120           0.5025              
+00010_00028_00018.png           NO OVERTAKING BY TRUCKS  0.9976              
+00010_00028_00019.png           NO OVERTAKING BY TRUCKS  0.9940              
+00010_00028_00020.png          SPEED LIMIT 60            0.7894              
+00010_00028_00021.png           NO OVERTAKING BY TRUCKS  0.9107              
+00010_00028_00022.png          END OF SPEED LIMIT 80     0.5011              
+00010_00028_00023.png          NO OVERTAKING             0.6165              
+00010_00028_00024.png           TURN LEFT                0.5835              
+00010_00028_00025.png           TURN LEFT                0.5433              
+00010_00028_00026.png           NO TRUCKS                0.4411              
+00010_00028_00027.png          SPEED LIMIT 60            0.8079              
+00010_00028_00028.png           TURN LEFT                0.9938              
+00010_00028_00029.png           NO OVERTAKING BY TRUCKS  0.3107              
+00010_00029_00000.png          SPEED LIMIT 30            0.9382              
+00010_00029_00001.png           ROUNDABOUT               0.9903              
+00010_00029_00002.png          SPEED LIMIT 60            0.9739              
+00010_00029_00003.png          SPEED LIMIT 60            0.9168              
+00010_00029_00004.png          SPEED LIMIT 30            0.5358              
+00010_00029_00005.png          SPEED LIMIT 30            0.8752              
+00010_00029_00006.png          SPEED LIMIT 30            0.7934              
+00010_00029_00007.png          SPEED LIMIT 30            0.8160              
+00010_00029_00008.png           ROUNDABOUT               0.7351              
+00010_00029_00009.png          SPEED LIMIT 30            0.8598              
+00010_00029_00010.png           ROUNDABOUT               0.3525              
+00010_00029_00011.png          SPEED LIMIT 70            0.4890              
+00010_00029_00012.png           ROUNDABOUT               0.5093              
+00010_00029_00013.png          SPEED LIMIT 30            0.4674              
+00010_00029_00014.png          NO OVERTAKING             0.9347              
+00010_00029_00015.png          NO OVERTAKING             0.9509              
+00010_00029_00016.png          NO OVERTAKING             0.9832              
+00010_00029_00017.png          NO OVERTAKING             0.9859              
+00010_00029_00018.png          SPEED LIMIT 30            0.5033              
+00010_00029_00019.png          NO OVERTAKING             0.7699              
+00010_00029_00020.png          NO OVERTAKING             0.9667              
+00010_00029_00021.png          NO OVERTAKING             0.9893              
+00010_00029_00022.png          SPEED LIMIT 20            0.9748              
+00010_00029_00023.png          NO OVERTAKING             0.4559              
+00010_00029_00024.png          NO OVERTAKING             0.9733              
+00010_00029_00025.png          NO OVERTAKING             0.6365              
+00010_00029_00026.png          NO OVERTAKING             0.5972              
+00010_00029_00027.png          NO OVERTAKING             0.8751              
+00010_00029_00028.png          NO OVERTAKING             0.9880              
+00010_00029_00029.png          NO OVERTAKING             0.8853              
+00010_00030_00000.png          END OF SPEED LIMIT 80     0.9973              
+00010_00030_00001.png          END OF SPEED LIMIT 80     0.9998              
+00010_00030_00002.png          END OF SPEED LIMIT 80     0.9987              
+00010_00030_00003.png          END OF SPEED LIMIT 80     0.9998              
+00010_00030_00004.png          END OF SPEED LIMIT 80     0.9999              
+00010_00030_00005.png          END OF SPEED LIMIT 80     0.5286              
+00010_00030_00006.png           NO OVERTAKING BY TRUCKS  0.4357              
+00010_00030_00007.png          SPEED LIMIT 60            0.9169              
+00010_00030_00008.png           NO OVERTAKING BY TRUCKS  0.3761              
+00010_00030_00009.png          END OF SPEED LIMIT 80     0.9960              
+00010_00030_00010.png          END OF SPEED LIMIT 80     0.9999              
+00010_00030_00011.png          SPEED LIMIT 60            0.3480              
+00010_00030_00012.png          END OF SPEED LIMIT 80     0.9318              
+00010_00030_00013.png          SPEED LIMIT 60            0.9756              
+00010_00030_00014.png          SPEED LIMIT 60            0.7062              
+00010_00030_00015.png          SPEED LIMIT 120           0.3722              
+00010_00030_00016.png           NO OVERTAKING BY TRUCKS  0.8498              
+00010_00030_00017.png          END OF SPEED LIMIT 80     0.9964              
+00010_00030_00018.png          END OF SPEED LIMIT 80     0.8666              
+00010_00030_00019.png           NO OVERTAKING BY TRUCKS  0.7943              
+00010_00030_00020.png          SPEED LIMIT 60            0.5879              
+00010_00030_00021.png           NO OVERTAKING BY TRUCKS  0.8589              
+00010_00030_00022.png           NO OVERTAKING BY TRUCKS  0.9951              
+00010_00030_00023.png          SPEED LIMIT 120           0.5662              
+00010_00030_00024.png           NO OVERTAKING BY TRUCKS  0.9556              
+00010_00030_00025.png           NO OVERTAKING BY TRUCKS  0.9979              
+00010_00030_00026.png          SPEED LIMIT 120           0.9973              
+00010_00030_00027.png          SPEED LIMIT 120           0.9906              
+00010_00030_00028.png          SPEED LIMIT 120           0.8739              
+00010_00030_00029.png          SPEED LIMIT 120           0.7254              
+00010_00031_00000.png          END OF SPEED LIMIT 80     0.7272              
+00010_00031_00001.png          END OF SPEED LIMIT 80     0.9783              
+00010_00031_00002.png          END OF SPEED LIMIT 80     0.9998              
+00010_00031_00003.png          END OF SPEED LIMIT 80     0.8214              
+00010_00031_00004.png          END OF SPEED LIMIT 80     0.6410              
+00010_00031_00005.png           NO OVERTAKING BY TRUCKS  0.9816              
+00010_00031_00006.png           NO OVERTAKING BY TRUCKS  0.7791              
+00010_00031_00007.png           NO TRUCKS                0.5319              
+00010_00031_00008.png           NO TRUCKS                0.8833              
+00010_00031_00009.png           NO TRUCKS                0.7113              
+00010_00031_00010.png           NO TRUCKS                0.9129              
+00010_00031_00011.png           NO TRUCKS                0.9468              
+00010_00031_00012.png           NO OVERTAKING BY TRUCKS  0.5002              
+00010_00031_00013.png           NO TRUCKS                0.9605              
+00010_00031_00014.png           NO TRUCKS                0.8691              
+00010_00031_00015.png           NO OVERTAKING BY TRUCKS  0.7494              
+00010_00031_00016.png           NO OVERTAKING BY TRUCKS  0.7182              
+00010_00031_00017.png           NO OVERTAKING BY TRUCKS  0.6675              
+00010_00031_00018.png           NO OVERTAKING BY TRUCKS  0.9976              
+00010_00031_00019.png           NO OVERTAKING BY TRUCKS  0.9963              
+00010_00031_00020.png           NO OVERTAKING BY TRUCKS  0.9997              
+00010_00031_00021.png           NO OVERTAKING BY TRUCKS  0.9963              
+00010_00031_00022.png           NO OVERTAKING BY TRUCKS  0.9927              
+00010_00031_00023.png           NO OVERTAKING BY TRUCKS  0.9994              
+00010_00031_00024.png          SPEED LIMIT 120           0.6429              
+00010_00031_00025.png           NO OVERTAKING BY TRUCKS  0.5956              
+00010_00031_00026.png          SPEED LIMIT 120           0.8574              
+00010_00031_00027.png          SPEED LIMIT 120           0.6506              
+00010_00031_00028.png          SPEED LIMIT 120           0.9823              
+00010_00031_00029.png          SPEED LIMIT 120           0.9146              
+00010_00032_00000.png           END OF NO OVERTAKING FOR TRUCKS 0.7302              
+00010_00032_00001.png           GO STRAIGHT OR RIGHT     0.4066              
+00010_00032_00002.png           END OF NO OVERTAKING     0.5232              
+00010_00032_00003.png           NO OVERTAKING BY TRUCKS  0.9219              
+00010_00032_00004.png           NO OVERTAKING BY TRUCKS  0.9693              
+00010_00032_00005.png           END OF NO OVERTAKING     0.8219              
+00010_00032_00006.png           NO OVERTAKING BY TRUCKS  0.8628              
+00010_00032_00007.png           NO OVERTAKING BY TRUCKS  0.9480              
+00010_00032_00008.png           NO OVERTAKING BY TRUCKS  0.9254              
+00010_00032_00009.png           NO OVERTAKING BY TRUCKS  0.9769              
+00010_00032_00010.png           NO OVERTAKING BY TRUCKS  0.9723              
+00010_00032_00011.png           NO OVERTAKING BY TRUCKS  0.9985              
+00010_00032_00012.png           NO OVERTAKING BY TRUCKS  0.9979              
+00010_00032_00013.png           NO OVERTAKING BY TRUCKS  0.9992              
+00010_00032_00014.png           NO OVERTAKING BY TRUCKS  0.9997              
+00010_00032_00015.png           NO OVERTAKING BY TRUCKS  0.9997              
+00010_00032_00016.png           NO OVERTAKING BY TRUCKS  0.9730              
+00010_00032_00017.png           NO OVERTAKING BY TRUCKS  0.9923              
+00010_00032_00018.png           NO OVERTAKING BY TRUCKS  0.7289              
+00010_00032_00019.png           NO OVERTAKING BY TRUCKS  0.9995              
+00010_00032_00020.png           NO OVERTAKING BY TRUCKS  0.9322              
+00010_00032_00021.png           NO OVERTAKING BY TRUCKS  0.5384              
+00010_00032_00022.png          SPEED LIMIT 120           0.6490              
+00010_00032_00023.png           END OF NO OVERTAKING     0.4575              
+00010_00032_00024.png           END OF ALL RESTRICTIONS  0.7599              
+00010_00032_00025.png           END OF NO OVERTAKING     0.7035              
+00010_00032_00026.png           NO OVERTAKING BY TRUCKS  0.4751              
+00010_00032_00027.png           NO OVERTAKING BY TRUCKS  0.8859              
+00010_00032_00028.png           NO OVERTAKING BY TRUCKS  0.9901              
+00010_00032_00029.png          SPEED LIMIT 120           0.9650              
+00010_00033_00000.png           NO OVERTAKING BY TRUCKS  0.9996              
+00010_00033_00001.png          END OF SPEED LIMIT 80     0.9842              
+00010_00033_00002.png           NO OVERTAKING BY TRUCKS  0.8994              
+00010_00033_00003.png           NO OVERTAKING BY TRUCKS  0.9943              
+00010_00033_00004.png          END OF SPEED LIMIT 80     0.9833              
+00010_00033_00005.png          SPEED LIMIT 80            0.9479              
+00010_00033_00006.png           GO STRAIGHT OR RIGHT     0.8223              
+00010_00033_00007.png           BUMPY ROAD               0.6458              
+00010_00033_00008.png           NO OVERTAKING BY TRUCKS  0.9881              
+00010_00033_00009.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00033_00010.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00033_00011.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00033_00012.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00033_00013.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00033_00014.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00033_00015.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00033_00016.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00033_00017.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00033_00018.png           NO OVERTAKING BY TRUCKS  0.9990              
+00010_00033_00019.png           NO OVERTAKING BY TRUCKS  0.9999              
+00010_00033_00020.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00033_00021.png           NO OVERTAKING BY TRUCKS  0.9972              
+00010_00033_00022.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00033_00023.png           NO OVERTAKING BY TRUCKS  0.9988              
+00010_00033_00024.png           NO OVERTAKING BY TRUCKS  0.6990              
+00010_00033_00025.png           NO OVERTAKING BY TRUCKS  0.9937              
+00010_00033_00026.png          SPEED LIMIT 120           0.8037              
+00010_00033_00027.png           NO OVERTAKING BY TRUCKS  0.8858              
+00010_00033_00028.png           NO OVERTAKING BY TRUCKS  0.6492              
+00010_00033_00029.png           NO OVERTAKING BY TRUCKS  0.9765              
+00010_00034_00000.png          SPEED LIMIT 30            0.9861              
+00010_00034_00001.png          SPEED LIMIT 30            0.9983              
+00010_00034_00002.png          SPEED LIMIT 30            0.9981              
+00010_00034_00003.png          SPEED LIMIT 30            0.9140              
+00010_00034_00004.png          SPEED LIMIT 30            0.6310              
+00010_00034_00005.png          SPEED LIMIT 30            0.9934              
+00010_00034_00006.png          SPEED LIMIT 30            0.9630              
+00010_00034_00007.png          NO OVERTAKING             0.9189              
+00010_00034_00008.png           NO OVERTAKING BY TRUCKS  0.9148              
+00010_00034_00009.png          SPEED LIMIT 30            0.6129              
+00010_00034_00010.png           NO OVERTAKING BY TRUCKS  0.6602              
+00010_00034_00011.png           NO OVERTAKING BY TRUCKS  0.5250              
+00010_00034_00012.png          SPEED LIMIT 30            0.4498              
+00010_00034_00013.png          NO OVERTAKING             0.8932              
+00010_00034_00014.png          NO OVERTAKING             0.8854              
+00010_00034_00015.png          NO OVERTAKING             0.9001              
+00010_00034_00016.png          NO OVERTAKING             0.6235              
+00010_00034_00017.png          NO OVERTAKING             0.5809              
+00010_00034_00018.png           NO OVERTAKING BY TRUCKS  0.6027              
+00010_00034_00019.png           NO OVERTAKING BY TRUCKS  0.5651              
+00010_00034_00020.png           NO OVERTAKING BY TRUCKS  0.5694              
+00010_00034_00021.png           NO OVERTAKING BY TRUCKS  0.9816              
+00010_00034_00022.png           NO OVERTAKING BY TRUCKS  0.8598              
+00010_00034_00023.png           NO OVERTAKING BY TRUCKS  0.8473              
+00010_00034_00024.png           NO OVERTAKING BY TRUCKS  0.8983              
+00010_00034_00025.png           NO OVERTAKING BY TRUCKS  0.9001              
+00010_00034_00026.png           NO OVERTAKING BY TRUCKS  0.9866              
+00010_00034_00027.png           NO OVERTAKING BY TRUCKS  0.9990              
+00010_00034_00028.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00034_00029.png           NO OVERTAKING BY TRUCKS  0.9437              
+00010_00035_00000.png          SPEED LIMIT 30            0.9595              
+00010_00035_00001.png          SPEED LIMIT 30            0.4400              
+00010_00035_00002.png          SPEED LIMIT 30            0.8469              
+00010_00035_00003.png          SPEED LIMIT 30            0.8648              
+00010_00035_00004.png          SPEED LIMIT 30            0.9898              
+00010_00035_00005.png          SPEED LIMIT 30            0.8565              
+00010_00035_00006.png          NO OVERTAKING             0.5434              
+00010_00035_00007.png          SPEED LIMIT 30            0.9582              
+00010_00035_00008.png          SPEED LIMIT 30            0.8917              
+00010_00035_00009.png          NO OVERTAKING             0.9460              
+00010_00035_00010.png          NO OVERTAKING             0.5363              
+00010_00035_00011.png          NO OVERTAKING             0.8425              
+00010_00035_00012.png          NO OVERTAKING             0.7565              
+00010_00035_00013.png          SPEED LIMIT 30            0.4885              
+00010_00035_00014.png          SPEED LIMIT 30            0.9679              
+00010_00035_00015.png          NO OVERTAKING             0.8222              
+00010_00035_00016.png          NO OVERTAKING             0.9879              
+00010_00035_00017.png          NO OVERTAKING             0.5472              
+00010_00035_00018.png          NO OVERTAKING             0.9126              
+00010_00035_00019.png          NO OVERTAKING             0.9996              
+00010_00035_00020.png          NO OVERTAKING             0.9129              
+00010_00035_00021.png          NO OVERTAKING             0.9665              
+00010_00035_00022.png          NO OVERTAKING             0.6204              
+00010_00035_00023.png          NO OVERTAKING             0.9173              
+00010_00035_00024.png          NO OVERTAKING             0.8573              
+00010_00035_00025.png          NO OVERTAKING             0.6526              
+00010_00035_00026.png           NO OVERTAKING BY TRUCKS  0.9089              
+00010_00035_00027.png           NO OVERTAKING BY TRUCKS  0.9820              
+00010_00035_00028.png          SPEED LIMIT 100           0.4798              
+00010_00035_00029.png           NO OVERTAKING BY TRUCKS  0.8912              
+00010_00036_00000.png           END OF NO OVERTAKING     0.5747              
+00010_00036_00001.png           END OF NO OVERTAKING     0.3013              
+00010_00036_00002.png          SPEED LIMIT 30            0.5780              
+00010_00036_00003.png           NO OVERTAKING BY TRUCKS  0.9964              
+00010_00036_00004.png           NO OVERTAKING BY TRUCKS  0.7967              
+00010_00036_00005.png           NO OVERTAKING BY TRUCKS  0.9920              
+00010_00036_00006.png           END OF NO OVERTAKING     0.5925              
+00010_00036_00007.png           NO OVERTAKING BY TRUCKS  0.6473              
+00010_00036_00008.png           NO OVERTAKING BY TRUCKS  0.7185              
+00010_00036_00009.png           NO OVERTAKING BY TRUCKS  0.5336              
+00010_00036_00010.png           NO OVERTAKING BY TRUCKS  0.4445              
+00010_00036_00011.png           NO OVERTAKING BY TRUCKS  0.8954              
+00010_00036_00012.png          SPEED LIMIT 30            0.9560              
+00010_00036_00013.png           NO OVERTAKING BY TRUCKS  0.9628              
+00010_00036_00014.png           NO OVERTAKING BY TRUCKS  0.4774              
+00010_00036_00015.png          SPEED LIMIT 30            0.9980              
+00010_00036_00016.png           END OF NO OVERTAKING     0.9476              
+00010_00036_00017.png           END OF NO OVERTAKING     0.9182              
+00010_00036_00018.png           NO OVERTAKING BY TRUCKS  0.5688              
+00010_00036_00019.png           NO OVERTAKING BY TRUCKS  0.8623              
+00010_00036_00020.png           END OF NO OVERTAKING     0.9166              
+00010_00036_00021.png           NO OVERTAKING BY TRUCKS  0.6867              
+00010_00036_00022.png           END OF NO OVERTAKING     0.7340              
+00010_00036_00023.png           END OF NO OVERTAKING     0.8122              
+00010_00036_00024.png           NO OVERTAKING BY TRUCKS  0.9809              
+00010_00036_00025.png          SPEED LIMIT 100           0.5314              
+00010_00036_00026.png           NO OVERTAKING BY TRUCKS  0.8087              
+00010_00036_00027.png           NO OVERTAKING BY TRUCKS  0.9900              
+00010_00036_00028.png           NO OVERTAKING BY TRUCKS  0.9887              
+00010_00036_00029.png           NO OVERTAKING BY TRUCKS  0.6132              
+00010_00037_00000.png          SPEED LIMIT 20            0.3763              
+00010_00037_00001.png          SPEED LIMIT 20            0.4832              
+00010_00037_00002.png          END OF SPEED LIMIT 80     0.8904              
+00010_00037_00003.png          END OF SPEED LIMIT 80     0.2803              
+00010_00037_00004.png          END OF SPEED LIMIT 80     0.8445              
+00010_00037_00005.png           NO OVERTAKING BY TRUCKS  0.4419              
+00010_00037_00006.png           TURN LEFT                0.5265              
+00010_00037_00007.png           TRAFFIC SIGNALS          0.8150              
+00010_00037_00008.png          SPEED LIMIT 20            0.2661              
+00010_00037_00009.png           TURN LEFT                0.3601              
+00010_00037_00010.png           NO ENTRY FOR VEHICLES    0.8858              
+00010_00037_00011.png           NO ENTRY FOR VEHICLES    0.4641              
+00010_00037_00012.png           NO OVERTAKING BY TRUCKS  0.5037              
+00010_00037_00013.png           NO OVERTAKING BY TRUCKS  0.3890              
+00010_00037_00014.png           NO ENTRY FOR VEHICLES    0.5089              
+00010_00037_00015.png           NO OVERTAKING BY TRUCKS  0.7133              
+00010_00037_00016.png           NO OVERTAKING BY TRUCKS  0.9836              
+00010_00037_00017.png           NO OVERTAKING BY TRUCKS  0.5405              
+00010_00037_00018.png           NO ENTRY FOR VEHICLES    0.3757              
+00010_00037_00019.png          SPEED LIMIT 30            0.8276              
+00010_00037_00020.png           END OF NO OVERTAKING     0.9597              
+00010_00037_00021.png           END OF NO OVERTAKING     0.5287              
+00010_00037_00022.png           END OF NO OVERTAKING     0.5564              
+00010_00037_00023.png          SPEED LIMIT 120           0.3952              
+00010_00037_00024.png           END OF NO OVERTAKING     0.8710              
+00010_00037_00025.png          SPEED LIMIT 120           0.6486              
+00010_00037_00026.png           END OF NO OVERTAKING     0.9958              
+00010_00037_00027.png           END OF NO OVERTAKING     0.8975              
+00010_00037_00028.png           END OF NO OVERTAKING     0.6601              
+00010_00037_00029.png          SPEED LIMIT 120           0.6896              
+00010_00038_00000.png          SPEED LIMIT 120           0.8519              
+00010_00038_00001.png          SPEED LIMIT 20            0.6146              
+00010_00038_00002.png          SPEED LIMIT 120           0.7176              
+00010_00038_00003.png          SPEED LIMIT 100           0.8769              
+00010_00038_00004.png          SPEED LIMIT 120           0.6289              
+00010_00038_00005.png          SPEED LIMIT 80            0.9704              
+00010_00038_00006.png          SPEED LIMIT 80            0.6562              
+00010_00038_00007.png          SPEED LIMIT 80            0.7689              
+00010_00038_00008.png          SPEED LIMIT 80            0.7453              
+00010_00038_00009.png           NO TRUCKS                0.4398              
+00010_00038_00010.png           NO TRUCKS                0.6935              
+00010_00038_00011.png          SPEED LIMIT 80            0.9000              
+00010_00038_00012.png          SPEED LIMIT 80            0.7423              
+00010_00038_00013.png          SPEED LIMIT 80            0.9999              
+00010_00038_00014.png          SPEED LIMIT 80            0.9706              
+00010_00038_00015.png          SPEED LIMIT 80            1.0000              
+00010_00038_00016.png          SPEED LIMIT 80            0.9999              
+00010_00038_00017.png          SPEED LIMIT 80            0.9995              
+00010_00038_00018.png          SPEED LIMIT 80            1.0000              
+00010_00038_00019.png          SPEED LIMIT 80            0.9992              
+00010_00038_00020.png          SPEED LIMIT 80            0.9986              
+00010_00038_00021.png          SPEED LIMIT 80            0.9908              
+00010_00038_00022.png          SPEED LIMIT 80            0.9993              
+00010_00038_00023.png          SPEED LIMIT 80            0.9918              
+00010_00038_00024.png           NO TRUCKS                0.8770              
+00010_00038_00025.png          NO OVERTAKING             0.5027              
+00010_00038_00026.png           NO ENTRY FOR VEHICLES    0.3879              
+00010_00038_00027.png           NO TRUCKS                0.9866              
+00010_00038_00028.png           NO TRUCKS                0.9040              
+00010_00038_00029.png           NO TRUCKS                0.9643              
+00010_00039_00000.png          SPEED LIMIT 80            0.5788              
+00010_00039_00001.png          SPEED LIMIT 80            1.0000              
+00010_00039_00002.png          SPEED LIMIT 80            0.9419              
+00010_00039_00003.png          SPEED LIMIT 80            0.9816              
+00010_00039_00004.png          SPEED LIMIT 80            0.9819              
+00010_00039_00005.png          SPEED LIMIT 80            0.9006              
+00010_00039_00006.png          SPEED LIMIT 80            0.9870              
+00010_00039_00007.png          SPEED LIMIT 20            0.9332              
+00010_00039_00008.png          SPEED LIMIT 80            0.9923              
+00010_00039_00009.png          SPEED LIMIT 80            0.9998              
+00010_00039_00010.png          SPEED LIMIT 80            0.9969              
+00010_00039_00011.png          SPEED LIMIT 80            0.9866              
+00010_00039_00012.png          SPEED LIMIT 80            0.9100              
+00010_00039_00013.png          SPEED LIMIT 80            0.9967              
+00010_00039_00014.png          SPEED LIMIT 80            0.9987              
+00010_00039_00015.png          SPEED LIMIT 80            0.9977              
+00010_00039_00016.png          SPEED LIMIT 80            0.9211              
+00010_00039_00017.png           NO TRUCKS                0.9426              
+00010_00039_00018.png          SPEED LIMIT 80            0.9662              
+00010_00039_00019.png          SPEED LIMIT 80            0.9592              
+00010_00039_00020.png          SPEED LIMIT 80            0.8049              
+00010_00039_00021.png          NO OVERTAKING             0.8395              
+00010_00039_00022.png          NO OVERTAKING             0.8122              
+00010_00039_00023.png          NO OVERTAKING             0.9510              
+00010_00039_00024.png          NO OVERTAKING             0.9865              
+00010_00039_00025.png          NO OVERTAKING             0.5363              
+00010_00039_00026.png          NO OVERTAKING             0.9934              
+00010_00039_00027.png          NO OVERTAKING             0.5495              
+00010_00039_00028.png          NO OVERTAKING             0.9903              
+00010_00039_00029.png          NO OVERTAKING             0.8846              
+00010_00040_00000.png          SPEED LIMIT 80            0.8121              
+00010_00040_00001.png          SPEED LIMIT 20            0.6880              
+00010_00040_00002.png          SPEED LIMIT 80            0.9910              
+00010_00040_00003.png          SPEED LIMIT 80            0.9639              
+00010_00040_00004.png          SPEED LIMIT 20            0.9684              
+00010_00040_00005.png          SPEED LIMIT 80            0.8944              
+00010_00040_00006.png          SPEED LIMIT 20            0.9955              
+00010_00040_00007.png          SPEED LIMIT 80            0.5824              
+00010_00040_00008.png          SPEED LIMIT 80            0.9433              
+00010_00040_00009.png          SPEED LIMIT 80            0.5515              
+00010_00040_00010.png          SPEED LIMIT 20            0.7811              
+00010_00040_00011.png          SPEED LIMIT 60            0.7867              
+00010_00040_00012.png          SPEED LIMIT 80            0.5673              
+00010_00040_00013.png          SPEED LIMIT 80            0.8554              
+00010_00040_00014.png          SPEED LIMIT 80            0.8763              
+00010_00040_00015.png          SPEED LIMIT 80            0.4479              
+00010_00040_00016.png          NO OVERTAKING             0.9479              
+00010_00040_00017.png          SPEED LIMIT 80            0.7885              
+00010_00040_00018.png          NO OVERTAKING             0.9691              
+00010_00040_00019.png          NO OVERTAKING             0.8534              
+00010_00040_00020.png          NO OVERTAKING             0.6515              
+00010_00040_00021.png           NO TRUCKS                0.5464              
+00010_00040_00022.png           NO TRUCKS                0.7650              
+00010_00040_00023.png          SPEED LIMIT 120           0.5118              
+00010_00040_00024.png           NO TRUCKS                0.6816              
+00010_00040_00025.png           NO TRUCKS                0.8514              
+00010_00040_00026.png          NO OVERTAKING             0.9627              
+00010_00040_00027.png           NO TRUCKS                0.6863              
+00010_00040_00028.png          NO OVERTAKING             0.7129              
+00010_00040_00029.png           NO TRUCKS                0.6799              
+00010_00041_00000.png          SPEED LIMIT 80            0.9836              
+00010_00041_00001.png          SPEED LIMIT 80            0.9933              
+00010_00041_00002.png           NO TRUCKS                0.9197              
+00010_00041_00003.png          SPEED LIMIT 120           0.9962              
+00010_00041_00004.png          SPEED LIMIT 120           0.9923              
+00010_00041_00005.png          SPEED LIMIT 80            0.3046              
+00010_00041_00006.png          SPEED LIMIT 120           0.5131              
+00010_00041_00007.png           NO TRUCKS                0.9833              
+00010_00041_00008.png           NO TRUCKS                0.9818              
+00010_00041_00009.png           NO TRUCKS                0.7892              
+00010_00041_00010.png          SPEED LIMIT 80            0.9812              
+00010_00041_00011.png          SPEED LIMIT 80            0.9659              
+00010_00041_00012.png          SPEED LIMIT 80            0.9796              
+00010_00041_00013.png          SPEED LIMIT 120           0.6663              
+00010_00041_00014.png           NO TRUCKS                0.9123              
+00010_00041_00015.png          SPEED LIMIT 80            0.5019              
+00010_00041_00016.png          SPEED LIMIT 80            0.5275              
+00010_00041_00017.png          SPEED LIMIT 80            0.9597              
+00010_00041_00018.png          SPEED LIMIT 80            0.9969              
+00010_00041_00019.png          SPEED LIMIT 80            0.9931              
+00010_00041_00020.png          SPEED LIMIT 80            0.9987              
+00010_00041_00021.png          SPEED LIMIT 80            0.7474              
+00010_00041_00022.png          SPEED LIMIT 80            0.9803              
+00010_00041_00023.png          SPEED LIMIT 80            0.9609              
+00010_00041_00024.png           NO TRUCKS                0.9650              
+00010_00041_00025.png           NO TRUCKS                0.9986              
+00010_00041_00026.png           NO TRUCKS                0.9822              
+00010_00041_00027.png           NO TRUCKS                0.9993              
+00010_00041_00028.png           NO TRUCKS                0.9901              
+00010_00041_00029.png           NO TRUCKS                0.9935              
+00010_00042_00000.png           TURN LEFT                0.5876              
+00010_00042_00001.png           TURN LEFT                0.4691              
+00010_00042_00002.png           ROUNDABOUT               0.8286              
+00010_00042_00003.png          SPEED LIMIT 120           0.6522              
+00010_00042_00004.png           NO ENTRY FOR VEHICLES    0.9371              
+00010_00042_00005.png           NO ENTRY FOR VEHICLES    0.8864              
+00010_00042_00006.png           NO TRUCKS                0.8228              
+00010_00042_00007.png           NO ENTRY FOR VEHICLES    0.5005              
+00010_00042_00008.png           NO TRUCKS                0.8887              
+00010_00042_00009.png           NO TRUCKS                0.9293              
+00010_00042_00010.png          SPEED LIMIT 120           0.7653              
+00010_00042_00011.png           NO TRUCKS                0.9800              
+00010_00042_00012.png          SPEED LIMIT 120           0.5127              
+00010_00042_00013.png           NO TRUCKS                0.6394              
+00010_00042_00014.png           NO TRUCKS                0.8752              
+00010_00042_00015.png          SPEED LIMIT 120           0.5197              
+00010_00042_00016.png          SPEED LIMIT 120           0.3873              
+00010_00042_00017.png          SPEED LIMIT 120           0.7138              
+00010_00042_00018.png          NO OVERTAKING             0.6742              
+00010_00042_00019.png          SPEED LIMIT 120           0.5043              
+00010_00042_00020.png          NO OVERTAKING             0.6716              
+00010_00042_00021.png           NO TRUCKS                0.4498              
+00010_00042_00022.png           NO TRUCKS                0.5842              
+00010_00042_00023.png           NO TRUCKS                0.9519              
+00010_00042_00024.png           NO TRUCKS                0.9867              
+00010_00042_00025.png           NO TRUCKS                0.9971              
+00010_00042_00026.png           NO TRUCKS                0.9990              
+00010_00042_00027.png           NO TRUCKS                0.9941              
+00010_00042_00028.png           NO TRUCKS                0.8642              
+00010_00042_00029.png           NO TRUCKS                0.9879              
+00010_00043_00000.png           TRAFFIC SIGNALS          0.9049              
+00010_00043_00001.png          SPEED LIMIT 30            0.9907              
+00010_00043_00002.png           TRAFFIC SIGNALS          0.7191              
+00010_00043_00003.png          SPEED LIMIT 30            0.7041              
+00010_00043_00004.png           TRAFFIC SIGNALS          0.7669              
+00010_00043_00005.png           TRAFFIC SIGNALS          0.9665              
+00010_00043_00006.png           TRAFFIC SIGNALS          0.7998              
+00010_00043_00007.png           TRAFFIC SIGNALS          0.7231              
+00010_00043_00008.png           TRAFFIC SIGNALS          0.8357              
+00010_00043_00009.png           TRAFFIC SIGNALS          0.9044              
+00010_00043_00010.png           TRAFFIC SIGNALS          0.8328              
+00010_00043_00011.png          SPEED LIMIT 30            0.2508              
+00010_00043_00012.png          SPEED LIMIT 20            0.8817              
+00010_00043_00013.png           NO OVERTAKING BY TRUCKS  0.7640              
+00010_00043_00014.png          SPEED LIMIT 30            0.4708              
+00010_00043_00015.png          NO OVERTAKING             0.7875              
+00010_00043_00016.png           NO OVERTAKING BY TRUCKS  0.9199              
+00010_00043_00017.png          NO OVERTAKING             0.5530              
+00010_00043_00018.png          NO OVERTAKING             0.5123              
+00010_00043_00019.png          NO OVERTAKING             0.8478              
+00010_00043_00020.png           NO OVERTAKING BY TRUCKS  0.9959              
+00010_00043_00021.png           NO OVERTAKING BY TRUCKS  0.9114              
+00010_00043_00022.png          NO OVERTAKING             0.7230              
+00010_00043_00023.png           NO OVERTAKING BY TRUCKS  0.6598              
+00010_00043_00024.png           NO OVERTAKING BY TRUCKS  0.9969              
+00010_00043_00025.png           NO OVERTAKING BY TRUCKS  0.9984              
+00010_00043_00026.png           NO OVERTAKING BY TRUCKS  0.9997              
+00010_00043_00027.png           NO OVERTAKING BY TRUCKS  0.9919              
+00010_00043_00028.png           NO OVERTAKING BY TRUCKS  0.8874              
+00010_00043_00029.png           NO OVERTAKING BY TRUCKS  0.9961              
+00010_00044_00000.png          SPEED LIMIT 50            0.9874              
+00010_00044_00001.png          SPEED LIMIT 50            0.9612              
+00010_00044_00002.png          SPEED LIMIT 30            0.6060              
+00010_00044_00003.png          SPEED LIMIT 50            0.9995              
+00010_00044_00004.png           ROUNDABOUT               0.4191              
+00010_00044_00005.png          SPEED LIMIT 50            0.9320              
+00010_00044_00006.png          SPEED LIMIT 60            0.9580              
+00010_00044_00007.png          SPEED LIMIT 50            0.9831              
+00010_00044_00008.png          SPEED LIMIT 50            0.6791              
+00010_00044_00009.png          SPEED LIMIT 50            0.9387              
+00010_00044_00010.png          SPEED LIMIT 50            0.9933              
+00010_00044_00011.png          SPEED LIMIT 50            0.9989              
+00010_00044_00012.png          SPEED LIMIT 50            0.9770              
+00010_00044_00013.png          SPEED LIMIT 50            0.6856              
+00010_00044_00014.png          SPEED LIMIT 50            0.9996              
+00010_00044_00015.png          NO OVERTAKING             0.7636              
+00010_00044_00016.png          NO OVERTAKING             0.9859              
+00010_00044_00017.png          SPEED LIMIT 50            0.6952              
+00010_00044_00018.png          NO OVERTAKING             0.9944              
+00010_00044_00019.png          NO OVERTAKING             0.9818              
+00010_00044_00020.png          NO OVERTAKING             0.5116              
+00010_00044_00021.png          NO OVERTAKING             0.9411              
+00010_00044_00022.png          NO OVERTAKING             0.9985              
+00010_00044_00023.png          NO OVERTAKING             0.6840              
+00010_00044_00024.png          NO OVERTAKING             0.9984              
+00010_00044_00025.png          NO OVERTAKING             0.9708              
+00010_00044_00026.png          NO OVERTAKING             0.9980              
+00010_00044_00027.png          NO OVERTAKING             0.9995              
+00010_00044_00028.png          NO OVERTAKING             0.9889              
+00010_00044_00029.png           NO TRUCKS                0.7800              
+00010_00045_00000.png           NO OVERTAKING BY TRUCKS  0.6184              
+00010_00045_00001.png           NO OVERTAKING BY TRUCKS  0.4684              
+00010_00045_00002.png           NO OVERTAKING BY TRUCKS  0.7331              
+00010_00045_00003.png          SPEED LIMIT 120           0.4407              
+00010_00045_00004.png          SPEED LIMIT 120           0.5126              
+00010_00045_00005.png           NO OVERTAKING BY TRUCKS  0.7024              
+00010_00045_00006.png          SPEED LIMIT 120           0.8799              
+00010_00045_00007.png          NO OVERTAKING             0.4829              
+00010_00045_00008.png          SPEED LIMIT 120           0.9260              
+00010_00045_00009.png          NO OVERTAKING             0.8175              
+00010_00045_00010.png          NO OVERTAKING             0.7118              
+00010_00045_00011.png           NO OVERTAKING BY TRUCKS  0.4843              
+00010_00045_00012.png          NO OVERTAKING             0.6514              
+00010_00045_00013.png           NO OVERTAKING BY TRUCKS  0.9768              
+00010_00045_00014.png           NO OVERTAKING BY TRUCKS  0.4457              
+00010_00045_00015.png           NO OVERTAKING BY TRUCKS  0.8065              
+00010_00045_00016.png           NO OVERTAKING BY TRUCKS  0.4368              
+00010_00045_00017.png           NO OVERTAKING BY TRUCKS  0.8572              
+00010_00045_00018.png           NO OVERTAKING BY TRUCKS  0.8783              
+00010_00045_00019.png           NO OVERTAKING BY TRUCKS  0.8205              
+00010_00045_00020.png           NO OVERTAKING BY TRUCKS  0.8427              
+00010_00045_00021.png           NO OVERTAKING BY TRUCKS  0.5347              
+00010_00045_00022.png          NO OVERTAKING             0.7176              
+00010_00045_00023.png           NO OVERTAKING BY TRUCKS  0.9890              
+00010_00045_00024.png           NO OVERTAKING BY TRUCKS  0.9571              
+00010_00045_00025.png           NO OVERTAKING BY TRUCKS  0.9972              
+00010_00045_00026.png           NO OVERTAKING BY TRUCKS  0.9995              
+00010_00045_00027.png           NO OVERTAKING BY TRUCKS  0.9992              
+00010_00045_00028.png           NO OVERTAKING BY TRUCKS  0.9997              
+00010_00045_00029.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00046_00000.png          SPEED LIMIT 60            0.9985              
+00010_00046_00001.png          SPEED LIMIT 60            0.9987              
+00010_00046_00002.png          SPEED LIMIT 60            0.9987              
+00010_00046_00003.png          SPEED LIMIT 60            1.0000              
+00010_00046_00004.png          SPEED LIMIT 60            0.8650              
+00010_00046_00005.png          SPEED LIMIT 60            0.9995              
+00010_00046_00006.png          SPEED LIMIT 60            1.0000              
+00010_00046_00007.png          SPEED LIMIT 60            0.9995              
+00010_00046_00008.png          SPEED LIMIT 60            1.0000              
+00010_00046_00009.png          SPEED LIMIT 70            0.9914              
+00010_00046_00010.png           NO TRUCKS                0.9464              
+00010_00046_00011.png          SPEED LIMIT 60            0.7180              
+00010_00046_00012.png          SPEED LIMIT 100           0.7672              
+00010_00046_00013.png          SPEED LIMIT 20            0.9304              
+00010_00046_00014.png          SPEED LIMIT 60            0.4545              
+00010_00046_00015.png          SPEED LIMIT 30            0.9347              
+00010_00046_00016.png           NO TRUCKS                0.4024              
+00010_00046_00017.png          SPEED LIMIT 30            0.9874              
+00010_00046_00018.png           NO OVERTAKING BY TRUCKS  0.8447              
+00010_00046_00019.png           NO OVERTAKING BY TRUCKS  0.7747              
+00010_00046_00020.png           NO OVERTAKING BY TRUCKS  0.9723              
+00010_00046_00021.png           NO OVERTAKING BY TRUCKS  0.5977              
+00010_00046_00022.png           NO OVERTAKING BY TRUCKS  0.9977              
+00010_00046_00023.png           NO OVERTAKING BY TRUCKS  0.9786              
+00010_00046_00024.png           NO OVERTAKING BY TRUCKS  0.9415              
+00010_00046_00025.png          NO OVERTAKING             0.8960              
+00010_00046_00026.png          NO OVERTAKING             0.4999              
+00010_00046_00027.png          NO OVERTAKING             0.5330              
+00010_00046_00028.png           END OF NO OVERTAKING     0.9841              
+00010_00046_00029.png           END OF NO OVERTAKING     1.0000              
+00010_00047_00000.png           TURN LEFT                0.5472              
+00010_00047_00001.png           GO STRAIGHT OR RIGHT     0.6290              
+00010_00047_00002.png           GO STRAIGHT OR RIGHT     0.4348              
+00010_00047_00003.png          END OF SPEED LIMIT 80     0.6413              
+00010_00047_00004.png           GO STRAIGHT OR RIGHT     0.8201              
+00010_00047_00005.png           GO STRAIGHT OR RIGHT     0.9865              
+00010_00047_00006.png           NO OVERTAKING BY TRUCKS  0.9997              
+00010_00047_00007.png           NO OVERTAKING BY TRUCKS  0.8619              
+00010_00047_00008.png           NO OVERTAKING BY TRUCKS  0.9921              
+00010_00047_00009.png           NO OVERTAKING BY TRUCKS  0.9918              
+00010_00047_00010.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00047_00011.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00047_00012.png           NO OVERTAKING BY TRUCKS  0.9999              
+00010_00047_00013.png           NO OVERTAKING BY TRUCKS  0.9867              
+00010_00047_00014.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00047_00015.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00047_00016.png           NO OVERTAKING BY TRUCKS  0.9860              
+00010_00047_00017.png           NO OVERTAKING BY TRUCKS  0.9979              
+00010_00047_00018.png           NO OVERTAKING BY TRUCKS  0.9998              
+00010_00047_00019.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00047_00020.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00047_00021.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00047_00022.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00047_00023.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00047_00024.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00047_00025.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00047_00026.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00047_00027.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00047_00028.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00047_00029.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00048_00000.png           NO OVERTAKING BY TRUCKS  0.9999              
+00010_00048_00001.png           NO OVERTAKING BY TRUCKS  0.9951              
+00010_00048_00002.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00048_00003.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00048_00004.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00048_00005.png           NO OVERTAKING BY TRUCKS  0.9999              
+00010_00048_00006.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00048_00007.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00048_00008.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00048_00009.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00048_00010.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00048_00011.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00048_00012.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00048_00013.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00048_00014.png           NO OVERTAKING BY TRUCKS  0.9999              
+00010_00048_00015.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00048_00016.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00048_00017.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00048_00018.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00048_00019.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00048_00020.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00048_00021.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00048_00022.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00048_00023.png           NO OVERTAKING BY TRUCKS  0.9998              
+00010_00048_00024.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00048_00025.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00048_00026.png           NO OVERTAKING BY TRUCKS  0.9999              
+00010_00048_00027.png           NO OVERTAKING BY TRUCKS  0.9998              
+00010_00048_00028.png           NO OVERTAKING BY TRUCKS  0.9991              
+00010_00048_00029.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00049_00000.png           NO OVERTAKING BY TRUCKS  0.3503              
+00010_00049_00001.png          NO OVERTAKING             0.6391              
+00010_00049_00002.png           NO OVERTAKING BY TRUCKS  0.9962              
+00010_00049_00003.png          SPEED LIMIT 60            0.5298              
+00010_00049_00004.png           NO OVERTAKING BY TRUCKS  0.9960              
+00010_00049_00005.png           NO OVERTAKING BY TRUCKS  0.9914              
+00010_00049_00006.png           NO OVERTAKING BY TRUCKS  0.9998              
+00010_00049_00007.png           NO OVERTAKING BY TRUCKS  0.9994              
+00010_00049_00008.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00049_00009.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00049_00010.png           NO OVERTAKING BY TRUCKS  0.9998              
+00010_00049_00011.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00049_00012.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00049_00013.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00049_00014.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00049_00015.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00049_00016.png           NO OVERTAKING BY TRUCKS  0.9999              
+00010_00049_00017.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00049_00018.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00049_00019.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00049_00020.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00049_00021.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00049_00022.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00049_00023.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00049_00024.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00049_00025.png           NO OVERTAKING BY TRUCKS  0.9994              
+00010_00049_00026.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00049_00027.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00049_00028.png           NO OVERTAKING BY TRUCKS  0.9998              
+00010_00049_00029.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00050_00000.png          END OF SPEED LIMIT 80     0.6711              
+00010_00050_00001.png          END OF SPEED LIMIT 80     0.7892              
+00010_00050_00002.png          SPEED LIMIT 120           0.8074              
+00010_00050_00003.png           NO TRUCKS                0.7360              
+00010_00050_00004.png           NO TRUCKS                0.5814              
+00010_00050_00005.png           NO OVERTAKING BY TRUCKS  0.7574              
+00010_00050_00006.png          END OF SPEED LIMIT 80     0.4545              
+00010_00050_00007.png          SPEED LIMIT 120           0.9502              
+00010_00050_00008.png           NO TRUCKS                0.6635              
+00010_00050_00009.png           NO TRUCKS                0.6981              
+00010_00050_00010.png           NO TRUCKS                0.7189              
+00010_00050_00011.png           NO OVERTAKING BY TRUCKS  0.8904              
+00010_00050_00012.png           NO OVERTAKING BY TRUCKS  0.6148              
+00010_00050_00013.png           NO OVERTAKING BY TRUCKS  0.5471              
+00010_00050_00014.png           NO TRUCKS                0.7707              
+00010_00050_00015.png           NO TRUCKS                0.4879              
+00010_00050_00016.png           NO TRUCKS                0.8527              
+00010_00050_00017.png           NO TRUCKS                0.5080              
+00010_00050_00018.png           NO TRUCKS                0.7043              
+00010_00050_00019.png           NO OVERTAKING BY TRUCKS  0.6364              
+00010_00050_00020.png           NO TRUCKS                0.9864              
+00010_00050_00021.png           NO TRUCKS                0.6453              
+00010_00050_00022.png           NO TRUCKS                0.9705              
+00010_00050_00023.png           NO TRUCKS                0.6461              
+00010_00050_00024.png           NO TRUCKS                0.7270              
+00010_00050_00025.png           NO OVERTAKING BY TRUCKS  0.6820              
+00010_00050_00026.png           NO OVERTAKING BY TRUCKS  0.9795              
+00010_00050_00027.png           NO TRUCKS                0.6138              
+00010_00050_00028.png           NO TRUCKS                0.9020              
+00010_00050_00029.png           NO TRUCKS                0.9129              
+00010_00051_00000.png          SPEED LIMIT 70            0.6796              
+00010_00051_00001.png          SPEED LIMIT 70            0.8841              
+00010_00051_00002.png           NO OVERTAKING BY TRUCKS  0.6900              
+00010_00051_00003.png           NO OVERTAKING BY TRUCKS  0.8885              
+00010_00051_00004.png          SPEED LIMIT 70            0.5804              
+00010_00051_00005.png          SPEED LIMIT 70            0.8838              
+00010_00051_00006.png          SPEED LIMIT 70            0.9270              
+00010_00051_00007.png           NO OVERTAKING BY TRUCKS  0.9967              
+00010_00051_00008.png           NO OVERTAKING BY TRUCKS  0.9629              
+00010_00051_00009.png           NO OVERTAKING BY TRUCKS  0.9988              
+00010_00051_00010.png           NO OVERTAKING BY TRUCKS  0.9836              
+00010_00051_00011.png           NO OVERTAKING BY TRUCKS  0.9972              
+00010_00051_00012.png           NO OVERTAKING BY TRUCKS  0.8768              
+00010_00051_00013.png           NO OVERTAKING BY TRUCKS  0.9941              
+00010_00051_00014.png           NO OVERTAKING BY TRUCKS  0.9992              
+00010_00051_00015.png           NO OVERTAKING BY TRUCKS  0.9963              
+00010_00051_00016.png           NO OVERTAKING BY TRUCKS  0.8132              
+00010_00051_00017.png           NO OVERTAKING BY TRUCKS  0.9998              
+00010_00051_00018.png           NO OVERTAKING BY TRUCKS  0.9487              
+00010_00051_00019.png           NO OVERTAKING BY TRUCKS  0.5001              
+00010_00051_00020.png           NO OVERTAKING BY TRUCKS  0.9999              
+00010_00051_00021.png           NO OVERTAKING BY TRUCKS  0.9207              
+00010_00051_00022.png           NO OVERTAKING BY TRUCKS  0.9999              
+00010_00051_00023.png           NO OVERTAKING BY TRUCKS  0.9713              
+00010_00051_00024.png           NO OVERTAKING BY TRUCKS  0.9989              
+00010_00051_00025.png           NO OVERTAKING BY TRUCKS  0.9999              
+00010_00051_00026.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00051_00027.png           NO OVERTAKING BY TRUCKS  0.9999              
+00010_00051_00028.png           NO OVERTAKING BY TRUCKS  0.9966              
+00010_00051_00029.png           NO OVERTAKING BY TRUCKS  0.9869              
+00010_00052_00000.png          SPEED LIMIT 30            0.4411              
+00010_00052_00001.png          SPEED LIMIT 80            0.6505              
+00010_00052_00002.png          SPEED LIMIT 80            0.9027              
+00010_00052_00003.png          SPEED LIMIT 70            0.3768              
+00010_00052_00004.png          SPEED LIMIT 80            0.6107              
+00010_00052_00005.png          SPEED LIMIT 70            0.4860              
+00010_00052_00006.png           NO OVERTAKING BY TRUCKS  0.7130              
+00010_00052_00007.png          SPEED LIMIT 70            0.9876              
+00010_00052_00008.png          SPEED LIMIT 70            0.9825              
+00010_00052_00009.png           NO OVERTAKING BY TRUCKS  0.7860              
+00010_00052_00010.png           NO OVERTAKING BY TRUCKS  0.9266              
+00010_00052_00011.png          SPEED LIMIT 70            0.5549              
+00010_00052_00012.png          SPEED LIMIT 70            0.8000              
+00010_00052_00013.png           NO OVERTAKING BY TRUCKS  0.6724              
+00010_00052_00014.png           NO OVERTAKING BY TRUCKS  0.9578              
+00010_00052_00015.png           NO OVERTAKING BY TRUCKS  0.9937              
+00010_00052_00016.png           NO OVERTAKING BY TRUCKS  0.9173              
+00010_00052_00017.png           NO OVERTAKING BY TRUCKS  0.9672              
+00010_00052_00018.png           NO OVERTAKING BY TRUCKS  0.9122              
+00010_00052_00019.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00052_00020.png           NO OVERTAKING BY TRUCKS  0.9977              
+00010_00052_00021.png          SPEED LIMIT 70            0.5793              
+00010_00052_00022.png           NO OVERTAKING BY TRUCKS  0.9946              
+00010_00052_00023.png          SPEED LIMIT 60            0.8138              
+00010_00052_00024.png           NO OVERTAKING BY TRUCKS  0.8242              
+00010_00052_00025.png           NO OVERTAKING BY TRUCKS  0.9894              
+00010_00052_00026.png           NO OVERTAKING BY TRUCKS  0.9999              
+00010_00052_00027.png           NO OVERTAKING BY TRUCKS  0.9999              
+00010_00052_00028.png           NO OVERTAKING BY TRUCKS  0.9963              
+00010_00052_00029.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00053_00000.png          SPEED LIMIT 30            0.9458              
+00010_00053_00001.png          SPEED LIMIT 30            0.7408              
+00010_00053_00002.png          SPEED LIMIT 60            0.3569              
+00010_00053_00003.png          SPEED LIMIT 30            0.5946              
+00010_00053_00004.png          SPEED LIMIT 80            0.9119              
+00010_00053_00005.png          SPEED LIMIT 30            0.3554              
+00010_00053_00006.png          SPEED LIMIT 60            0.6245              
+00010_00053_00007.png          SPEED LIMIT 60            0.7501              
+00010_00053_00008.png          SPEED LIMIT 60            0.5890              
+00010_00053_00009.png          SPEED LIMIT 70            0.6880              
+00010_00053_00010.png           NO OVERTAKING BY TRUCKS  0.8228              
+00010_00053_00011.png           NO OVERTAKING BY TRUCKS  0.6387              
+00010_00053_00012.png           NO OVERTAKING BY TRUCKS  0.9414              
+00010_00053_00013.png           NO OVERTAKING BY TRUCKS  0.9954              
+00010_00053_00014.png           NO OVERTAKING BY TRUCKS  0.9994              
+00010_00053_00015.png           NO OVERTAKING BY TRUCKS  0.9946              
+00010_00053_00016.png           NO OVERTAKING BY TRUCKS  0.9984              
+00010_00053_00017.png           NO OVERTAKING BY TRUCKS  0.9999              
+00010_00053_00018.png           NO OVERTAKING BY TRUCKS  0.9998              
+00010_00053_00019.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00053_00020.png           NO OVERTAKING BY TRUCKS  0.9919              
+00010_00053_00021.png           NO OVERTAKING BY TRUCKS  0.9990              
+00010_00053_00022.png           NO OVERTAKING BY TRUCKS  0.9975              
+00010_00053_00023.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00053_00024.png           NO OVERTAKING BY TRUCKS  0.9999              
+00010_00053_00025.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00053_00026.png           NO OVERTAKING BY TRUCKS  0.9994              
+00010_00053_00027.png           NO OVERTAKING BY TRUCKS  0.9998              
+00010_00053_00028.png           NO OVERTAKING BY TRUCKS  0.9998              
+00010_00053_00029.png           NO OVERTAKING BY TRUCKS  0.9978              
+00010_00054_00000.png           TURN LEFT                0.5919              
+00010_00054_00001.png          SPEED LIMIT 80            0.5394              
+00010_00054_00002.png           NO OVERTAKING BY TRUCKS  0.6435              
+00010_00054_00003.png          SPEED LIMIT 60            0.5108              
+00010_00054_00004.png          SPEED LIMIT 60            0.9624              
+00010_00054_00005.png           NO OVERTAKING BY TRUCKS  0.7837              
+00010_00054_00006.png           NO TRUCKS                0.5217              
+00010_00054_00007.png           NO OVERTAKING BY TRUCKS  0.8094              
+00010_00054_00008.png          SPEED LIMIT 60            0.4270              
+00010_00054_00009.png           NO TRUCKS                0.8668              
+00010_00054_00010.png           NO OVERTAKING BY TRUCKS  0.5178              
+00010_00054_00011.png           NO OVERTAKING BY TRUCKS  0.9957              
+00010_00054_00012.png           NO OVERTAKING BY TRUCKS  0.8188              
+00010_00054_00013.png           NO OVERTAKING BY TRUCKS  0.6963              
+00010_00054_00014.png           NO TRUCKS                0.9597              
+00010_00054_00015.png           NO TRUCKS                0.7757              
+00010_00054_00016.png           NO OVERTAKING BY TRUCKS  0.7792              
+00010_00054_00017.png           NO TRUCKS                0.5766              
+00010_00054_00018.png           NO TRUCKS                0.6085              
+00010_00054_00019.png           NO OVERTAKING BY TRUCKS  0.9524              
+00010_00054_00020.png           NO OVERTAKING BY TRUCKS  0.9955              
+00010_00054_00021.png           NO OVERTAKING BY TRUCKS  0.9632              
+00010_00054_00022.png           NO OVERTAKING BY TRUCKS  0.9992              
+00010_00054_00023.png           NO OVERTAKING BY TRUCKS  0.9433              
+00010_00054_00024.png           NO OVERTAKING BY TRUCKS  0.9310              
+00010_00054_00025.png           NO OVERTAKING BY TRUCKS  0.5207              
+00010_00054_00026.png           NO OVERTAKING BY TRUCKS  0.9934              
+00010_00054_00027.png           NO OVERTAKING BY TRUCKS  0.9984              
+00010_00054_00028.png           NO OVERTAKING BY TRUCKS  0.6635              
+00010_00054_00029.png           NO OVERTAKING BY TRUCKS  0.9975              
+00010_00055_00000.png           NO OVERTAKING BY TRUCKS  0.6297              
+00010_00055_00001.png           NO OVERTAKING BY TRUCKS  0.5270              
+00010_00055_00002.png           NO OVERTAKING BY TRUCKS  0.8356              
+00010_00055_00003.png          SPEED LIMIT 80            0.8523              
+00010_00055_00004.png           NO OVERTAKING BY TRUCKS  0.9868              
+00010_00055_00005.png           NO OVERTAKING BY TRUCKS  0.4855              
+00010_00055_00006.png           NO OVERTAKING BY TRUCKS  0.9542              
+00010_00055_00007.png           NO OVERTAKING BY TRUCKS  0.9343              
+00010_00055_00008.png           NO OVERTAKING BY TRUCKS  0.6631              
+00010_00055_00009.png          SPEED LIMIT 80            0.6058              
+00010_00055_00010.png           NO OVERTAKING BY TRUCKS  0.9992              
+00010_00055_00011.png           NO OVERTAKING BY TRUCKS  0.9828              
+00010_00055_00012.png           NO OVERTAKING BY TRUCKS  0.9998              
+00010_00055_00013.png           NO OVERTAKING BY TRUCKS  0.8590              
+00010_00055_00014.png           NO OVERTAKING BY TRUCKS  0.5212              
+00010_00055_00015.png           NO OVERTAKING BY TRUCKS  0.8873              
+00010_00055_00016.png           NO OVERTAKING BY TRUCKS  0.6889              
+00010_00055_00017.png           NO OVERTAKING BY TRUCKS  0.9608              
+00010_00055_00018.png           TURN LEFT                0.8053              
+00010_00055_00019.png           TURN LEFT                0.5810              
+00010_00055_00020.png          SPEED LIMIT 80            0.7266              
+00010_00055_00021.png           TURN LEFT                0.9002              
+00010_00055_00022.png           TURN LEFT                0.7018              
+00010_00055_00023.png           TURN LEFT                0.9886              
+00010_00055_00024.png           TURN LEFT                0.9302              
+00010_00055_00025.png           TURN LEFT                0.9675              
+00010_00055_00026.png           TURN LEFT                0.8579              
+00010_00055_00027.png           TURN LEFT                0.9998              
+00010_00055_00028.png           TURN LEFT                0.9072              
+00010_00055_00029.png           TURN LEFT                0.7525              
+00010_00056_00000.png          END OF SPEED LIMIT 80     0.9976              
+00010_00056_00001.png          SPEED LIMIT 60            0.8133              
+00010_00056_00002.png          END OF SPEED LIMIT 80     0.9595              
+00010_00056_00003.png          SPEED LIMIT 60            0.6132              
+00010_00056_00004.png          END OF SPEED LIMIT 80     0.9909              
+00010_00056_00005.png          SPEED LIMIT 60            0.6389              
+00010_00056_00006.png          END OF SPEED LIMIT 80     0.3841              
+00010_00056_00007.png          END OF SPEED LIMIT 80     0.7350              
+00010_00056_00008.png          END OF SPEED LIMIT 80     0.8886              
+00010_00056_00009.png          SPEED LIMIT 60            0.7180              
+00010_00056_00010.png          SPEED LIMIT 60            0.4982              
+00010_00056_00011.png           NO TRUCKS                0.4514              
+00010_00056_00012.png           NO OVERTAKING BY TRUCKS  0.5458              
+00010_00056_00013.png           NO TRUCKS                0.8922              
+00010_00056_00014.png           NO TRUCKS                0.5612              
+00010_00056_00015.png           NO TRUCKS                0.7142              
+00010_00056_00016.png          SPEED LIMIT 60            0.7701              
+00010_00056_00017.png          SPEED LIMIT 60            0.9752              
+00010_00056_00018.png          SPEED LIMIT 60            0.6504              
+00010_00056_00019.png           NO TRUCKS                0.9867              
+00010_00056_00020.png           NO TRUCKS                0.9550              
+00010_00056_00021.png           NO TRUCKS                0.9474              
+00010_00056_00022.png           NO TRUCKS                0.7200              
+00010_00056_00023.png           NO TRUCKS                0.9643              
+00010_00056_00024.png           NO TRUCKS                0.9337              
+00010_00056_00025.png           NO TRUCKS                0.9596              
+00010_00056_00026.png           NO OVERTAKING BY TRUCKS  0.8235              
+00010_00056_00027.png           NO OVERTAKING BY TRUCKS  0.9979              
+00010_00056_00028.png           NO OVERTAKING BY TRUCKS  0.9996              
+00010_00056_00029.png           NO OVERTAKING BY TRUCKS  0.9977              
+00010_00057_00000.png          SPEED LIMIT 50            0.7379              
+00010_00057_00001.png          SPEED LIMIT 30            0.6191              
+00010_00057_00002.png          NO OVERTAKING             0.9485              
+00010_00057_00003.png          SPEED LIMIT 50            0.4492              
+00010_00057_00004.png          SPEED LIMIT 70            0.7743              
+00010_00057_00005.png          SPEED LIMIT 70            0.5146              
+00010_00057_00006.png          NO OVERTAKING             0.9551              
+00010_00057_00007.png          NO OVERTAKING             0.6623              
+00010_00057_00008.png          SPEED LIMIT 50            0.4163              
+00010_00057_00009.png          NO OVERTAKING             0.4932              
+00010_00057_00010.png          NO OVERTAKING             0.6378              
+00010_00057_00011.png          SPEED LIMIT 30            0.6844              
+00010_00057_00012.png          NO OVERTAKING             0.7347              
+00010_00057_00013.png          NO OVERTAKING             0.8029              
+00010_00057_00014.png          NO OVERTAKING             0.6565              
+00010_00057_00015.png           NO TRUCKS                0.9742              
+00010_00057_00016.png          NO OVERTAKING             0.8176              
+00010_00057_00017.png           NO TRUCKS                0.9227              
+00010_00057_00018.png           NO TRUCKS                0.7915              
+00010_00057_00019.png           NO TRUCKS                0.8580              
+00010_00057_00020.png           NO TRUCKS                0.5112              
+00010_00057_00021.png           NO TRUCKS                0.9958              
+00010_00057_00022.png           NO TRUCKS                0.9991              
+00010_00057_00023.png           NO TRUCKS                0.9977              
+00010_00057_00024.png           NO TRUCKS                0.9989              
+00010_00057_00025.png           NO TRUCKS                0.9946              
+00010_00057_00026.png           NO TRUCKS                0.8712              
+00010_00057_00027.png           NO TRUCKS                0.9383              
+00010_00057_00028.png          NO OVERTAKING             0.8104              
+00010_00057_00029.png           NO TRUCKS                0.5012              
+00010_00058_00000.png           TURN LEFT                0.5372              
+00010_00058_00001.png           TURN LEFT                0.7886              
+00010_00058_00002.png           TURN LEFT                0.9968              
+00010_00058_00003.png           TURN LEFT                0.9950              
+00010_00058_00004.png           TURN LEFT                0.8234              
+00010_00058_00005.png           TURN LEFT                0.9982              
+00010_00058_00006.png           GO STRAIGHT              0.8925              
+00010_00058_00007.png           TURN LEFT                0.9986              
+00010_00058_00008.png           GO STRAIGHT              0.5815              
+00010_00058_00009.png           TURN LEFT                0.8861              
+00010_00058_00010.png           NO ENTRY FOR VEHICLES    0.3614              
+00010_00058_00011.png           TURN LEFT                0.9726              
+00010_00058_00012.png           TURN LEFT                0.4786              
+00010_00058_00013.png          END OF SPEED LIMIT 80     0.8250              
+00010_00058_00014.png           PRIORITY ROAD            0.4815              
+00010_00058_00015.png          SPEED LIMIT 20            0.3400              
+00010_00058_00016.png           TURN LEFT                0.5119              
+00010_00058_00017.png          SPEED LIMIT 60            0.5117              
+00010_00058_00018.png          NO OVERTAKING             0.9890              
+00010_00058_00019.png           TURN LEFT                0.9694              
+00010_00058_00020.png          NO OVERTAKING             0.9892              
+00010_00058_00021.png          NO OVERTAKING             0.7866              
+00010_00058_00022.png          NO OVERTAKING             0.9969              
+00010_00058_00023.png          NO OVERTAKING             0.9994              
+00010_00058_00024.png          NO OVERTAKING             0.9969              
+00010_00058_00025.png          NO OVERTAKING             0.9574              
+00010_00058_00026.png           NO OVERTAKING BY TRUCKS  0.9720              
+00010_00058_00027.png           NO OVERTAKING BY TRUCKS  0.9994              
+00010_00058_00028.png           NO OVERTAKING BY TRUCKS  0.6462              
+00010_00058_00029.png          SPEED LIMIT 50            0.7345              
+00010_00059_00000.png          SPEED LIMIT 100           0.7813              
+00010_00059_00001.png          SPEED LIMIT 60            0.8870              
+00010_00059_00002.png          SPEED LIMIT 30            0.8897              
+00010_00059_00003.png          SPEED LIMIT 60            0.9939              
+00010_00059_00004.png          SPEED LIMIT 30            0.7872              
+00010_00059_00005.png          NO OVERTAKING             0.7406              
+00010_00059_00006.png          SPEED LIMIT 30            0.7390              
+00010_00059_00007.png          SPEED LIMIT 120           0.3757              
+00010_00059_00008.png           NO OVERTAKING BY TRUCKS  0.4637              
+00010_00059_00009.png          SPEED LIMIT 60            0.9025              
+00010_00059_00010.png          SPEED LIMIT 60            0.6904              
+00010_00059_00011.png          SPEED LIMIT 60            0.4798              
+00010_00059_00012.png          SPEED LIMIT 80            0.5657              
+00010_00059_00013.png          SPEED LIMIT 120           0.4170              
+00010_00059_00014.png          NO OVERTAKING             0.4722              
+00010_00059_00015.png          NO OVERTAKING             0.8949              
+00010_00059_00016.png          SPEED LIMIT 80            0.4084              
+00010_00059_00017.png          SPEED LIMIT 120           0.9570              
+00010_00059_00018.png           NO OVERTAKING BY TRUCKS  0.3688              
+00010_00059_00019.png          SPEED LIMIT 120           0.9516              
+00010_00059_00020.png          SPEED LIMIT 120           0.6954              
+00010_00059_00021.png          NO OVERTAKING             0.6083              
+00010_00059_00022.png           NO OVERTAKING BY TRUCKS  0.6766              
+00010_00059_00023.png           NO OVERTAKING BY TRUCKS  0.8430              
+00010_00059_00024.png          NO OVERTAKING             0.6705              
+00010_00059_00025.png          NO OVERTAKING             0.9932              
+00010_00059_00026.png          NO OVERTAKING             0.5550              
+00010_00059_00027.png          NO OVERTAKING             0.8198              
+00010_00059_00028.png          NO OVERTAKING             0.9910              
+00010_00059_00029.png           NO OVERTAKING BY TRUCKS  0.9821              
+00010_00060_00000.png           END OF NO OVERTAKING FOR TRUCKS 0.6072              
+00010_00060_00001.png          SPEED LIMIT 30            0.4114              
+00010_00060_00002.png          SPEED LIMIT 30            0.3423              
+00010_00060_00003.png           GO STRAIGHT OR RIGHT     0.8210              
+00010_00060_00004.png           NO OVERTAKING BY TRUCKS  0.9674              
+00010_00060_00005.png           NO OVERTAKING BY TRUCKS  0.9972              
+00010_00060_00006.png           NO OVERTAKING BY TRUCKS  0.8809              
+00010_00060_00007.png           NO OVERTAKING BY TRUCKS  0.4557              
+00010_00060_00008.png           NO OVERTAKING BY TRUCKS  0.9902              
+00010_00060_00009.png           NO OVERTAKING BY TRUCKS  0.5455              
+00010_00060_00010.png           NO OVERTAKING BY TRUCKS  0.6473              
+00010_00060_00011.png           TURN LEFT                0.2775              
+00010_00060_00012.png           NO OVERTAKING BY TRUCKS  0.6445              
+00010_00060_00013.png          SPEED LIMIT 120           0.6830              
+00010_00060_00014.png           NO OVERTAKING BY TRUCKS  0.6996              
+00010_00060_00015.png          SPEED LIMIT 120           0.8115              
+00010_00060_00016.png           NO OVERTAKING BY TRUCKS  0.6800              
+00010_00060_00017.png          SPEED LIMIT 120           0.7498              
+00010_00060_00018.png          SPEED LIMIT 120           0.9948              
+00010_00060_00019.png           NO OVERTAKING BY TRUCKS  0.6711              
+00010_00060_00020.png           NO OVERTAKING BY TRUCKS  0.5283              
+00010_00060_00021.png          SPEED LIMIT 120           0.8636              
+00010_00060_00022.png          SPEED LIMIT 120           0.9509              
+00010_00060_00023.png          SPEED LIMIT 120           0.7606              
+00010_00060_00024.png          SPEED LIMIT 120           0.9762              
+00010_00060_00025.png          SPEED LIMIT 120           0.6529              
+00010_00060_00026.png           NO ENTRY                 0.9719              
+00010_00060_00027.png           NO ENTRY                 0.8952              
+00010_00060_00028.png           NO ENTRY                 0.7105              
+00010_00060_00029.png          SPEED LIMIT 120           0.5264              
+00010_00061_00000.png           END OF NO OVERTAKING     0.7819              
+00010_00061_00001.png           END OF NO OVERTAKING     0.6556              
+00010_00061_00002.png           NO OVERTAKING BY TRUCKS  0.5298              
+00010_00061_00003.png          SPEED LIMIT 30            0.9646              
+00010_00061_00004.png          NO OVERTAKING             0.6737              
+00010_00061_00005.png           NO OVERTAKING BY TRUCKS  0.5998              
+00010_00061_00006.png           NO OVERTAKING BY TRUCKS  0.9984              
+00010_00061_00007.png           TRAFFIC SIGNALS          0.4545              
+00010_00061_00008.png           NO OVERTAKING BY TRUCKS  0.8139              
+00010_00061_00009.png           NO OVERTAKING BY TRUCKS  0.7046              
+00010_00061_00010.png           NO OVERTAKING BY TRUCKS  0.7285              
+00010_00061_00011.png           NO OVERTAKING BY TRUCKS  0.9250              
+00010_00061_00012.png           END OF NO OVERTAKING     0.4848              
+00010_00061_00013.png           NO OVERTAKING BY TRUCKS  0.9002              
+00010_00061_00014.png           NO OVERTAKING BY TRUCKS  0.9723              
+00010_00061_00015.png           END OF NO OVERTAKING     0.7477              
+00010_00061_00016.png           NO OVERTAKING BY TRUCKS  0.9956              
+00010_00061_00017.png           NO OVERTAKING BY TRUCKS  0.9083              
+00010_00061_00018.png           NO OVERTAKING BY TRUCKS  0.9997              
+00010_00061_00019.png           NO OVERTAKING BY TRUCKS  0.9943              
+00010_00061_00020.png           NO OVERTAKING BY TRUCKS  0.9980              
+00010_00061_00021.png          SPEED LIMIT 100           0.7943              
+00010_00061_00022.png           NO OVERTAKING BY TRUCKS  0.9881              
+00010_00061_00023.png           NO OVERTAKING BY TRUCKS  0.9980              
+00010_00061_00024.png           NO OVERTAKING BY TRUCKS  0.9979              
+00010_00061_00025.png           NO OVERTAKING BY TRUCKS  0.9995              
+00010_00061_00026.png           NO OVERTAKING BY TRUCKS  0.9999              
+00010_00061_00027.png           NO OVERTAKING BY TRUCKS  0.9950              
+00010_00061_00028.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00061_00029.png           NO OVERTAKING BY TRUCKS  0.9999              
+00010_00062_00000.png          SPEED LIMIT 60            0.9941              
+00010_00062_00001.png          SPEED LIMIT 60            0.5212              
+00010_00062_00002.png          SPEED LIMIT 60            0.9999              
+00010_00062_00003.png          SPEED LIMIT 60            0.9996              
+00010_00062_00004.png          SPEED LIMIT 60            0.9107              
+00010_00062_00005.png          SPEED LIMIT 60            0.8197              
+00010_00062_00006.png          SPEED LIMIT 60            0.9888              
+00010_00062_00007.png          SPEED LIMIT 80            0.6137              
+00010_00062_00008.png          NO OVERTAKING             0.9601              
+00010_00062_00009.png          SPEED LIMIT 80            0.9696              
+00010_00062_00010.png          SPEED LIMIT 80            0.4165              
+00010_00062_00011.png          SPEED LIMIT 80            0.9935              
+00010_00062_00012.png           NO ENTRY FOR VEHICLES    0.7973              
+00010_00062_00013.png          NO OVERTAKING             0.7409              
+00010_00062_00014.png          SPEED LIMIT 80            0.3479              
+00010_00062_00015.png          NO OVERTAKING             0.9821              
+00010_00062_00016.png          SPEED LIMIT 80            0.7113              
+00010_00062_00017.png          SPEED LIMIT 80            0.6093              
+00010_00062_00018.png          NO OVERTAKING             0.9644              
+00010_00062_00019.png          NO OVERTAKING             0.9559              
+00010_00062_00020.png          NO OVERTAKING             0.9949              
+00010_00062_00021.png          NO OVERTAKING             0.9930              
+00010_00062_00022.png          NO OVERTAKING             0.9754              
+00010_00062_00023.png          NO OVERTAKING             0.9995              
+00010_00062_00024.png          NO OVERTAKING             0.9996              
+00010_00062_00025.png          NO OVERTAKING             0.9977              
+00010_00062_00026.png          NO OVERTAKING             0.9976              
+00010_00062_00027.png          NO OVERTAKING             0.9612              
+00010_00062_00028.png          NO OVERTAKING             0.9791              
+00010_00062_00029.png          NO OVERTAKING             0.9963              
+00010_00063_00000.png          SPEED LIMIT 60            0.9999              
+00010_00063_00001.png          SPEED LIMIT 20            0.7708              
+00010_00063_00002.png          SPEED LIMIT 60            0.9982              
+00010_00063_00003.png          SPEED LIMIT 60            0.5510              
+00010_00063_00004.png          SPEED LIMIT 60            0.9583              
+00010_00063_00005.png          SPEED LIMIT 60            0.9996              
+00010_00063_00006.png          SPEED LIMIT 60            0.9996              
+00010_00063_00007.png          SPEED LIMIT 80            0.5175              
+00010_00063_00008.png          SPEED LIMIT 60            0.9955              
+00010_00063_00009.png          SPEED LIMIT 60            0.9992              
+00010_00063_00010.png          SPEED LIMIT 80            0.5713              
+00010_00063_00011.png          SPEED LIMIT 60            0.7023              
+00010_00063_00012.png          SPEED LIMIT 60            0.9996              
+00010_00063_00013.png          SPEED LIMIT 60            0.9910              
+00010_00063_00014.png          SPEED LIMIT 80            0.9759              
+00010_00063_00015.png          SPEED LIMIT 80            0.6580              
+00010_00063_00016.png          SPEED LIMIT 80            0.9713              
+00010_00063_00017.png           NO ENTRY FOR VEHICLES    0.7931              
+00010_00063_00018.png           NO ENTRY FOR VEHICLES    0.7373              
+00010_00063_00019.png           NO ENTRY FOR VEHICLES    0.9617              
+00010_00063_00020.png           NO TRUCKS                0.7391              
+00010_00063_00021.png           NO TRUCKS                0.9900              
+00010_00063_00022.png           NO TRUCKS                0.8955              
+00010_00063_00023.png          NO OVERTAKING             0.4230              
+00010_00063_00024.png           NO TRUCKS                0.8700              
+00010_00063_00025.png           NO TRUCKS                0.9981              
+00010_00063_00026.png           NO TRUCKS                0.9609              
+00010_00063_00027.png           NO TRUCKS                0.7940              
+00010_00063_00028.png           NO OVERTAKING BY TRUCKS  0.9909              
+00010_00063_00029.png           NO OVERTAKING BY TRUCKS  0.9904              
+00010_00064_00000.png          SPEED LIMIT 60            0.8174              
+00010_00064_00001.png          SPEED LIMIT 20            0.7691              
+00010_00064_00002.png          SPEED LIMIT 20            0.5285              
+00010_00064_00003.png          SPEED LIMIT 60            1.0000              
+00010_00064_00004.png          SPEED LIMIT 60            0.9591              
+00010_00064_00005.png          SPEED LIMIT 60            0.3943              
+00010_00064_00006.png          SPEED LIMIT 60            0.9837              
+00010_00064_00007.png          SPEED LIMIT 20            0.8009              
+00010_00064_00008.png          SPEED LIMIT 60            0.9917              
+00010_00064_00009.png          SPEED LIMIT 20            0.9396              
+00010_00064_00010.png          SPEED LIMIT 70            0.6050              
+00010_00064_00011.png          SPEED LIMIT 20            0.9302              
+00010_00064_00012.png          SPEED LIMIT 20            0.9402              
+00010_00064_00013.png          SPEED LIMIT 80            0.8441              
+00010_00064_00014.png          SPEED LIMIT 20            0.9432              
+00010_00064_00015.png          SPEED LIMIT 80            0.8467              
+00010_00064_00016.png          SPEED LIMIT 80            0.8843              
+00010_00064_00017.png          SPEED LIMIT 80            0.4649              
+00010_00064_00018.png           NO TRUCKS                0.5614              
+00010_00064_00019.png          NO OVERTAKING             0.6632              
+00010_00064_00020.png           NO TRUCKS                0.9412              
+00010_00064_00021.png           NO TRUCKS                0.9717              
+00010_00064_00022.png           NO TRUCKS                0.3762              
+00010_00064_00023.png           NO TRUCKS                0.8023              
+00010_00064_00024.png          NO OVERTAKING             0.5980              
+00010_00064_00025.png          NO OVERTAKING             0.9009              
+00010_00064_00026.png          NO OVERTAKING             0.6736              
+00010_00064_00027.png           NO OVERTAKING BY TRUCKS  0.6882              
+00010_00064_00028.png          NO OVERTAKING             0.6453              
+00010_00064_00029.png          NO OVERTAKING             0.8181              
+00010_00065_00000.png           GO STRAIGHT OR LEFT      0.4291              
+00010_00065_00001.png           NO OVERTAKING BY TRUCKS  0.9995              
+00010_00065_00002.png           NO OVERTAKING BY TRUCKS  0.9459              
+00010_00065_00003.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00065_00004.png          SPEED LIMIT 30            0.9624              
+00010_00065_00005.png          SPEED LIMIT 60            0.9991              
+00010_00065_00006.png           NO OVERTAKING BY TRUCKS  0.9541              
+00010_00065_00007.png          SPEED LIMIT 60            0.6279              
+00010_00065_00008.png           NO OVERTAKING BY TRUCKS  0.7133              
+00010_00065_00009.png           NO OVERTAKING BY TRUCKS  0.5317              
+00010_00065_00010.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00065_00011.png           NO OVERTAKING BY TRUCKS  0.9773              
+00010_00065_00012.png           NO OVERTAKING BY TRUCKS  0.9940              
+00010_00065_00013.png           NO OVERTAKING BY TRUCKS  0.7823              
+00010_00065_00014.png           NO OVERTAKING BY TRUCKS  0.9568              
+00010_00065_00015.png           NO OVERTAKING BY TRUCKS  0.9990              
+00010_00065_00016.png           NO OVERTAKING BY TRUCKS  0.9940              
+00010_00065_00017.png           NO OVERTAKING BY TRUCKS  0.9532              
+00010_00065_00018.png           NO OVERTAKING BY TRUCKS  0.9675              
+00010_00065_00019.png           NO OVERTAKING BY TRUCKS  0.9973              
+00010_00065_00020.png           NO OVERTAKING BY TRUCKS  0.9980              
+00010_00065_00021.png           NO OVERTAKING BY TRUCKS  0.9988              
+00010_00065_00022.png           NO OVERTAKING BY TRUCKS  0.9998              
+00010_00065_00023.png           NO OVERTAKING BY TRUCKS  0.9999              
+00010_00065_00024.png           NO OVERTAKING BY TRUCKS  0.9999              
+00010_00065_00025.png           NO OVERTAKING BY TRUCKS  0.9999              
+00010_00065_00026.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00065_00027.png           NO OVERTAKING BY TRUCKS  0.9999              
+00010_00065_00028.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00065_00029.png           NO OVERTAKING BY TRUCKS  1.0000              
+00010_00066_00000.png           NO OVERTAKING BY TRUCKS  0.7437              
+00010_00066_00001.png           NO OVERTAKING BY TRUCKS  0.5190              
+00010_00066_00002.png          SPEED LIMIT 30            0.9885              
+00010_00066_00003.png          SPEED LIMIT 120           0.6900              
+00010_00066_00004.png          SPEED LIMIT 120           0.7044              
+00010_00066_00005.png           NO OVERTAKING BY TRUCKS  0.9755              
+00010_00066_00006.png          SPEED LIMIT 30            0.8187              
+00010_00066_00007.png          SPEED LIMIT 60            0.3993              
+00010_00066_00008.png           NO OVERTAKING BY TRUCKS  0.9692              
+00010_00066_00009.png           NO OVERTAKING BY TRUCKS  0.9850              
+00010_00066_00010.png          SPEED LIMIT 30            0.5419              
+00010_00066_00011.png           NO OVERTAKING BY TRUCKS  0.9621              
+00010_00066_00012.png           NO OVERTAKING BY TRUCKS  0.9404              
+00010_00066_00013.png          SPEED LIMIT 30            0.8306              
+00010_00066_00014.png           NO OVERTAKING BY TRUCKS  0.4581              
+00010_00066_00015.png           NO OVERTAKING BY TRUCKS  0.9791              
+00010_00066_00016.png           NO OVERTAKING BY TRUCKS  0.6553              
+00010_00066_00017.png          SPEED LIMIT 30            0.6646              
+00010_00066_00018.png           NO OVERTAKING BY TRUCKS  0.9956              
+00010_00066_00019.png           NO OVERTAKING BY TRUCKS  0.9613              
+00010_00066_00020.png           NO OVERTAKING BY TRUCKS  0.9564              
+00010_00066_00021.png           NO OVERTAKING BY TRUCKS  0.9490              
+00010_00066_00022.png           NO OVERTAKING BY TRUCKS  0.8701              
+00010_00066_00023.png           NO OVERTAKING BY TRUCKS  0.9199              
+00010_00066_00024.png           NO ENTRY FOR VEHICLES    0.5471              
+00010_00066_00025.png           TRAFFIC SIGNALS          0.5961              
+00010_00066_00026.png           NO OVERTAKING BY TRUCKS  0.6340              
+00010_00066_00027.png           PRIORITY ROAD            0.6742              
+00010_00066_00028.png           NO OVERTAKING BY TRUCKS  0.8238              
+00010_00066_00029.png           NO OVERTAKING BY TRUCKS  0.4182              
+

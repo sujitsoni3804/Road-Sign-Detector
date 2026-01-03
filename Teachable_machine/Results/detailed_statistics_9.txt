@@ -1,0 +1,1511 @@
+Image Directory: C:/Users/sujit/PycharmProjects/Road-Sign-Recognition/Dataset/Train/9
+
+Summary Statistics
+================================================================================
+Total Images Processed: 1470
+
+Class                     Count      Avg Confidence      
+--------------------------------------------------------------------------------
+NO OVERTAKING             956        0.9425              
+ GO STRAIGHT OR LEFT      1          0.3477              
+SPEED LIMIT 20            78         0.8444              
+ ROUNDABOUT               13         0.7154              
+SPEED LIMIT 50            32         0.7274              
+ GO STRAIGHT              2          0.5480              
+END OF SPEED LIMIT 80     3          0.8627              
+ GO STRAIGHT OR RIGHT     3          0.8320              
+SPEED LIMIT 80            23         0.7281              
+SPEED LIMIT 60            59         0.8308              
+SPEED LIMIT 120           40         0.7640              
+ CYCLISTS                 2          0.7697              
+SPEED LIMIT 30            93         0.7844              
+ CHILDREN CROSSING        5          0.7778              
+SPEED LIMIT 70            22         0.6882              
+ NO OVERTAKING BY TRUCKS  46         0.7342              
+ PRIORITY ROAD            4          0.6185              
+ TRAFFIC SIGNALS          1          0.3373              
+ NO TRUCKS                28         0.8013              
+SPEED LIMIT 100           15         0.7973              
+ END OF NO OVERTAKING     17         0.7542              
+ NO ENTRY FOR VEHICLES    15         0.6870              
+ END OF ALL RESTRICTIONS  3          0.7652              
+ TURN LEFT                7          0.6458              
+ KEEP RIGHT               2          0.7714              
+
+
+
+Detailed Prediction Results
+================================================================================
+Image Name                     Predicted Class           Confidence Score    
+--------------------------------------------------------------------------------
+00009_00000_00000.png          NO OVERTAKING             0.9995              
+00009_00000_00001.png          NO OVERTAKING             0.9997              
+00009_00000_00002.png          NO OVERTAKING             1.0000              
+00009_00000_00003.png          NO OVERTAKING             0.9995              
+00009_00000_00004.png          NO OVERTAKING             0.9761              
+00009_00000_00005.png          NO OVERTAKING             0.9350              
+00009_00000_00006.png          NO OVERTAKING             0.9992              
+00009_00000_00007.png          NO OVERTAKING             0.9990              
+00009_00000_00008.png          NO OVERTAKING             0.9998              
+00009_00000_00009.png          NO OVERTAKING             0.9999              
+00009_00000_00010.png          NO OVERTAKING             0.9915              
+00009_00000_00011.png          NO OVERTAKING             0.9995              
+00009_00000_00012.png          NO OVERTAKING             0.9836              
+00009_00000_00013.png          NO OVERTAKING             1.0000              
+00009_00000_00014.png          NO OVERTAKING             1.0000              
+00009_00000_00015.png          NO OVERTAKING             1.0000              
+00009_00000_00016.png          NO OVERTAKING             1.0000              
+00009_00000_00017.png          NO OVERTAKING             0.9998              
+00009_00000_00018.png          NO OVERTAKING             1.0000              
+00009_00000_00019.png          NO OVERTAKING             1.0000              
+00009_00000_00020.png          NO OVERTAKING             1.0000              
+00009_00000_00021.png          NO OVERTAKING             1.0000              
+00009_00000_00022.png          NO OVERTAKING             1.0000              
+00009_00000_00023.png          NO OVERTAKING             1.0000              
+00009_00000_00024.png          NO OVERTAKING             1.0000              
+00009_00000_00025.png          NO OVERTAKING             1.0000              
+00009_00000_00026.png          NO OVERTAKING             1.0000              
+00009_00000_00027.png          NO OVERTAKING             1.0000              
+00009_00000_00028.png          NO OVERTAKING             1.0000              
+00009_00000_00029.png          NO OVERTAKING             1.0000              
+00009_00001_00000.png           GO STRAIGHT OR LEFT      0.3477              
+00009_00001_00001.png          SPEED LIMIT 20            0.7699              
+00009_00001_00002.png          NO OVERTAKING             0.9941              
+00009_00001_00003.png          SPEED LIMIT 20            0.9800              
+00009_00001_00004.png          SPEED LIMIT 20            0.9868              
+00009_00001_00005.png          NO OVERTAKING             0.7964              
+00009_00001_00006.png          NO OVERTAKING             0.7030              
+00009_00001_00007.png          NO OVERTAKING             0.9254              
+00009_00001_00008.png           ROUNDABOUT               0.5127              
+00009_00001_00009.png          SPEED LIMIT 50            0.7211              
+00009_00001_00010.png          NO OVERTAKING             0.9826              
+00009_00001_00011.png          NO OVERTAKING             0.7769              
+00009_00001_00012.png          NO OVERTAKING             0.9989              
+00009_00001_00013.png           GO STRAIGHT              0.7018              
+00009_00001_00014.png          NO OVERTAKING             0.9764              
+00009_00001_00015.png          NO OVERTAKING             0.9998              
+00009_00001_00016.png          NO OVERTAKING             1.0000              
+00009_00001_00017.png          NO OVERTAKING             1.0000              
+00009_00001_00018.png          NO OVERTAKING             0.9724              
+00009_00001_00019.png          NO OVERTAKING             1.0000              
+00009_00001_00020.png          NO OVERTAKING             1.0000              
+00009_00001_00021.png          NO OVERTAKING             1.0000              
+00009_00001_00022.png          NO OVERTAKING             1.0000              
+00009_00001_00023.png          NO OVERTAKING             1.0000              
+00009_00001_00024.png          NO OVERTAKING             0.9997              
+00009_00001_00025.png          NO OVERTAKING             1.0000              
+00009_00001_00026.png          NO OVERTAKING             1.0000              
+00009_00001_00027.png          NO OVERTAKING             1.0000              
+00009_00001_00028.png          NO OVERTAKING             1.0000              
+00009_00001_00029.png          NO OVERTAKING             1.0000              
+00009_00002_00000.png          NO OVERTAKING             0.9999              
+00009_00002_00001.png          NO OVERTAKING             0.9963              
+00009_00002_00002.png          NO OVERTAKING             0.9999              
+00009_00002_00003.png          NO OVERTAKING             0.9984              
+00009_00002_00004.png          NO OVERTAKING             0.9978              
+00009_00002_00005.png          NO OVERTAKING             0.9744              
+00009_00002_00006.png          NO OVERTAKING             0.9992              
+00009_00002_00007.png          NO OVERTAKING             0.9408              
+00009_00002_00008.png          NO OVERTAKING             0.9975              
+00009_00002_00009.png          NO OVERTAKING             0.9981              
+00009_00002_00010.png          NO OVERTAKING             0.9935              
+00009_00002_00011.png          NO OVERTAKING             0.9991              
+00009_00002_00012.png          NO OVERTAKING             0.7004              
+00009_00002_00013.png          NO OVERTAKING             0.9505              
+00009_00002_00014.png          SPEED LIMIT 20            0.9707              
+00009_00002_00015.png          SPEED LIMIT 20            0.8353              
+00009_00002_00016.png          NO OVERTAKING             0.5182              
+00009_00002_00017.png          NO OVERTAKING             0.9876              
+00009_00002_00018.png          NO OVERTAKING             0.9968              
+00009_00002_00019.png          NO OVERTAKING             1.0000              
+00009_00002_00020.png          NO OVERTAKING             0.9994              
+00009_00002_00021.png          NO OVERTAKING             0.9988              
+00009_00002_00022.png          NO OVERTAKING             0.9984              
+00009_00002_00023.png          NO OVERTAKING             0.9995              
+00009_00002_00024.png          NO OVERTAKING             0.9976              
+00009_00002_00025.png          NO OVERTAKING             1.0000              
+00009_00002_00026.png          NO OVERTAKING             0.9997              
+00009_00002_00027.png          NO OVERTAKING             0.9993              
+00009_00002_00028.png          NO OVERTAKING             0.9888              
+00009_00002_00029.png          NO OVERTAKING             0.9972              
+00009_00003_00000.png          END OF SPEED LIMIT 80     0.7790              
+00009_00003_00001.png          SPEED LIMIT 50            0.5005              
+00009_00003_00002.png           GO STRAIGHT OR RIGHT     0.7752              
+00009_00003_00003.png          SPEED LIMIT 80            0.8566              
+00009_00003_00004.png          SPEED LIMIT 80            0.4660              
+00009_00003_00005.png          SPEED LIMIT 50            0.9503              
+00009_00003_00006.png          SPEED LIMIT 80            0.9313              
+00009_00003_00007.png          SPEED LIMIT 80            0.7260              
+00009_00003_00008.png          SPEED LIMIT 80            0.8525              
+00009_00003_00009.png          SPEED LIMIT 50            0.6804              
+00009_00003_00010.png          SPEED LIMIT 50            0.7354              
+00009_00003_00011.png          SPEED LIMIT 80            0.9709              
+00009_00003_00012.png          SPEED LIMIT 80            0.6046              
+00009_00003_00013.png          SPEED LIMIT 50            0.6068              
+00009_00003_00014.png          SPEED LIMIT 60            0.9478              
+00009_00003_00015.png          SPEED LIMIT 60            0.9987              
+00009_00003_00016.png          SPEED LIMIT 60            0.9262              
+00009_00003_00017.png          SPEED LIMIT 60            0.9999              
+00009_00003_00018.png          SPEED LIMIT 60            0.6552              
+00009_00003_00019.png          SPEED LIMIT 80            0.9064              
+00009_00003_00020.png          SPEED LIMIT 120           0.4817              
+00009_00003_00021.png          SPEED LIMIT 80            0.9152              
+00009_00003_00022.png          SPEED LIMIT 80            0.9809              
+00009_00003_00023.png          SPEED LIMIT 50            0.5956              
+00009_00003_00024.png          NO OVERTAKING             0.9440              
+00009_00003_00025.png          NO OVERTAKING             0.5643              
+00009_00003_00026.png          NO OVERTAKING             0.9637              
+00009_00003_00027.png          SPEED LIMIT 50            0.9549              
+00009_00003_00028.png          NO OVERTAKING             0.9904              
+00009_00003_00029.png          NO OVERTAKING             0.9978              
+00009_00004_00000.png          SPEED LIMIT 60            0.9982              
+00009_00004_00001.png          NO OVERTAKING             0.9447              
+00009_00004_00002.png          SPEED LIMIT 60            0.9910              
+00009_00004_00003.png           CYCLISTS                 0.5462              
+00009_00004_00004.png          SPEED LIMIT 60            0.8822              
+00009_00004_00005.png          NO OVERTAKING             0.9242              
+00009_00004_00006.png          NO OVERTAKING             0.7132              
+00009_00004_00007.png          SPEED LIMIT 60            1.0000              
+00009_00004_00008.png          SPEED LIMIT 60            0.9998              
+00009_00004_00009.png          SPEED LIMIT 60            0.9947              
+00009_00004_00010.png          NO OVERTAKING             0.9942              
+00009_00004_00011.png          NO OVERTAKING             0.9991              
+00009_00004_00012.png          NO OVERTAKING             0.9993              
+00009_00004_00013.png          NO OVERTAKING             0.8297              
+00009_00004_00014.png          NO OVERTAKING             0.9912              
+00009_00004_00015.png          NO OVERTAKING             0.9972              
+00009_00004_00016.png          NO OVERTAKING             0.9995              
+00009_00004_00017.png          NO OVERTAKING             0.9988              
+00009_00004_00018.png          NO OVERTAKING             0.9999              
+00009_00004_00019.png          NO OVERTAKING             0.9989              
+00009_00004_00020.png          NO OVERTAKING             1.0000              
+00009_00004_00021.png          NO OVERTAKING             1.0000              
+00009_00004_00022.png          NO OVERTAKING             0.9999              
+00009_00004_00023.png          NO OVERTAKING             1.0000              
+00009_00004_00024.png          NO OVERTAKING             1.0000              
+00009_00004_00025.png          NO OVERTAKING             1.0000              
+00009_00004_00026.png          NO OVERTAKING             1.0000              
+00009_00004_00027.png          NO OVERTAKING             1.0000              
+00009_00004_00028.png          NO OVERTAKING             1.0000              
+00009_00004_00029.png          NO OVERTAKING             1.0000              
+00009_00005_00000.png          SPEED LIMIT 30            0.6779              
+00009_00005_00001.png          SPEED LIMIT 20            0.6560              
+00009_00005_00002.png          SPEED LIMIT 30            0.9237              
+00009_00005_00003.png           ROUNDABOUT               0.8929              
+00009_00005_00004.png          NO OVERTAKING             0.8819              
+00009_00005_00005.png          NO OVERTAKING             0.9768              
+00009_00005_00006.png          NO OVERTAKING             0.5306              
+00009_00005_00007.png          NO OVERTAKING             0.9835              
+00009_00005_00008.png          SPEED LIMIT 50            0.9960              
+00009_00005_00009.png          SPEED LIMIT 30            0.6279              
+00009_00005_00010.png          SPEED LIMIT 30            0.7465              
+00009_00005_00011.png          NO OVERTAKING             0.8025              
+00009_00005_00012.png          NO OVERTAKING             0.5489              
+00009_00005_00013.png          NO OVERTAKING             0.8210              
+00009_00005_00014.png          NO OVERTAKING             0.6509              
+00009_00005_00015.png          NO OVERTAKING             0.3708              
+00009_00005_00016.png          NO OVERTAKING             0.9879              
+00009_00005_00017.png          NO OVERTAKING             1.0000              
+00009_00005_00018.png          NO OVERTAKING             0.7172              
+00009_00005_00019.png          NO OVERTAKING             1.0000              
+00009_00005_00020.png          NO OVERTAKING             1.0000              
+00009_00005_00021.png          NO OVERTAKING             1.0000              
+00009_00005_00022.png          NO OVERTAKING             1.0000              
+00009_00005_00023.png          NO OVERTAKING             1.0000              
+00009_00005_00024.png          NO OVERTAKING             1.0000              
+00009_00005_00025.png          NO OVERTAKING             1.0000              
+00009_00005_00026.png          NO OVERTAKING             1.0000              
+00009_00005_00027.png          NO OVERTAKING             1.0000              
+00009_00005_00028.png          NO OVERTAKING             1.0000              
+00009_00005_00029.png          NO OVERTAKING             0.9993              
+00009_00006_00000.png          SPEED LIMIT 50            0.4840              
+00009_00006_00001.png          SPEED LIMIT 30            0.7396              
+00009_00006_00002.png           ROUNDABOUT               0.8862              
+00009_00006_00003.png          SPEED LIMIT 30            0.6478              
+00009_00006_00004.png          NO OVERTAKING             0.8703              
+00009_00006_00005.png           CHILDREN CROSSING        0.8839              
+00009_00006_00006.png          NO OVERTAKING             0.9880              
+00009_00006_00007.png          SPEED LIMIT 50            0.5801              
+00009_00006_00008.png          NO OVERTAKING             0.9788              
+00009_00006_00009.png          SPEED LIMIT 50            0.6770              
+00009_00006_00010.png          SPEED LIMIT 70            0.8434              
+00009_00006_00011.png          NO OVERTAKING             0.9879              
+00009_00006_00012.png          NO OVERTAKING             0.8497              
+00009_00006_00013.png          NO OVERTAKING             0.8384              
+00009_00006_00014.png          NO OVERTAKING             0.9569              
+00009_00006_00015.png          SPEED LIMIT 70            0.4300              
+00009_00006_00016.png          SPEED LIMIT 70            0.5109              
+00009_00006_00017.png          NO OVERTAKING             0.7791              
+00009_00006_00018.png          NO OVERTAKING             0.9969              
+00009_00006_00019.png          NO OVERTAKING             0.9733              
+00009_00006_00020.png          NO OVERTAKING             0.9998              
+00009_00006_00021.png          NO OVERTAKING             0.9975              
+00009_00006_00022.png          NO OVERTAKING             1.0000              
+00009_00006_00023.png          NO OVERTAKING             0.9999              
+00009_00006_00024.png          NO OVERTAKING             0.9920              
+00009_00006_00025.png          NO OVERTAKING             0.9752              
+00009_00006_00026.png          NO OVERTAKING             0.9976              
+00009_00006_00027.png          NO OVERTAKING             0.9943              
+00009_00006_00028.png          NO OVERTAKING             0.8744              
+00009_00006_00029.png          NO OVERTAKING             0.9690              
+00009_00007_00000.png           NO OVERTAKING BY TRUCKS  0.7431              
+00009_00007_00001.png           NO OVERTAKING BY TRUCKS  0.7902              
+00009_00007_00002.png           PRIORITY ROAD            0.5954              
+00009_00007_00003.png           NO OVERTAKING BY TRUCKS  0.9043              
+00009_00007_00004.png          END OF SPEED LIMIT 80     0.9669              
+00009_00007_00005.png          NO OVERTAKING             0.9674              
+00009_00007_00006.png          SPEED LIMIT 60            0.4189              
+00009_00007_00007.png          NO OVERTAKING             0.9610              
+00009_00007_00008.png          SPEED LIMIT 60            0.7548              
+00009_00007_00009.png          NO OVERTAKING             0.9997              
+00009_00007_00010.png          NO OVERTAKING             0.8984              
+00009_00007_00011.png           NO OVERTAKING BY TRUCKS  0.6455              
+00009_00007_00012.png          NO OVERTAKING             0.9769              
+00009_00007_00013.png          NO OVERTAKING             0.9990              
+00009_00007_00014.png          NO OVERTAKING             0.9998              
+00009_00007_00015.png          NO OVERTAKING             0.9990              
+00009_00007_00016.png          NO OVERTAKING             1.0000              
+00009_00007_00017.png          NO OVERTAKING             0.9437              
+00009_00007_00018.png          NO OVERTAKING             0.9999              
+00009_00007_00019.png          NO OVERTAKING             0.9999              
+00009_00007_00020.png          NO OVERTAKING             0.6536              
+00009_00007_00021.png          NO OVERTAKING             1.0000              
+00009_00007_00022.png          NO OVERTAKING             0.9991              
+00009_00007_00023.png          NO OVERTAKING             1.0000              
+00009_00007_00024.png          NO OVERTAKING             1.0000              
+00009_00007_00025.png          NO OVERTAKING             1.0000              
+00009_00007_00026.png          NO OVERTAKING             1.0000              
+00009_00007_00027.png          NO OVERTAKING             1.0000              
+00009_00007_00028.png          NO OVERTAKING             0.9999              
+00009_00007_00029.png          NO OVERTAKING             0.9998              
+00009_00008_00000.png          NO OVERTAKING             0.9893              
+00009_00008_00001.png          NO OVERTAKING             0.9956              
+00009_00008_00002.png          NO OVERTAKING             0.9869              
+00009_00008_00003.png          NO OVERTAKING             0.9974              
+00009_00008_00004.png          NO OVERTAKING             0.9602              
+00009_00008_00005.png          SPEED LIMIT 30            0.5899              
+00009_00008_00006.png          NO OVERTAKING             0.9659              
+00009_00008_00007.png          NO OVERTAKING             0.9915              
+00009_00008_00008.png          NO OVERTAKING             0.9886              
+00009_00008_00009.png          NO OVERTAKING             0.9958              
+00009_00008_00010.png          NO OVERTAKING             0.9457              
+00009_00008_00011.png          NO OVERTAKING             1.0000              
+00009_00008_00012.png          NO OVERTAKING             0.9999              
+00009_00008_00013.png          NO OVERTAKING             1.0000              
+00009_00008_00014.png          NO OVERTAKING             1.0000              
+00009_00008_00015.png          NO OVERTAKING             0.9996              
+00009_00008_00016.png          NO OVERTAKING             1.0000              
+00009_00008_00017.png          NO OVERTAKING             1.0000              
+00009_00008_00018.png          NO OVERTAKING             0.9999              
+00009_00008_00019.png          NO OVERTAKING             1.0000              
+00009_00008_00020.png          NO OVERTAKING             0.9999              
+00009_00008_00021.png          NO OVERTAKING             0.9999              
+00009_00008_00022.png          NO OVERTAKING             0.9996              
+00009_00008_00023.png          NO OVERTAKING             1.0000              
+00009_00008_00024.png          NO OVERTAKING             1.0000              
+00009_00008_00025.png          NO OVERTAKING             1.0000              
+00009_00008_00026.png          NO OVERTAKING             1.0000              
+00009_00008_00027.png          NO OVERTAKING             1.0000              
+00009_00008_00028.png          NO OVERTAKING             1.0000              
+00009_00008_00029.png          NO OVERTAKING             1.0000              
+00009_00009_00000.png          NO OVERTAKING             0.8934              
+00009_00009_00001.png          SPEED LIMIT 30            0.8430              
+00009_00009_00002.png          SPEED LIMIT 30            0.5915              
+00009_00009_00003.png          NO OVERTAKING             0.4715              
+00009_00009_00004.png          NO OVERTAKING             0.7563              
+00009_00009_00005.png          SPEED LIMIT 50            0.9866              
+00009_00009_00006.png          NO OVERTAKING             0.8566              
+00009_00009_00007.png          NO OVERTAKING             0.9990              
+00009_00009_00008.png          SPEED LIMIT 30            0.8361              
+00009_00009_00009.png          NO OVERTAKING             0.9988              
+00009_00009_00010.png          NO OVERTAKING             0.5693              
+00009_00009_00011.png          NO OVERTAKING             0.9998              
+00009_00009_00012.png          NO OVERTAKING             0.9984              
+00009_00009_00013.png          NO OVERTAKING             0.9958              
+00009_00009_00014.png          NO OVERTAKING             0.9941              
+00009_00009_00015.png          NO OVERTAKING             0.9935              
+00009_00009_00016.png          NO OVERTAKING             0.9998              
+00009_00009_00017.png          NO OVERTAKING             0.9985              
+00009_00009_00018.png          NO OVERTAKING             0.8208              
+00009_00009_00019.png          NO OVERTAKING             1.0000              
+00009_00009_00020.png          NO OVERTAKING             1.0000              
+00009_00009_00021.png          NO OVERTAKING             1.0000              
+00009_00009_00022.png          NO OVERTAKING             0.9999              
+00009_00009_00023.png          NO OVERTAKING             1.0000              
+00009_00009_00024.png          NO OVERTAKING             1.0000              
+00009_00009_00025.png          NO OVERTAKING             0.9999              
+00009_00009_00026.png          NO OVERTAKING             1.0000              
+00009_00009_00027.png          NO OVERTAKING             1.0000              
+00009_00009_00028.png          NO OVERTAKING             1.0000              
+00009_00009_00029.png          NO OVERTAKING             0.9999              
+00009_00010_00000.png          NO OVERTAKING             0.4805              
+00009_00010_00001.png          NO OVERTAKING             0.8110              
+00009_00010_00002.png          NO OVERTAKING             0.9938              
+00009_00010_00003.png          NO OVERTAKING             0.8634              
+00009_00010_00004.png          NO OVERTAKING             0.9990              
+00009_00010_00005.png          NO OVERTAKING             0.9990              
+00009_00010_00006.png          NO OVERTAKING             0.9992              
+00009_00010_00007.png          NO OVERTAKING             0.9974              
+00009_00010_00008.png          NO OVERTAKING             0.9996              
+00009_00010_00009.png          NO OVERTAKING             1.0000              
+00009_00010_00010.png          NO OVERTAKING             0.9926              
+00009_00010_00011.png          NO OVERTAKING             0.9978              
+00009_00010_00012.png          NO OVERTAKING             0.9999              
+00009_00010_00013.png          NO OVERTAKING             1.0000              
+00009_00010_00014.png          NO OVERTAKING             0.9920              
+00009_00010_00015.png          NO OVERTAKING             1.0000              
+00009_00010_00016.png          NO OVERTAKING             1.0000              
+00009_00010_00017.png          NO OVERTAKING             1.0000              
+00009_00010_00018.png          NO OVERTAKING             1.0000              
+00009_00010_00019.png          NO OVERTAKING             1.0000              
+00009_00010_00020.png          NO OVERTAKING             1.0000              
+00009_00010_00021.png          NO OVERTAKING             1.0000              
+00009_00010_00022.png          NO OVERTAKING             1.0000              
+00009_00010_00023.png          NO OVERTAKING             1.0000              
+00009_00010_00024.png          NO OVERTAKING             1.0000              
+00009_00010_00025.png          NO OVERTAKING             1.0000              
+00009_00010_00026.png          NO OVERTAKING             1.0000              
+00009_00010_00027.png          NO OVERTAKING             1.0000              
+00009_00010_00028.png          NO OVERTAKING             1.0000              
+00009_00010_00029.png          NO OVERTAKING             1.0000              
+00009_00011_00000.png          SPEED LIMIT 30            0.8503              
+00009_00011_00001.png          NO OVERTAKING             0.9998              
+00009_00011_00002.png          NO OVERTAKING             0.9886              
+00009_00011_00003.png          NO OVERTAKING             0.9989              
+00009_00011_00004.png          NO OVERTAKING             0.9996              
+00009_00011_00005.png          NO OVERTAKING             0.9974              
+00009_00011_00006.png          NO OVERTAKING             0.9894              
+00009_00011_00007.png          NO OVERTAKING             1.0000              
+00009_00011_00008.png          NO OVERTAKING             1.0000              
+00009_00011_00009.png          NO OVERTAKING             0.9992              
+00009_00011_00010.png          NO OVERTAKING             1.0000              
+00009_00011_00011.png          NO OVERTAKING             1.0000              
+00009_00011_00012.png          NO OVERTAKING             1.0000              
+00009_00011_00013.png          NO OVERTAKING             0.9883              
+00009_00011_00014.png          NO OVERTAKING             0.9999              
+00009_00011_00015.png          NO OVERTAKING             1.0000              
+00009_00011_00016.png          NO OVERTAKING             1.0000              
+00009_00011_00017.png          NO OVERTAKING             1.0000              
+00009_00011_00018.png          NO OVERTAKING             1.0000              
+00009_00011_00019.png          NO OVERTAKING             1.0000              
+00009_00011_00020.png          NO OVERTAKING             1.0000              
+00009_00011_00021.png          NO OVERTAKING             1.0000              
+00009_00011_00022.png          NO OVERTAKING             1.0000              
+00009_00011_00023.png          NO OVERTAKING             1.0000              
+00009_00011_00024.png          NO OVERTAKING             1.0000              
+00009_00011_00025.png          NO OVERTAKING             1.0000              
+00009_00011_00026.png          NO OVERTAKING             1.0000              
+00009_00011_00027.png          NO OVERTAKING             1.0000              
+00009_00011_00028.png          NO OVERTAKING             1.0000              
+00009_00011_00029.png          NO OVERTAKING             0.9999              
+00009_00012_00000.png           PRIORITY ROAD            0.4582              
+00009_00012_00001.png          NO OVERTAKING             0.5585              
+00009_00012_00002.png           TRAFFIC SIGNALS          0.3373              
+00009_00012_00003.png          SPEED LIMIT 20            0.7878              
+00009_00012_00004.png          SPEED LIMIT 20            0.9776              
+00009_00012_00005.png          SPEED LIMIT 20            0.6192              
+00009_00012_00006.png          NO OVERTAKING             0.7372              
+00009_00012_00007.png          NO OVERTAKING             0.8961              
+00009_00012_00008.png          NO OVERTAKING             0.9998              
+00009_00012_00009.png          NO OVERTAKING             0.9989              
+00009_00012_00010.png          NO OVERTAKING             0.9016              
+00009_00012_00011.png          NO OVERTAKING             0.9981              
+00009_00012_00012.png          NO OVERTAKING             0.9978              
+00009_00012_00013.png          NO OVERTAKING             0.9962              
+00009_00012_00014.png          NO OVERTAKING             1.0000              
+00009_00012_00015.png          NO OVERTAKING             1.0000              
+00009_00012_00016.png          NO OVERTAKING             0.9940              
+00009_00012_00017.png          NO OVERTAKING             0.9991              
+00009_00012_00018.png          NO OVERTAKING             0.9994              
+00009_00012_00019.png          NO OVERTAKING             1.0000              
+00009_00012_00020.png          NO OVERTAKING             0.9999              
+00009_00012_00021.png          NO OVERTAKING             1.0000              
+00009_00012_00022.png          NO OVERTAKING             1.0000              
+00009_00012_00023.png          NO OVERTAKING             1.0000              
+00009_00012_00024.png          NO OVERTAKING             0.9999              
+00009_00012_00025.png          NO OVERTAKING             0.9983              
+00009_00012_00026.png          NO OVERTAKING             1.0000              
+00009_00012_00027.png          NO OVERTAKING             1.0000              
+00009_00012_00028.png          NO OVERTAKING             0.9999              
+00009_00012_00029.png          NO OVERTAKING             0.9999              
+00009_00013_00000.png          NO OVERTAKING             0.9990              
+00009_00013_00001.png          NO OVERTAKING             0.9968              
+00009_00013_00002.png          NO OVERTAKING             0.9998              
+00009_00013_00003.png          NO OVERTAKING             0.9997              
+00009_00013_00004.png          NO OVERTAKING             0.9999              
+00009_00013_00005.png          NO OVERTAKING             0.9952              
+00009_00013_00006.png          NO OVERTAKING             0.9516              
+00009_00013_00007.png          NO OVERTAKING             1.0000              
+00009_00013_00008.png          NO OVERTAKING             1.0000              
+00009_00013_00009.png          NO OVERTAKING             1.0000              
+00009_00013_00010.png          NO OVERTAKING             0.9511              
+00009_00013_00011.png          NO OVERTAKING             1.0000              
+00009_00013_00012.png          NO OVERTAKING             1.0000              
+00009_00013_00013.png          NO OVERTAKING             1.0000              
+00009_00013_00014.png          NO OVERTAKING             0.9995              
+00009_00013_00015.png          NO OVERTAKING             0.9988              
+00009_00013_00016.png          NO OVERTAKING             0.9999              
+00009_00013_00017.png          NO OVERTAKING             1.0000              
+00009_00013_00018.png          NO OVERTAKING             1.0000              
+00009_00013_00019.png          NO OVERTAKING             1.0000              
+00009_00013_00020.png          NO OVERTAKING             0.9985              
+00009_00013_00021.png          NO OVERTAKING             0.9998              
+00009_00013_00022.png          NO OVERTAKING             0.9993              
+00009_00013_00023.png          NO OVERTAKING             0.9973              
+00009_00013_00024.png          NO OVERTAKING             0.9999              
+00009_00013_00025.png          NO OVERTAKING             0.9093              
+00009_00013_00026.png          NO OVERTAKING             0.9994              
+00009_00013_00027.png          NO OVERTAKING             0.9960              
+00009_00013_00028.png          NO OVERTAKING             0.9974              
+00009_00013_00029.png          NO OVERTAKING             0.9978              
+00009_00014_00000.png          NO OVERTAKING             0.7733              
+00009_00014_00001.png          NO OVERTAKING             0.8094              
+00009_00014_00002.png          SPEED LIMIT 30            0.4755              
+00009_00014_00003.png          NO OVERTAKING             0.8421              
+00009_00014_00004.png          NO OVERTAKING             0.8751              
+00009_00014_00005.png          SPEED LIMIT 30            0.6844              
+00009_00014_00006.png          NO OVERTAKING             0.9574              
+00009_00014_00007.png          NO OVERTAKING             0.9988              
+00009_00014_00008.png          NO OVERTAKING             1.0000              
+00009_00014_00009.png          NO OVERTAKING             1.0000              
+00009_00014_00010.png          NO OVERTAKING             0.8709              
+00009_00014_00011.png          NO OVERTAKING             0.9993              
+00009_00014_00012.png          NO OVERTAKING             0.9997              
+00009_00014_00013.png          NO OVERTAKING             0.9985              
+00009_00014_00014.png          NO OVERTAKING             0.9915              
+00009_00014_00015.png          NO OVERTAKING             1.0000              
+00009_00014_00016.png          NO OVERTAKING             0.9995              
+00009_00014_00017.png          NO OVERTAKING             0.9998              
+00009_00014_00018.png          NO OVERTAKING             1.0000              
+00009_00014_00019.png          NO OVERTAKING             1.0000              
+00009_00014_00020.png          NO OVERTAKING             0.9914              
+00009_00014_00021.png           NO TRUCKS                0.5336              
+00009_00014_00022.png          NO OVERTAKING             0.9995              
+00009_00014_00023.png          NO OVERTAKING             0.5145              
+00009_00014_00024.png          NO OVERTAKING             0.5972              
+00009_00014_00025.png          NO OVERTAKING             0.9246              
+00009_00014_00026.png          NO OVERTAKING             0.8572              
+00009_00014_00027.png          NO OVERTAKING             0.9968              
+00009_00014_00028.png          NO OVERTAKING             0.9993              
+00009_00014_00029.png          NO OVERTAKING             0.9938              
+00009_00015_00000.png          NO OVERTAKING             0.9910              
+00009_00015_00001.png          NO OVERTAKING             0.9573              
+00009_00015_00002.png          NO OVERTAKING             0.9823              
+00009_00015_00003.png          NO OVERTAKING             0.9944              
+00009_00015_00004.png          NO OVERTAKING             0.9727              
+00009_00015_00005.png          NO OVERTAKING             0.9895              
+00009_00015_00006.png          NO OVERTAKING             0.9972              
+00009_00015_00007.png          NO OVERTAKING             0.9714              
+00009_00015_00008.png          NO OVERTAKING             0.9741              
+00009_00015_00009.png          NO OVERTAKING             0.9912              
+00009_00015_00010.png          NO OVERTAKING             0.9884              
+00009_00015_00011.png          NO OVERTAKING             0.9851              
+00009_00015_00012.png          NO OVERTAKING             0.9866              
+00009_00015_00013.png          NO OVERTAKING             0.9954              
+00009_00015_00014.png          NO OVERTAKING             0.9946              
+00009_00015_00015.png          NO OVERTAKING             0.9935              
+00009_00015_00016.png          NO OVERTAKING             0.9930              
+00009_00015_00017.png          NO OVERTAKING             0.9949              
+00009_00015_00018.png          NO OVERTAKING             0.9980              
+00009_00015_00019.png          NO OVERTAKING             0.9969              
+00009_00015_00020.png          NO OVERTAKING             0.9966              
+00009_00015_00021.png          NO OVERTAKING             0.9983              
+00009_00015_00022.png          NO OVERTAKING             0.9948              
+00009_00015_00023.png          NO OVERTAKING             0.9947              
+00009_00015_00024.png          NO OVERTAKING             0.9689              
+00009_00015_00025.png          NO OVERTAKING             0.9886              
+00009_00015_00026.png          NO OVERTAKING             0.9859              
+00009_00015_00027.png          NO OVERTAKING             0.9885              
+00009_00015_00028.png          NO OVERTAKING             0.9807              
+00009_00015_00029.png          NO OVERTAKING             0.9885              
+00009_00016_00000.png          NO OVERTAKING             0.9989              
+00009_00016_00001.png          NO OVERTAKING             0.9999              
+00009_00016_00002.png          NO OVERTAKING             0.9998              
+00009_00016_00003.png          NO OVERTAKING             0.9996              
+00009_00016_00004.png          NO OVERTAKING             0.9989              
+00009_00016_00005.png          NO OVERTAKING             1.0000              
+00009_00016_00006.png          NO OVERTAKING             0.9994              
+00009_00016_00007.png          NO OVERTAKING             1.0000              
+00009_00016_00008.png          NO OVERTAKING             0.9996              
+00009_00016_00009.png          NO OVERTAKING             1.0000              
+00009_00016_00010.png          NO OVERTAKING             1.0000              
+00009_00016_00011.png          NO OVERTAKING             0.9999              
+00009_00016_00012.png          NO OVERTAKING             0.9998              
+00009_00016_00013.png          NO OVERTAKING             0.9999              
+00009_00016_00014.png          NO OVERTAKING             0.9998              
+00009_00016_00015.png          NO OVERTAKING             1.0000              
+00009_00016_00016.png          NO OVERTAKING             1.0000              
+00009_00016_00017.png          NO OVERTAKING             1.0000              
+00009_00016_00018.png          NO OVERTAKING             1.0000              
+00009_00016_00019.png          NO OVERTAKING             1.0000              
+00009_00016_00020.png          NO OVERTAKING             1.0000              
+00009_00016_00021.png          NO OVERTAKING             1.0000              
+00009_00016_00022.png          NO OVERTAKING             1.0000              
+00009_00016_00023.png          NO OVERTAKING             0.9997              
+00009_00016_00024.png          NO OVERTAKING             1.0000              
+00009_00016_00025.png          NO OVERTAKING             1.0000              
+00009_00016_00026.png          NO OVERTAKING             1.0000              
+00009_00016_00027.png          NO OVERTAKING             0.9999              
+00009_00016_00028.png          NO OVERTAKING             0.9998              
+00009_00016_00029.png          NO OVERTAKING             1.0000              
+00009_00017_00000.png          SPEED LIMIT 50            0.4154              
+00009_00017_00001.png          NO OVERTAKING             0.8004              
+00009_00017_00002.png          SPEED LIMIT 60            0.9957              
+00009_00017_00003.png          NO OVERTAKING             0.9978              
+00009_00017_00004.png          SPEED LIMIT 60            0.4249              
+00009_00017_00005.png          NO OVERTAKING             0.4560              
+00009_00017_00006.png          NO OVERTAKING             0.9993              
+00009_00017_00007.png          SPEED LIMIT 70            0.4487              
+00009_00017_00008.png          NO OVERTAKING             0.9957              
+00009_00017_00009.png          NO OVERTAKING             0.8127              
+00009_00017_00010.png          NO OVERTAKING             0.7314              
+00009_00017_00011.png          NO OVERTAKING             0.9863              
+00009_00017_00012.png          NO OVERTAKING             0.9987              
+00009_00017_00013.png          NO OVERTAKING             0.9998              
+00009_00017_00014.png          NO OVERTAKING             0.9966              
+00009_00017_00015.png          NO OVERTAKING             0.9999              
+00009_00017_00016.png          NO OVERTAKING             1.0000              
+00009_00017_00017.png          NO OVERTAKING             0.9994              
+00009_00017_00018.png          NO OVERTAKING             0.9998              
+00009_00017_00019.png          NO OVERTAKING             1.0000              
+00009_00017_00020.png          NO OVERTAKING             1.0000              
+00009_00017_00021.png          NO OVERTAKING             0.9997              
+00009_00017_00022.png          NO OVERTAKING             1.0000              
+00009_00017_00023.png          NO OVERTAKING             1.0000              
+00009_00017_00024.png          NO OVERTAKING             0.9990              
+00009_00017_00025.png          NO OVERTAKING             1.0000              
+00009_00017_00026.png          NO OVERTAKING             1.0000              
+00009_00017_00027.png          NO OVERTAKING             0.9999              
+00009_00017_00028.png          NO OVERTAKING             0.9977              
+00009_00017_00029.png          NO OVERTAKING             0.9928              
+00009_00018_00000.png          SPEED LIMIT 70            0.4377              
+00009_00018_00001.png           CHILDREN CROSSING        0.5499              
+00009_00018_00002.png          SPEED LIMIT 30            0.8628              
+00009_00018_00003.png          SPEED LIMIT 30            0.4264              
+00009_00018_00004.png          SPEED LIMIT 20            0.9668              
+00009_00018_00005.png          SPEED LIMIT 30            0.7187              
+00009_00018_00006.png          NO OVERTAKING             0.7434              
+00009_00018_00007.png          SPEED LIMIT 30            0.9783              
+00009_00018_00008.png          SPEED LIMIT 30            0.9052              
+00009_00018_00009.png          SPEED LIMIT 30            0.9754              
+00009_00018_00010.png          SPEED LIMIT 30            0.9971              
+00009_00018_00011.png          SPEED LIMIT 30            0.9992              
+00009_00018_00012.png          NO OVERTAKING             0.9525              
+00009_00018_00013.png          SPEED LIMIT 30            0.5471              
+00009_00018_00014.png          SPEED LIMIT 30            0.9987              
+00009_00018_00015.png          SPEED LIMIT 70            0.4361              
+00009_00018_00016.png          SPEED LIMIT 120           0.9740              
+00009_00018_00017.png          SPEED LIMIT 30            0.9016              
+00009_00018_00018.png          SPEED LIMIT 30            0.8306              
+00009_00018_00019.png           NO OVERTAKING BY TRUCKS  0.8953              
+00009_00018_00020.png          SPEED LIMIT 120           0.9186              
+00009_00018_00021.png          SPEED LIMIT 30            0.4763              
+00009_00018_00022.png          SPEED LIMIT 30            0.8504              
+00009_00018_00023.png           NO OVERTAKING BY TRUCKS  0.5249              
+00009_00018_00024.png          NO OVERTAKING             0.4932              
+00009_00018_00025.png           NO OVERTAKING BY TRUCKS  0.9218              
+00009_00018_00026.png          SPEED LIMIT 120           0.6261              
+00009_00018_00027.png           NO OVERTAKING BY TRUCKS  0.8812              
+00009_00018_00028.png           NO OVERTAKING BY TRUCKS  0.3636              
+00009_00018_00029.png          SPEED LIMIT 100           0.3741              
+00009_00019_00000.png          SPEED LIMIT 30            0.9888              
+00009_00019_00001.png           GO STRAIGHT              0.3942              
+00009_00019_00002.png          NO OVERTAKING             0.5925              
+00009_00019_00003.png          SPEED LIMIT 30            0.9970              
+00009_00019_00004.png          SPEED LIMIT 30            0.6296              
+00009_00019_00005.png          NO OVERTAKING             0.4062              
+00009_00019_00006.png          SPEED LIMIT 30            0.8839              
+00009_00019_00007.png          SPEED LIMIT 30            0.3483              
+00009_00019_00008.png          SPEED LIMIT 60            0.5474              
+00009_00019_00009.png          SPEED LIMIT 20            0.5321              
+00009_00019_00010.png          SPEED LIMIT 30            0.9792              
+00009_00019_00011.png          SPEED LIMIT 60            0.7806              
+00009_00019_00012.png          SPEED LIMIT 20            0.9817              
+00009_00019_00013.png          SPEED LIMIT 20            0.9341              
+00009_00019_00014.png          SPEED LIMIT 30            0.9810              
+00009_00019_00015.png          NO OVERTAKING             0.5390              
+00009_00019_00016.png          SPEED LIMIT 20            0.8931              
+00009_00019_00017.png          NO OVERTAKING             0.4150              
+00009_00019_00018.png          NO OVERTAKING             0.9980              
+00009_00019_00019.png          NO OVERTAKING             0.8669              
+00009_00019_00020.png          SPEED LIMIT 20            0.9256              
+00009_00019_00021.png          SPEED LIMIT 20            0.7782              
+00009_00019_00022.png          SPEED LIMIT 20            0.8715              
+00009_00019_00023.png          NO OVERTAKING             0.9986              
+00009_00019_00024.png          NO OVERTAKING             0.9772              
+00009_00019_00025.png          NO OVERTAKING             1.0000              
+00009_00019_00026.png          NO OVERTAKING             0.9999              
+00009_00019_00027.png          NO OVERTAKING             1.0000              
+00009_00019_00028.png          NO OVERTAKING             1.0000              
+00009_00019_00029.png          NO OVERTAKING             1.0000              
+00009_00020_00000.png          SPEED LIMIT 50            0.4520              
+00009_00020_00001.png          SPEED LIMIT 30            0.3813              
+00009_00020_00002.png           END OF NO OVERTAKING     0.5527              
+00009_00020_00003.png          NO OVERTAKING             0.9361              
+00009_00020_00004.png          SPEED LIMIT 20            0.3458              
+00009_00020_00005.png          SPEED LIMIT 50            0.8502              
+00009_00020_00006.png          SPEED LIMIT 50            0.9200              
+00009_00020_00007.png          SPEED LIMIT 30            0.8455              
+00009_00020_00008.png          SPEED LIMIT 50            0.9968              
+00009_00020_00009.png          SPEED LIMIT 30            0.8402              
+00009_00020_00010.png          SPEED LIMIT 30            0.9928              
+00009_00020_00011.png          SPEED LIMIT 30            0.9897              
+00009_00020_00012.png          NO OVERTAKING             0.8292              
+00009_00020_00013.png          NO OVERTAKING             0.9685              
+00009_00020_00014.png          NO OVERTAKING             0.7182              
+00009_00020_00015.png          NO OVERTAKING             0.8774              
+00009_00020_00016.png          NO OVERTAKING             0.9403              
+00009_00020_00017.png          NO OVERTAKING             0.9924              
+00009_00020_00018.png          SPEED LIMIT 20            0.9462              
+00009_00020_00019.png          NO OVERTAKING             0.5135              
+00009_00020_00020.png          SPEED LIMIT 30            0.9870              
+00009_00020_00021.png          SPEED LIMIT 50            0.7396              
+00009_00020_00022.png          NO OVERTAKING             0.7096              
+00009_00020_00023.png          SPEED LIMIT 30            0.9968              
+00009_00020_00024.png          NO OVERTAKING             0.9993              
+00009_00020_00025.png          NO OVERTAKING             0.8676              
+00009_00020_00026.png          SPEED LIMIT 30            0.9774              
+00009_00020_00027.png          NO OVERTAKING             0.8262              
+00009_00020_00028.png          SPEED LIMIT 30            0.9981              
+00009_00020_00029.png          SPEED LIMIT 30            0.9982              
+00009_00021_00000.png          NO OVERTAKING             0.9997              
+00009_00021_00001.png          NO OVERTAKING             0.9999              
+00009_00021_00002.png          NO OVERTAKING             0.9999              
+00009_00021_00003.png          NO OVERTAKING             0.9997              
+00009_00021_00004.png          NO OVERTAKING             0.9846              
+00009_00021_00005.png          NO OVERTAKING             0.9843              
+00009_00021_00006.png          NO OVERTAKING             0.9606              
+00009_00021_00007.png          NO OVERTAKING             0.8892              
+00009_00021_00008.png          SPEED LIMIT 20            0.9790              
+00009_00021_00009.png          NO OVERTAKING             0.9913              
+00009_00021_00010.png          NO OVERTAKING             0.9521              
+00009_00021_00011.png          NO OVERTAKING             0.9996              
+00009_00021_00012.png          NO OVERTAKING             0.9997              
+00009_00021_00013.png          NO OVERTAKING             0.9781              
+00009_00021_00014.png          NO OVERTAKING             0.9991              
+00009_00021_00015.png          NO OVERTAKING             0.9756              
+00009_00021_00016.png          NO OVERTAKING             0.9999              
+00009_00021_00017.png          NO OVERTAKING             0.9983              
+00009_00021_00018.png          NO OVERTAKING             0.9988              
+00009_00021_00019.png          NO OVERTAKING             1.0000              
+00009_00021_00020.png          NO OVERTAKING             1.0000              
+00009_00021_00021.png          NO OVERTAKING             1.0000              
+00009_00021_00022.png          NO OVERTAKING             1.0000              
+00009_00021_00023.png          NO OVERTAKING             0.9999              
+00009_00021_00024.png          NO OVERTAKING             0.9982              
+00009_00021_00025.png          NO OVERTAKING             1.0000              
+00009_00021_00026.png          SPEED LIMIT 70            0.9985              
+00009_00021_00027.png          NO OVERTAKING             0.8996              
+00009_00021_00028.png          NO OVERTAKING             0.9941              
+00009_00021_00029.png           NO OVERTAKING BY TRUCKS  0.3613              
+00009_00022_00000.png          SPEED LIMIT 60            0.9999              
+00009_00022_00001.png           NO OVERTAKING BY TRUCKS  0.8552              
+00009_00022_00002.png          SPEED LIMIT 120           0.5168              
+00009_00022_00003.png          SPEED LIMIT 120           0.7754              
+00009_00022_00004.png          SPEED LIMIT 120           0.9872              
+00009_00022_00005.png          SPEED LIMIT 60            0.7512              
+00009_00022_00006.png           NO OVERTAKING BY TRUCKS  0.8677              
+00009_00022_00007.png          SPEED LIMIT 120           0.9244              
+00009_00022_00008.png          SPEED LIMIT 120           0.8696              
+00009_00022_00009.png          SPEED LIMIT 120           0.4853              
+00009_00022_00010.png          SPEED LIMIT 120           0.7592              
+00009_00022_00011.png          SPEED LIMIT 120           0.3475              
+00009_00022_00012.png           NO TRUCKS                0.6035              
+00009_00022_00013.png           NO TRUCKS                0.4960              
+00009_00022_00014.png           NO OVERTAKING BY TRUCKS  0.6185              
+00009_00022_00015.png           NO OVERTAKING BY TRUCKS  0.5003              
+00009_00022_00016.png           NO TRUCKS                0.8590              
+00009_00022_00017.png           NO OVERTAKING BY TRUCKS  0.7812              
+00009_00022_00018.png           NO TRUCKS                0.8895              
+00009_00022_00019.png           NO TRUCKS                0.9627              
+00009_00022_00020.png           NO OVERTAKING BY TRUCKS  0.7432              
+00009_00022_00021.png          SPEED LIMIT 120           0.8083              
+00009_00022_00022.png           NO TRUCKS                0.9297              
+00009_00022_00023.png           NO TRUCKS                0.9098              
+00009_00022_00024.png           NO TRUCKS                0.9990              
+00009_00022_00025.png           NO TRUCKS                0.9898              
+00009_00022_00026.png           NO TRUCKS                0.8772              
+00009_00022_00027.png           NO TRUCKS                0.9995              
+00009_00022_00028.png           NO TRUCKS                0.9934              
+00009_00022_00029.png           NO TRUCKS                0.9976              
+00009_00023_00000.png           NO OVERTAKING BY TRUCKS  0.9743              
+00009_00023_00001.png           NO OVERTAKING BY TRUCKS  0.6343              
+00009_00023_00002.png           NO OVERTAKING BY TRUCKS  0.4985              
+00009_00023_00003.png           NO OVERTAKING BY TRUCKS  0.8620              
+00009_00023_00004.png           NO OVERTAKING BY TRUCKS  0.8018              
+00009_00023_00005.png           GO STRAIGHT OR RIGHT     0.8057              
+00009_00023_00006.png           NO OVERTAKING BY TRUCKS  0.8708              
+00009_00023_00007.png           NO OVERTAKING BY TRUCKS  0.8522              
+00009_00023_00008.png           GO STRAIGHT OR RIGHT     0.9151              
+00009_00023_00009.png           NO OVERTAKING BY TRUCKS  0.9133              
+00009_00023_00010.png           NO ENTRY FOR VEHICLES    0.3165              
+00009_00023_00011.png          SPEED LIMIT 60            0.9996              
+00009_00023_00012.png          SPEED LIMIT 60            0.8358              
+00009_00023_00013.png          SPEED LIMIT 60            0.5524              
+00009_00023_00014.png          SPEED LIMIT 60            0.9781              
+00009_00023_00015.png           NO ENTRY FOR VEHICLES    0.7733              
+00009_00023_00016.png           NO ENTRY FOR VEHICLES    0.5967              
+00009_00023_00017.png          SPEED LIMIT 60            0.7890              
+00009_00023_00018.png           NO OVERTAKING BY TRUCKS  0.7659              
+00009_00023_00019.png          SPEED LIMIT 60            0.9940              
+00009_00023_00020.png          SPEED LIMIT 120           0.9968              
+00009_00023_00021.png          SPEED LIMIT 60            0.9876              
+00009_00023_00022.png          SPEED LIMIT 60            0.9841              
+00009_00023_00023.png          SPEED LIMIT 60            0.9590              
+00009_00023_00024.png          SPEED LIMIT 60            0.9883              
+00009_00023_00025.png           NO TRUCKS                0.8593              
+00009_00023_00026.png           NO TRUCKS                0.7418              
+00009_00023_00027.png           NO TRUCKS                0.9772              
+00009_00023_00028.png          SPEED LIMIT 60            0.8875              
+00009_00023_00029.png           NO TRUCKS                0.5629              
+00009_00024_00000.png          SPEED LIMIT 60            0.7482              
+00009_00024_00001.png          SPEED LIMIT 60            0.9999              
+00009_00024_00002.png          SPEED LIMIT 60            0.9364              
+00009_00024_00003.png          SPEED LIMIT 60            0.9996              
+00009_00024_00004.png          SPEED LIMIT 60            0.9999              
+00009_00024_00005.png          SPEED LIMIT 60            0.9970              
+00009_00024_00006.png          SPEED LIMIT 60            0.9941              
+00009_00024_00007.png          SPEED LIMIT 60            0.7902              
+00009_00024_00008.png          SPEED LIMIT 120           0.9203              
+00009_00024_00009.png          SPEED LIMIT 60            0.6754              
+00009_00024_00010.png          SPEED LIMIT 120           0.6349              
+00009_00024_00011.png          NO OVERTAKING             0.5021              
+00009_00024_00012.png          SPEED LIMIT 120           0.8373              
+00009_00024_00013.png          SPEED LIMIT 60            0.7086              
+00009_00024_00014.png          SPEED LIMIT 60            0.9176              
+00009_00024_00015.png          SPEED LIMIT 120           0.4946              
+00009_00024_00016.png          NO OVERTAKING             0.7670              
+00009_00024_00017.png          NO OVERTAKING             0.9686              
+00009_00024_00018.png           NO TRUCKS                0.3847              
+00009_00024_00019.png          NO OVERTAKING             0.9554              
+00009_00024_00020.png           NO TRUCKS                0.4840              
+00009_00024_00021.png          NO OVERTAKING             0.9923              
+00009_00024_00022.png          NO OVERTAKING             0.8448              
+00009_00024_00023.png          NO OVERTAKING             0.9486              
+00009_00024_00024.png          NO OVERTAKING             0.9791              
+00009_00024_00025.png          NO OVERTAKING             0.9995              
+00009_00024_00026.png          NO OVERTAKING             0.9998              
+00009_00024_00027.png          NO OVERTAKING             0.9970              
+00009_00024_00028.png          NO OVERTAKING             0.9998              
+00009_00024_00029.png          NO OVERTAKING             0.9961              
+00009_00025_00000.png          SPEED LIMIT 30            0.9583              
+00009_00025_00001.png          SPEED LIMIT 30            0.9929              
+00009_00025_00002.png          SPEED LIMIT 20            0.9362              
+00009_00025_00003.png          SPEED LIMIT 70            0.9577              
+00009_00025_00004.png          SPEED LIMIT 30            0.9121              
+00009_00025_00005.png          SPEED LIMIT 20            0.6080              
+00009_00025_00006.png          SPEED LIMIT 30            0.9987              
+00009_00025_00007.png          SPEED LIMIT 70            0.8244              
+00009_00025_00008.png          SPEED LIMIT 30            0.9695              
+00009_00025_00009.png          NO OVERTAKING             0.7234              
+00009_00025_00010.png          SPEED LIMIT 30            0.7359              
+00009_00025_00011.png          SPEED LIMIT 20            0.8506              
+00009_00025_00012.png          NO OVERTAKING             0.9788              
+00009_00025_00013.png          NO OVERTAKING             0.4867              
+00009_00025_00014.png          NO OVERTAKING             0.9965              
+00009_00025_00015.png          NO OVERTAKING             0.9641              
+00009_00025_00016.png          NO OVERTAKING             0.8946              
+00009_00025_00017.png          NO OVERTAKING             0.9630              
+00009_00025_00018.png          NO OVERTAKING             0.9457              
+00009_00025_00019.png          NO OVERTAKING             0.9629              
+00009_00025_00020.png          NO OVERTAKING             0.9894              
+00009_00025_00021.png          NO OVERTAKING             0.9968              
+00009_00025_00022.png          NO OVERTAKING             1.0000              
+00009_00025_00023.png          NO OVERTAKING             0.9958              
+00009_00025_00024.png          NO OVERTAKING             0.9995              
+00009_00025_00025.png          NO OVERTAKING             1.0000              
+00009_00025_00026.png          NO OVERTAKING             0.9997              
+00009_00025_00027.png          NO OVERTAKING             0.9998              
+00009_00025_00028.png          NO OVERTAKING             1.0000              
+00009_00025_00029.png          NO OVERTAKING             0.9989              
+00009_00026_00000.png          SPEED LIMIT 60            0.9696              
+00009_00026_00001.png          SPEED LIMIT 60            0.9924              
+00009_00026_00002.png          SPEED LIMIT 60            0.6656              
+00009_00026_00003.png          SPEED LIMIT 50            0.9383              
+00009_00026_00004.png           NO OVERTAKING BY TRUCKS  0.9589              
+00009_00026_00005.png           NO OVERTAKING BY TRUCKS  0.8744              
+00009_00026_00006.png           NO OVERTAKING BY TRUCKS  0.7781              
+00009_00026_00007.png           NO OVERTAKING BY TRUCKS  0.7457              
+00009_00026_00008.png           NO OVERTAKING BY TRUCKS  0.6972              
+00009_00026_00009.png           NO OVERTAKING BY TRUCKS  0.7668              
+00009_00026_00010.png           NO OVERTAKING BY TRUCKS  0.4066              
+00009_00026_00011.png          SPEED LIMIT 80            0.4644              
+00009_00026_00012.png          SPEED LIMIT 80            0.8560              
+00009_00026_00013.png          SPEED LIMIT 80            0.5181              
+00009_00026_00014.png          SPEED LIMIT 80            0.9858              
+00009_00026_00015.png           NO OVERTAKING BY TRUCKS  0.7886              
+00009_00026_00016.png           NO OVERTAKING BY TRUCKS  0.6917              
+00009_00026_00017.png           NO OVERTAKING BY TRUCKS  0.9257              
+00009_00026_00018.png          SPEED LIMIT 60            0.5174              
+00009_00026_00019.png          SPEED LIMIT 80            0.9222              
+00009_00026_00020.png           NO OVERTAKING BY TRUCKS  0.5733              
+00009_00026_00021.png          SPEED LIMIT 50            0.4383              
+00009_00026_00022.png          SPEED LIMIT 50            0.9949              
+00009_00026_00023.png          SPEED LIMIT 50            0.9997              
+00009_00026_00024.png          SPEED LIMIT 50            0.5319              
+00009_00026_00025.png          SPEED LIMIT 50            0.8799              
+00009_00026_00026.png          NO OVERTAKING             0.9154              
+00009_00026_00027.png           ROUNDABOUT               0.5159              
+00009_00026_00028.png          NO OVERTAKING             0.9300              
+00009_00026_00029.png          NO OVERTAKING             0.9976              
+00009_00027_00000.png           END OF ALL RESTRICTIONS  0.7537              
+00009_00027_00001.png           END OF ALL RESTRICTIONS  0.8248              
+00009_00027_00002.png           NO OVERTAKING BY TRUCKS  0.9579              
+00009_00027_00003.png          SPEED LIMIT 120           0.5629              
+00009_00027_00004.png           END OF ALL RESTRICTIONS  0.7170              
+00009_00027_00005.png           NO ENTRY FOR VEHICLES    0.7072              
+00009_00027_00006.png           TURN LEFT                0.3993              
+00009_00027_00007.png           NO ENTRY FOR VEHICLES    0.5510              
+00009_00027_00008.png           NO ENTRY FOR VEHICLES    0.8703              
+00009_00027_00009.png           NO ENTRY FOR VEHICLES    0.8931              
+00009_00027_00010.png           NO OVERTAKING BY TRUCKS  0.7385              
+00009_00027_00011.png           NO ENTRY FOR VEHICLES    0.8551              
+00009_00027_00012.png           TURN LEFT                0.5453              
+00009_00027_00013.png           NO ENTRY FOR VEHICLES    0.6934              
+00009_00027_00014.png          SPEED LIMIT 60            0.7379              
+00009_00027_00015.png           NO ENTRY FOR VEHICLES    0.6261              
+00009_00027_00016.png           TURN LEFT                0.5620              
+00009_00027_00017.png           NO ENTRY FOR VEHICLES    0.9676              
+00009_00027_00018.png           NO ENTRY FOR VEHICLES    0.8476              
+00009_00027_00019.png           NO ENTRY FOR VEHICLES    0.4189              
+00009_00027_00020.png           TURN LEFT                0.4604              
+00009_00027_00021.png          SPEED LIMIT 60            0.7242              
+00009_00027_00022.png          SPEED LIMIT 60            0.4136              
+00009_00027_00023.png          SPEED LIMIT 60            0.9885              
+00009_00027_00024.png          SPEED LIMIT 60            0.9025              
+00009_00027_00025.png          SPEED LIMIT 60            0.9852              
+00009_00027_00026.png          SPEED LIMIT 60            0.5111              
+00009_00027_00027.png          SPEED LIMIT 60            0.9885              
+00009_00027_00028.png          SPEED LIMIT 60            0.9428              
+00009_00027_00029.png           TURN LEFT                0.7538              
+00009_00028_00000.png          NO OVERTAKING             0.9615              
+00009_00028_00001.png          NO OVERTAKING             0.7213              
+00009_00028_00002.png          SPEED LIMIT 20            0.6850              
+00009_00028_00003.png          NO OVERTAKING             0.9990              
+00009_00028_00004.png          SPEED LIMIT 20            0.9816              
+00009_00028_00005.png          SPEED LIMIT 20            0.8002              
+00009_00028_00006.png          NO OVERTAKING             0.9754              
+00009_00028_00007.png          NO OVERTAKING             0.8145              
+00009_00028_00008.png          NO OVERTAKING             0.9001              
+00009_00028_00009.png          SPEED LIMIT 20            0.7496              
+00009_00028_00010.png          SPEED LIMIT 20            0.8137              
+00009_00028_00011.png          SPEED LIMIT 20            0.9884              
+00009_00028_00012.png          SPEED LIMIT 20            0.9137              
+00009_00028_00013.png          SPEED LIMIT 20            0.9104              
+00009_00028_00014.png          SPEED LIMIT 20            0.5876              
+00009_00028_00015.png          SPEED LIMIT 20            0.8245              
+00009_00028_00016.png          SPEED LIMIT 20            0.6012              
+00009_00028_00017.png          NO OVERTAKING             0.6542              
+00009_00028_00018.png          SPEED LIMIT 20            0.8594              
+00009_00028_00019.png          NO OVERTAKING             1.0000              
+00009_00028_00020.png          SPEED LIMIT 20            0.9765              
+00009_00028_00021.png          SPEED LIMIT 20            0.9999              
+00009_00028_00022.png          SPEED LIMIT 20            0.9996              
+00009_00028_00023.png          SPEED LIMIT 20            0.5559              
+00009_00028_00024.png          NO OVERTAKING             0.5694              
+00009_00028_00025.png          NO OVERTAKING             0.9714              
+00009_00028_00026.png          NO OVERTAKING             0.9770              
+00009_00028_00027.png          NO OVERTAKING             0.8433              
+00009_00028_00028.png          NO OVERTAKING             0.9999              
+00009_00028_00029.png          NO OVERTAKING             0.9975              
+00009_00029_00000.png          SPEED LIMIT 50            0.4540              
+00009_00029_00001.png           END OF NO OVERTAKING     0.8086              
+00009_00029_00002.png          SPEED LIMIT 20            0.9893              
+00009_00029_00003.png          SPEED LIMIT 20            0.9457              
+00009_00029_00004.png          SPEED LIMIT 20            0.9997              
+00009_00029_00005.png          SPEED LIMIT 20            0.9996              
+00009_00029_00006.png          SPEED LIMIT 20            0.7446              
+00009_00029_00007.png          NO OVERTAKING             0.9770              
+00009_00029_00008.png          NO OVERTAKING             0.9994              
+00009_00029_00009.png          NO OVERTAKING             0.9852              
+00009_00029_00010.png          NO OVERTAKING             1.0000              
+00009_00029_00011.png          NO OVERTAKING             0.9994              
+00009_00029_00012.png          SPEED LIMIT 20            0.5778              
+00009_00029_00013.png          NO OVERTAKING             0.9977              
+00009_00029_00014.png          SPEED LIMIT 20            0.9803              
+00009_00029_00015.png          NO OVERTAKING             0.8459              
+00009_00029_00016.png          NO OVERTAKING             1.0000              
+00009_00029_00017.png          NO OVERTAKING             1.0000              
+00009_00029_00018.png          NO OVERTAKING             1.0000              
+00009_00029_00019.png          NO OVERTAKING             0.9999              
+00009_00029_00020.png          NO OVERTAKING             0.9918              
+00009_00029_00021.png          NO OVERTAKING             0.9392              
+00009_00029_00022.png          NO OVERTAKING             0.7840              
+00009_00029_00023.png          NO OVERTAKING             0.8812              
+00009_00029_00024.png          SPEED LIMIT 20            0.9993              
+00009_00029_00025.png          SPEED LIMIT 20            0.9841              
+00009_00029_00026.png          NO OVERTAKING             0.9150              
+00009_00029_00027.png          SPEED LIMIT 20            0.8898              
+00009_00029_00028.png          SPEED LIMIT 20            0.6935              
+00009_00029_00029.png          NO OVERTAKING             0.9925              
+00009_00030_00000.png          NO OVERTAKING             0.9798              
+00009_00030_00001.png          NO OVERTAKING             0.9998              
+00009_00030_00002.png          NO OVERTAKING             1.0000              
+00009_00030_00003.png          NO OVERTAKING             0.9993              
+00009_00030_00004.png          NO OVERTAKING             0.9944              
+00009_00030_00005.png          NO OVERTAKING             0.9697              
+00009_00030_00006.png          NO OVERTAKING             0.9991              
+00009_00030_00007.png          NO OVERTAKING             0.6734              
+00009_00030_00008.png          NO OVERTAKING             0.4006              
+00009_00030_00009.png          NO OVERTAKING             0.7734              
+00009_00030_00010.png          NO OVERTAKING             0.9925              
+00009_00030_00011.png          NO OVERTAKING             0.9920              
+00009_00030_00012.png          SPEED LIMIT 30            0.5001              
+00009_00030_00013.png          NO OVERTAKING             0.9991              
+00009_00030_00014.png          NO OVERTAKING             0.9991              
+00009_00030_00015.png          NO OVERTAKING             0.9775              
+00009_00030_00016.png          NO OVERTAKING             0.9063              
+00009_00030_00017.png          NO OVERTAKING             0.9999              
+00009_00030_00018.png          NO OVERTAKING             0.9997              
+00009_00030_00019.png          NO OVERTAKING             0.9977              
+00009_00030_00020.png          NO OVERTAKING             1.0000              
+00009_00030_00021.png          NO OVERTAKING             0.8229              
+00009_00030_00022.png          NO OVERTAKING             0.6173              
+00009_00030_00023.png          NO OVERTAKING             0.9686              
+00009_00030_00024.png          NO OVERTAKING             0.6363              
+00009_00030_00025.png          SPEED LIMIT 20            0.9939              
+00009_00030_00026.png          NO OVERTAKING             0.9705              
+00009_00030_00027.png           NO TRUCKS                0.5618              
+00009_00030_00028.png          NO OVERTAKING             0.8010              
+00009_00030_00029.png          NO OVERTAKING             0.8998              
+00009_00031_00000.png          SPEED LIMIT 100           0.9906              
+00009_00031_00001.png          SPEED LIMIT 100           0.9923              
+00009_00031_00002.png          SPEED LIMIT 100           0.8637              
+00009_00031_00003.png           NO OVERTAKING BY TRUCKS  0.5520              
+00009_00031_00004.png          NO OVERTAKING             0.6548              
+00009_00031_00005.png          SPEED LIMIT 100           0.9895              
+00009_00031_00006.png          SPEED LIMIT 100           0.5879              
+00009_00031_00007.png          SPEED LIMIT 100           0.6426              
+00009_00031_00008.png           NO ENTRY FOR VEHICLES    0.5591              
+00009_00031_00009.png           NO OVERTAKING BY TRUCKS  0.8841              
+00009_00031_00010.png          NO OVERTAKING             0.8456              
+00009_00031_00011.png          NO OVERTAKING             0.7739              
+00009_00031_00012.png          NO OVERTAKING             0.8467              
+00009_00031_00013.png          NO OVERTAKING             0.8602              
+00009_00031_00014.png          SPEED LIMIT 30            0.5298              
+00009_00031_00015.png          SPEED LIMIT 80            0.3983              
+00009_00031_00016.png          SPEED LIMIT 30            0.4481              
+00009_00031_00017.png          SPEED LIMIT 30            0.5368              
+00009_00031_00018.png          NO OVERTAKING             0.7611              
+00009_00031_00019.png           NO OVERTAKING BY TRUCKS  0.4869              
+00009_00031_00020.png          NO OVERTAKING             0.6376              
+00009_00031_00021.png          SPEED LIMIT 30            0.7151              
+00009_00031_00022.png          NO OVERTAKING             0.6420              
+00009_00031_00023.png          NO OVERTAKING             0.5090              
+00009_00031_00024.png          NO OVERTAKING             0.6377              
+00009_00031_00025.png          NO OVERTAKING             0.9693              
+00009_00031_00026.png          NO OVERTAKING             0.9939              
+00009_00031_00027.png          NO OVERTAKING             0.9872              
+00009_00031_00028.png          NO OVERTAKING             0.9288              
+00009_00031_00029.png          NO OVERTAKING             0.9562              
+00009_00032_00000.png          SPEED LIMIT 120           0.9999              
+00009_00032_00001.png          SPEED LIMIT 120           0.7838              
+00009_00032_00002.png          SPEED LIMIT 120           0.9918              
+00009_00032_00003.png          SPEED LIMIT 120           0.4454              
+00009_00032_00004.png          NO OVERTAKING             0.7664              
+00009_00032_00005.png          NO OVERTAKING             0.9421              
+00009_00032_00006.png          NO OVERTAKING             0.9576              
+00009_00032_00007.png          NO OVERTAKING             0.6003              
+00009_00032_00008.png          SPEED LIMIT 120           0.7319              
+00009_00032_00009.png          NO OVERTAKING             0.5636              
+00009_00032_00010.png          NO OVERTAKING             0.9906              
+00009_00032_00011.png          NO OVERTAKING             0.8352              
+00009_00032_00012.png          NO OVERTAKING             0.9439              
+00009_00032_00013.png          NO OVERTAKING             0.9964              
+00009_00032_00014.png          SPEED LIMIT 120           0.5049              
+00009_00032_00015.png          NO OVERTAKING             0.9968              
+00009_00032_00016.png          NO OVERTAKING             0.9987              
+00009_00032_00017.png          NO OVERTAKING             0.9991              
+00009_00032_00018.png          NO OVERTAKING             0.9963              
+00009_00032_00019.png          NO OVERTAKING             0.9980              
+00009_00032_00020.png          NO OVERTAKING             1.0000              
+00009_00032_00021.png          NO OVERTAKING             0.9998              
+00009_00032_00022.png          NO OVERTAKING             0.9998              
+00009_00032_00023.png          NO OVERTAKING             1.0000              
+00009_00032_00024.png          NO OVERTAKING             0.9998              
+00009_00032_00025.png          NO OVERTAKING             1.0000              
+00009_00032_00026.png          NO OVERTAKING             0.9978              
+00009_00032_00027.png          NO OVERTAKING             0.9998              
+00009_00032_00028.png          NO OVERTAKING             0.9998              
+00009_00032_00029.png          NO OVERTAKING             0.9988              
+00009_00033_00000.png           END OF NO OVERTAKING     0.5668              
+00009_00033_00001.png           END OF NO OVERTAKING     0.9892              
+00009_00033_00002.png          SPEED LIMIT 50            0.6989              
+00009_00033_00003.png           END OF NO OVERTAKING     0.5862              
+00009_00033_00004.png           END OF NO OVERTAKING     0.8196              
+00009_00033_00005.png          SPEED LIMIT 50            0.5949              
+00009_00033_00006.png           END OF NO OVERTAKING     0.7665              
+00009_00033_00007.png          NO OVERTAKING             0.4425              
+00009_00033_00008.png          NO OVERTAKING             0.8941              
+00009_00033_00009.png          NO OVERTAKING             0.4797              
+00009_00033_00010.png          SPEED LIMIT 70            0.6397              
+00009_00033_00011.png          NO OVERTAKING             0.5611              
+00009_00033_00012.png          NO OVERTAKING             0.8874              
+00009_00033_00013.png          NO OVERTAKING             0.9999              
+00009_00033_00014.png          NO OVERTAKING             0.9714              
+00009_00033_00015.png          NO OVERTAKING             0.7399              
+00009_00033_00016.png          SPEED LIMIT 70            0.6809              
+00009_00033_00017.png          NO OVERTAKING             0.9052              
+00009_00033_00018.png          SPEED LIMIT 70            0.8340              
+00009_00033_00019.png           END OF NO OVERTAKING     0.9843              
+00009_00033_00020.png          NO OVERTAKING             0.8241              
+00009_00033_00021.png           END OF NO OVERTAKING     0.9652              
+00009_00033_00022.png           END OF NO OVERTAKING     0.5096              
+00009_00033_00023.png          NO OVERTAKING             0.8275              
+00009_00033_00024.png          NO OVERTAKING             0.9524              
+00009_00033_00025.png           END OF NO OVERTAKING     0.6300              
+00009_00033_00026.png          NO OVERTAKING             0.5742              
+00009_00033_00027.png           END OF NO OVERTAKING     0.9998              
+00009_00033_00028.png           END OF NO OVERTAKING     0.7003              
+00009_00033_00029.png           END OF NO OVERTAKING     0.9479              
+00009_00034_00000.png          SPEED LIMIT 30            0.9983              
+00009_00034_00001.png          NO OVERTAKING             0.6140              
+00009_00034_00002.png          NO OVERTAKING             0.7294              
+00009_00034_00003.png           TURN LEFT                0.8481              
+00009_00034_00004.png           END OF NO OVERTAKING     0.4605              
+00009_00034_00005.png          NO OVERTAKING             0.9848              
+00009_00034_00006.png          NO OVERTAKING             0.9502              
+00009_00034_00007.png          NO OVERTAKING             0.9994              
+00009_00034_00008.png          NO OVERTAKING             0.9778              
+00009_00034_00009.png          NO OVERTAKING             0.9995              
+00009_00034_00010.png          NO OVERTAKING             0.9998              
+00009_00034_00011.png          NO OVERTAKING             1.0000              
+00009_00034_00012.png          NO OVERTAKING             0.9960              
+00009_00034_00013.png          NO OVERTAKING             1.0000              
+00009_00034_00014.png          NO OVERTAKING             0.9994              
+00009_00034_00015.png          NO OVERTAKING             1.0000              
+00009_00034_00016.png          NO OVERTAKING             0.9969              
+00009_00034_00017.png          NO OVERTAKING             0.9998              
+00009_00034_00018.png          NO OVERTAKING             0.9991              
+00009_00034_00019.png          NO OVERTAKING             0.9992              
+00009_00034_00020.png          NO OVERTAKING             0.9999              
+00009_00034_00021.png          NO OVERTAKING             0.9999              
+00009_00034_00022.png          NO OVERTAKING             0.9999              
+00009_00034_00023.png          NO OVERTAKING             0.9999              
+00009_00034_00024.png          NO OVERTAKING             0.9999              
+00009_00034_00025.png          NO OVERTAKING             1.0000              
+00009_00034_00026.png          NO OVERTAKING             1.0000              
+00009_00034_00027.png          NO OVERTAKING             1.0000              
+00009_00034_00028.png          NO OVERTAKING             1.0000              
+00009_00034_00029.png          NO OVERTAKING             0.9507              
+00009_00035_00000.png          NO OVERTAKING             0.7721              
+00009_00035_00001.png          NO OVERTAKING             0.9819              
+00009_00035_00002.png          NO OVERTAKING             0.6654              
+00009_00035_00003.png          NO OVERTAKING             0.7749              
+00009_00035_00004.png          SPEED LIMIT 20            0.9948              
+00009_00035_00005.png          NO OVERTAKING             0.9988              
+00009_00035_00006.png          SPEED LIMIT 20            0.9921              
+00009_00035_00007.png          SPEED LIMIT 20            0.8830              
+00009_00035_00008.png          SPEED LIMIT 20            0.8886              
+00009_00035_00009.png          NO OVERTAKING             1.0000              
+00009_00035_00010.png          NO OVERTAKING             0.8718              
+00009_00035_00011.png          NO OVERTAKING             0.9954              
+00009_00035_00012.png          NO OVERTAKING             0.9878              
+00009_00035_00013.png          NO OVERTAKING             0.9995              
+00009_00035_00014.png          NO OVERTAKING             0.9998              
+00009_00035_00015.png          NO OVERTAKING             0.5999              
+00009_00035_00016.png          NO OVERTAKING             0.9998              
+00009_00035_00017.png          NO OVERTAKING             0.9544              
+00009_00035_00018.png          NO OVERTAKING             1.0000              
+00009_00035_00019.png          NO OVERTAKING             1.0000              
+00009_00035_00020.png          NO OVERTAKING             1.0000              
+00009_00035_00021.png          NO OVERTAKING             0.9963              
+00009_00035_00022.png          NO OVERTAKING             1.0000              
+00009_00035_00023.png          NO OVERTAKING             1.0000              
+00009_00035_00024.png          NO OVERTAKING             1.0000              
+00009_00035_00025.png          NO OVERTAKING             0.9771              
+00009_00035_00026.png          NO OVERTAKING             0.9987              
+00009_00035_00027.png          NO OVERTAKING             0.9893              
+00009_00035_00028.png          NO OVERTAKING             0.9873              
+00009_00035_00029.png          NO OVERTAKING             0.9217              
+00009_00036_00000.png          NO OVERTAKING             0.9826              
+00009_00036_00001.png          NO OVERTAKING             0.9125              
+00009_00036_00002.png          NO OVERTAKING             0.9960              
+00009_00036_00003.png          NO OVERTAKING             0.8716              
+00009_00036_00004.png          SPEED LIMIT 50            0.7105              
+00009_00036_00005.png          NO OVERTAKING             0.9963              
+00009_00036_00006.png          NO OVERTAKING             0.9719              
+00009_00036_00007.png          NO OVERTAKING             0.9979              
+00009_00036_00008.png          NO OVERTAKING             0.9495              
+00009_00036_00009.png          NO OVERTAKING             0.9642              
+00009_00036_00010.png          NO OVERTAKING             0.8940              
+00009_00036_00011.png          NO OVERTAKING             0.9979              
+00009_00036_00012.png          NO OVERTAKING             0.9960              
+00009_00036_00013.png          NO OVERTAKING             0.8153              
+00009_00036_00014.png          NO OVERTAKING             0.9977              
+00009_00036_00015.png          NO OVERTAKING             0.6199              
+00009_00036_00016.png          NO OVERTAKING             0.9998              
+00009_00036_00017.png          NO OVERTAKING             0.9885              
+00009_00036_00018.png          NO OVERTAKING             0.9968              
+00009_00036_00019.png          NO OVERTAKING             0.9512              
+00009_00036_00020.png          NO OVERTAKING             0.9942              
+00009_00036_00021.png          NO OVERTAKING             0.9948              
+00009_00036_00022.png          NO OVERTAKING             0.9994              
+00009_00036_00023.png          NO OVERTAKING             0.9635              
+00009_00036_00024.png          NO OVERTAKING             0.9631              
+00009_00036_00025.png          NO OVERTAKING             1.0000              
+00009_00036_00026.png          NO OVERTAKING             0.9983              
+00009_00036_00027.png          NO OVERTAKING             0.9999              
+00009_00036_00028.png          NO OVERTAKING             0.9829              
+00009_00036_00029.png          NO OVERTAKING             0.9946              
+00009_00037_00000.png          NO OVERTAKING             0.4806              
+00009_00037_00001.png           CHILDREN CROSSING        0.9684              
+00009_00037_00002.png          SPEED LIMIT 70            0.5252              
+00009_00037_00003.png          SPEED LIMIT 20            0.4048              
+00009_00037_00004.png          SPEED LIMIT 70            0.6991              
+00009_00037_00005.png          NO OVERTAKING             0.9445              
+00009_00037_00006.png          NO OVERTAKING             0.9877              
+00009_00037_00007.png          NO OVERTAKING             0.6103              
+00009_00037_00008.png          NO OVERTAKING             1.0000              
+00009_00037_00009.png          SPEED LIMIT 70            0.8371              
+00009_00037_00010.png          NO OVERTAKING             0.9982              
+00009_00037_00011.png          NO OVERTAKING             0.7904              
+00009_00037_00012.png          NO OVERTAKING             0.8944              
+00009_00037_00013.png          SPEED LIMIT 50            0.5905              
+00009_00037_00014.png          NO OVERTAKING             0.7529              
+00009_00037_00015.png          NO OVERTAKING             0.8997              
+00009_00037_00016.png          SPEED LIMIT 70            0.8848              
+00009_00037_00017.png          NO OVERTAKING             0.5419              
+00009_00037_00018.png          NO OVERTAKING             0.7846              
+00009_00037_00019.png          NO OVERTAKING             0.9921              
+00009_00037_00020.png          NO OVERTAKING             0.8099              
+00009_00037_00021.png          NO OVERTAKING             0.9919              
+00009_00037_00022.png          NO OVERTAKING             0.9973              
+00009_00037_00023.png          NO OVERTAKING             0.9829              
+00009_00037_00024.png          NO OVERTAKING             0.9995              
+00009_00037_00025.png          NO OVERTAKING             1.0000              
+00009_00037_00026.png          NO OVERTAKING             0.9999              
+00009_00037_00027.png          NO OVERTAKING             1.0000              
+00009_00037_00028.png          NO OVERTAKING             0.9998              
+00009_00037_00029.png          NO OVERTAKING             1.0000              
+00009_00038_00000.png          SPEED LIMIT 120           0.9269              
+00009_00038_00001.png          NO OVERTAKING             0.5000              
+00009_00038_00002.png          SPEED LIMIT 120           0.7600              
+00009_00038_00003.png          SPEED LIMIT 60            0.4200              
+00009_00038_00004.png          SPEED LIMIT 120           0.9131              
+00009_00038_00005.png          SPEED LIMIT 120           0.5384              
+00009_00038_00006.png          SPEED LIMIT 120           0.8848              
+00009_00038_00007.png          SPEED LIMIT 120           0.9585              
+00009_00038_00008.png          SPEED LIMIT 120           0.9605              
+00009_00038_00009.png          SPEED LIMIT 120           0.9700              
+00009_00038_00010.png          SPEED LIMIT 120           0.8478              
+00009_00038_00011.png          SPEED LIMIT 120           0.7149              
+00009_00038_00012.png          SPEED LIMIT 120           0.6175              
+00009_00038_00013.png          NO OVERTAKING             0.9867              
+00009_00038_00014.png          SPEED LIMIT 120           0.8051              
+00009_00038_00015.png          NO OVERTAKING             0.9017              
+00009_00038_00016.png          NO OVERTAKING             0.9328              
+00009_00038_00017.png          NO OVERTAKING             0.9971              
+00009_00038_00018.png          NO OVERTAKING             0.9995              
+00009_00038_00019.png          SPEED LIMIT 120           0.8137              
+00009_00038_00020.png          NO OVERTAKING             0.9996              
+00009_00038_00021.png          NO OVERTAKING             0.9939              
+00009_00038_00022.png          NO OVERTAKING             0.9763              
+00009_00038_00023.png          NO OVERTAKING             0.9458              
+00009_00038_00024.png          SPEED LIMIT 80            0.9739              
+00009_00038_00025.png          SPEED LIMIT 80            0.6179              
+00009_00038_00026.png          SPEED LIMIT 80            0.6967              
+00009_00038_00027.png           NO TRUCKS                0.8477              
+00009_00038_00028.png           NO TRUCKS                0.9907              
+00009_00038_00029.png           NO TRUCKS                0.9899              
+00009_00039_00000.png          NO OVERTAKING             0.9995              
+00009_00039_00001.png          NO OVERTAKING             0.9994              
+00009_00039_00002.png          NO OVERTAKING             0.9999              
+00009_00039_00003.png          NO OVERTAKING             0.9999              
+00009_00039_00004.png          NO OVERTAKING             0.9999              
+00009_00039_00005.png          NO OVERTAKING             1.0000              
+00009_00039_00006.png          NO OVERTAKING             0.9999              
+00009_00039_00007.png          NO OVERTAKING             0.9997              
+00009_00039_00008.png          NO OVERTAKING             1.0000              
+00009_00039_00009.png          NO OVERTAKING             0.9999              
+00009_00039_00010.png          NO OVERTAKING             0.9999              
+00009_00039_00011.png          NO OVERTAKING             0.9999              
+00009_00039_00012.png          NO OVERTAKING             0.9997              
+00009_00039_00013.png          NO OVERTAKING             1.0000              
+00009_00039_00014.png          NO OVERTAKING             0.9999              
+00009_00039_00015.png          NO OVERTAKING             0.9999              
+00009_00039_00016.png          NO OVERTAKING             1.0000              
+00009_00039_00017.png          NO OVERTAKING             0.9998              
+00009_00039_00018.png          NO OVERTAKING             0.9999              
+00009_00039_00019.png          NO OVERTAKING             0.9999              
+00009_00039_00020.png          NO OVERTAKING             0.9996              
+00009_00039_00021.png          NO OVERTAKING             0.9999              
+00009_00039_00022.png          NO OVERTAKING             0.9997              
+00009_00039_00023.png          NO OVERTAKING             0.9997              
+00009_00039_00024.png          NO OVERTAKING             0.9998              
+00009_00039_00025.png          NO OVERTAKING             0.9998              
+00009_00039_00026.png          NO OVERTAKING             0.9996              
+00009_00039_00027.png          NO OVERTAKING             1.0000              
+00009_00039_00028.png          NO OVERTAKING             0.9999              
+00009_00039_00029.png          NO OVERTAKING             0.9999              
+00009_00040_00000.png          NO OVERTAKING             0.9934              
+00009_00040_00001.png          NO OVERTAKING             0.9998              
+00009_00040_00002.png          NO OVERTAKING             0.9998              
+00009_00040_00003.png          NO OVERTAKING             0.9997              
+00009_00040_00004.png          NO OVERTAKING             0.9479              
+00009_00040_00005.png          NO OVERTAKING             0.9784              
+00009_00040_00006.png          NO OVERTAKING             0.9193              
+00009_00040_00007.png          NO OVERTAKING             0.9433              
+00009_00040_00008.png          NO OVERTAKING             0.9945              
+00009_00040_00009.png          NO OVERTAKING             0.9255              
+00009_00040_00010.png          NO OVERTAKING             0.9995              
+00009_00040_00011.png          NO OVERTAKING             0.9995              
+00009_00040_00012.png          NO OVERTAKING             0.9998              
+00009_00040_00013.png          NO OVERTAKING             0.9989              
+00009_00040_00014.png          NO OVERTAKING             0.5050              
+00009_00040_00015.png          NO OVERTAKING             0.9993              
+00009_00040_00016.png          NO OVERTAKING             0.9912              
+00009_00040_00017.png          NO OVERTAKING             0.9743              
+00009_00040_00018.png          NO OVERTAKING             0.9859              
+00009_00040_00019.png          NO OVERTAKING             0.9672              
+00009_00040_00020.png          NO OVERTAKING             0.9973              
+00009_00040_00021.png          NO OVERTAKING             0.9668              
+00009_00040_00022.png          NO OVERTAKING             1.0000              
+00009_00040_00023.png          NO OVERTAKING             0.9952              
+00009_00040_00024.png          NO OVERTAKING             1.0000              
+00009_00040_00025.png          NO OVERTAKING             1.0000              
+00009_00040_00026.png          NO OVERTAKING             0.7911              
+00009_00040_00027.png          NO OVERTAKING             0.9998              
+00009_00040_00028.png          NO OVERTAKING             0.9663              
+00009_00040_00029.png          NO OVERTAKING             1.0000              
+00009_00041_00000.png           CHILDREN CROSSING        0.7603              
+00009_00041_00001.png          SPEED LIMIT 30            0.9889              
+00009_00041_00002.png          SPEED LIMIT 30            0.5337              
+00009_00041_00003.png          SPEED LIMIT 30            0.5709              
+00009_00041_00004.png          NO OVERTAKING             0.6389              
+00009_00041_00005.png          SPEED LIMIT 30            0.8347              
+00009_00041_00006.png          SPEED LIMIT 20            0.7829              
+00009_00041_00007.png          SPEED LIMIT 30            0.8768              
+00009_00041_00008.png          NO OVERTAKING             0.5858              
+00009_00041_00009.png          NO OVERTAKING             0.9928              
+00009_00041_00010.png          SPEED LIMIT 30            0.5519              
+00009_00041_00011.png          NO OVERTAKING             0.6106              
+00009_00041_00012.png          SPEED LIMIT 30            0.6250              
+00009_00041_00013.png          NO OVERTAKING             0.9926              
+00009_00041_00014.png          NO OVERTAKING             0.9997              
+00009_00041_00015.png          NO OVERTAKING             0.9932              
+00009_00041_00016.png           NO ENTRY FOR VEHICLES    0.6285              
+00009_00041_00017.png          NO OVERTAKING             0.9971              
+00009_00041_00018.png          SPEED LIMIT 30            0.9771              
+00009_00041_00019.png          NO OVERTAKING             0.7442              
+00009_00041_00020.png          NO OVERTAKING             0.9942              
+00009_00041_00021.png          NO OVERTAKING             0.9932              
+00009_00041_00022.png          NO OVERTAKING             0.9970              
+00009_00041_00023.png          NO OVERTAKING             0.9991              
+00009_00041_00024.png          NO OVERTAKING             0.9999              
+00009_00041_00025.png          NO OVERTAKING             0.9999              
+00009_00041_00026.png          NO OVERTAKING             0.9982              
+00009_00041_00027.png          NO OVERTAKING             0.9998              
+00009_00041_00028.png          NO OVERTAKING             0.9995              
+00009_00041_00029.png          NO OVERTAKING             0.9930              
+00009_00042_00000.png          SPEED LIMIT 60            0.7568              
+00009_00042_00001.png           END OF NO OVERTAKING     0.5850              
+00009_00042_00002.png           PRIORITY ROAD            0.5788              
+00009_00042_00003.png           PRIORITY ROAD            0.8414              
+00009_00042_00004.png          NO OVERTAKING             0.6252              
+00009_00042_00005.png          NO OVERTAKING             0.9990              
+00009_00042_00006.png          NO OVERTAKING             1.0000              
+00009_00042_00007.png          NO OVERTAKING             0.9693              
+00009_00042_00008.png          NO OVERTAKING             0.9969              
+00009_00042_00009.png          NO OVERTAKING             0.6826              
+00009_00042_00010.png          NO OVERTAKING             0.9521              
+00009_00042_00011.png          NO OVERTAKING             0.9390              
+00009_00042_00012.png          NO OVERTAKING             0.9926              
+00009_00042_00013.png          NO OVERTAKING             0.9843              
+00009_00042_00014.png          NO OVERTAKING             0.9999              
+00009_00042_00015.png          NO OVERTAKING             0.9997              
+00009_00042_00016.png          NO OVERTAKING             0.9999              
+00009_00042_00017.png          NO OVERTAKING             1.0000              
+00009_00042_00018.png          NO OVERTAKING             1.0000              
+00009_00042_00019.png          NO OVERTAKING             1.0000              
+00009_00042_00020.png          NO OVERTAKING             1.0000              
+00009_00042_00021.png          NO OVERTAKING             1.0000              
+00009_00042_00022.png          NO OVERTAKING             1.0000              
+00009_00042_00023.png          NO OVERTAKING             1.0000              
+00009_00042_00024.png          NO OVERTAKING             1.0000              
+00009_00042_00025.png          NO OVERTAKING             1.0000              
+00009_00042_00026.png          NO OVERTAKING             1.0000              
+00009_00042_00027.png          NO OVERTAKING             1.0000              
+00009_00042_00028.png          NO OVERTAKING             1.0000              
+00009_00042_00029.png          NO OVERTAKING             1.0000              
+00009_00043_00000.png          SPEED LIMIT 30            0.8989              
+00009_00043_00001.png          SPEED LIMIT 120           0.7579              
+00009_00043_00002.png          SPEED LIMIT 30            0.9183              
+00009_00043_00003.png          SPEED LIMIT 30            0.8793              
+00009_00043_00004.png          SPEED LIMIT 30            0.7166              
+00009_00043_00005.png           NO OVERTAKING BY TRUCKS  0.3711              
+00009_00043_00006.png          SPEED LIMIT 120           0.7140              
+00009_00043_00007.png          SPEED LIMIT 30            0.4893              
+00009_00043_00008.png          SPEED LIMIT 30            0.9728              
+00009_00043_00009.png          NO OVERTAKING             0.9770              
+00009_00043_00010.png          NO OVERTAKING             0.9808              
+00009_00043_00011.png          NO OVERTAKING             0.9475              
+00009_00043_00012.png          NO OVERTAKING             0.9911              
+00009_00043_00013.png          NO OVERTAKING             0.6728              
+00009_00043_00014.png          NO OVERTAKING             0.3988              
+00009_00043_00015.png          NO OVERTAKING             0.7751              
+00009_00043_00016.png          NO OVERTAKING             0.5964              
+00009_00043_00017.png          NO OVERTAKING             0.7365              
+00009_00043_00018.png          NO OVERTAKING             0.9574              
+00009_00043_00019.png          NO OVERTAKING             0.8363              
+00009_00043_00020.png          NO OVERTAKING             0.5296              
+00009_00043_00021.png           NO TRUCKS                0.8070              
+00009_00043_00022.png          NO OVERTAKING             0.8862              
+00009_00043_00023.png          NO OVERTAKING             0.9342              
+00009_00043_00024.png          NO OVERTAKING             0.8935              
+00009_00043_00025.png          NO OVERTAKING             0.5529              
+00009_00043_00026.png          NO OVERTAKING             0.9798              
+00009_00043_00027.png          NO OVERTAKING             0.9546              
+00009_00043_00028.png          NO OVERTAKING             0.8657              
+00009_00043_00029.png           END OF NO OVERTAKING     0.9499              
+00009_00044_00000.png          SPEED LIMIT 70            0.3773              
+00009_00044_00001.png          SPEED LIMIT 30            0.9566              
+00009_00044_00002.png          NO OVERTAKING             0.5100              
+00009_00044_00003.png          NO OVERTAKING             0.9775              
+00009_00044_00004.png          SPEED LIMIT 30            0.6822              
+00009_00044_00005.png           NO OVERTAKING BY TRUCKS  0.4771              
+00009_00044_00006.png          NO OVERTAKING             0.8878              
+00009_00044_00007.png          NO OVERTAKING             0.9679              
+00009_00044_00008.png           NO OVERTAKING BY TRUCKS  0.8378              
+00009_00044_00009.png           NO OVERTAKING BY TRUCKS  0.7297              
+00009_00044_00010.png          SPEED LIMIT 30            0.4524              
+00009_00044_00011.png          NO OVERTAKING             0.2669              
+00009_00044_00012.png           NO TRUCKS                0.9588              
+00009_00044_00013.png          SPEED LIMIT 60            0.4161              
+00009_00044_00014.png           NO TRUCKS                0.6850              
+00009_00044_00015.png          NO OVERTAKING             0.6566              
+00009_00044_00016.png          NO OVERTAKING             0.4881              
+00009_00044_00017.png          SPEED LIMIT 60            0.6053              
+00009_00044_00018.png          NO OVERTAKING             0.4901              
+00009_00044_00019.png          NO OVERTAKING             0.8558              
+00009_00044_00020.png           NO TRUCKS                0.5459              
+00009_00044_00021.png          NO OVERTAKING             0.9037              
+00009_00044_00022.png          NO OVERTAKING             0.9997              
+00009_00044_00023.png          NO OVERTAKING             0.9492              
+00009_00044_00024.png          NO OVERTAKING             0.9762              
+00009_00044_00025.png          NO OVERTAKING             0.9886              
+00009_00044_00026.png          NO OVERTAKING             0.9972              
+00009_00044_00027.png          NO OVERTAKING             0.9979              
+00009_00044_00028.png          NO OVERTAKING             0.9933              
+00009_00044_00029.png          SPEED LIMIT 70            0.7811              
+00009_00045_00000.png          SPEED LIMIT 20            0.9986              
+00009_00045_00001.png          SPEED LIMIT 20            0.9987              
+00009_00045_00002.png          SPEED LIMIT 20            0.9208              
+00009_00045_00003.png          SPEED LIMIT 20            0.9969              
+00009_00045_00004.png          SPEED LIMIT 20            0.9991              
+00009_00045_00005.png          SPEED LIMIT 20            0.9993              
+00009_00045_00006.png          NO OVERTAKING             0.5459              
+00009_00045_00007.png          SPEED LIMIT 20            0.8099              
+00009_00045_00008.png          SPEED LIMIT 20            0.9982              
+00009_00045_00009.png          SPEED LIMIT 70            0.9592              
+00009_00045_00010.png          SPEED LIMIT 70            0.6503              
+00009_00045_00011.png          SPEED LIMIT 20            0.8502              
+00009_00045_00012.png          SPEED LIMIT 20            0.9618              
+00009_00045_00013.png          SPEED LIMIT 20            0.8146              
+00009_00045_00014.png          SPEED LIMIT 20            0.9076              
+00009_00045_00015.png          NO OVERTAKING             0.6981              
+00009_00045_00016.png          SPEED LIMIT 20            0.9837              
+00009_00045_00017.png          NO OVERTAKING             0.9935              
+00009_00045_00018.png          NO OVERTAKING             0.9471              
+00009_00045_00019.png          NO OVERTAKING             0.9971              
+00009_00045_00020.png          NO OVERTAKING             0.9988              
+00009_00045_00021.png          NO OVERTAKING             0.9905              
+00009_00045_00022.png          NO OVERTAKING             0.9998              
+00009_00045_00023.png          NO OVERTAKING             0.9808              
+00009_00045_00024.png          NO OVERTAKING             0.9923              
+00009_00045_00025.png          NO OVERTAKING             0.9469              
+00009_00045_00026.png          NO OVERTAKING             0.9999              
+00009_00045_00027.png          NO OVERTAKING             0.9990              
+00009_00045_00028.png          NO OVERTAKING             0.9429              
+00009_00045_00029.png          NO OVERTAKING             0.9095              
+00009_00046_00000.png          NO OVERTAKING             0.9617              
+00009_00046_00001.png          SPEED LIMIT 20            0.8312              
+00009_00046_00002.png          SPEED LIMIT 20            0.6419              
+00009_00046_00003.png          SPEED LIMIT 20            0.9865              
+00009_00046_00004.png          SPEED LIMIT 20            0.9022              
+00009_00046_00005.png          SPEED LIMIT 20            0.7592              
+00009_00046_00006.png          NO OVERTAKING             0.3640              
+00009_00046_00007.png          NO OVERTAKING             0.9977              
+00009_00046_00008.png          NO OVERTAKING             0.7361              
+00009_00046_00009.png          NO OVERTAKING             0.9906              
+00009_00046_00010.png          NO OVERTAKING             0.9675              
+00009_00046_00011.png          NO OVERTAKING             0.9797              
+00009_00046_00012.png          NO OVERTAKING             0.8043              
+00009_00046_00013.png          NO OVERTAKING             1.0000              
+00009_00046_00014.png          NO OVERTAKING             0.9999              
+00009_00046_00015.png          NO OVERTAKING             0.9795              
+00009_00046_00016.png          NO OVERTAKING             0.9979              
+00009_00046_00017.png          NO OVERTAKING             0.9999              
+00009_00046_00018.png          NO OVERTAKING             0.9995              
+00009_00046_00019.png          NO OVERTAKING             0.9996              
+00009_00046_00020.png          NO OVERTAKING             0.9992              
+00009_00046_00021.png          NO OVERTAKING             0.8057              
+00009_00046_00022.png          NO OVERTAKING             0.9899              
+00009_00046_00023.png          NO OVERTAKING             0.7369              
+00009_00046_00024.png          NO OVERTAKING             0.9999              
+00009_00046_00025.png          NO OVERTAKING             0.9701              
+00009_00046_00026.png          NO OVERTAKING             0.9937              
+00009_00046_00027.png          SPEED LIMIT 50            0.8107              
+00009_00046_00028.png          NO OVERTAKING             0.9706              
+00009_00046_00029.png          NO OVERTAKING             1.0000              
+00009_00047_00000.png          SPEED LIMIT 30            0.5982              
+00009_00047_00001.png          SPEED LIMIT 30            0.7161              
+00009_00047_00002.png          SPEED LIMIT 80            0.5802              
+00009_00047_00003.png          SPEED LIMIT 100           0.8953              
+00009_00047_00004.png          SPEED LIMIT 100           0.9518              
+00009_00047_00005.png          SPEED LIMIT 30            0.7682              
+00009_00047_00006.png          SPEED LIMIT 100           0.8149              
+00009_00047_00007.png          SPEED LIMIT 100           0.8760              
+00009_00047_00008.png          SPEED LIMIT 100           0.9397              
+00009_00047_00009.png          SPEED LIMIT 80            0.5146              
+00009_00047_00010.png          SPEED LIMIT 30            0.4809              
+00009_00047_00011.png          SPEED LIMIT 30            0.6042              
+00009_00047_00012.png          SPEED LIMIT 30            0.6090              
+00009_00047_00013.png           ROUNDABOUT               0.5932              
+00009_00047_00014.png           ROUNDABOUT               0.8545              
+00009_00047_00015.png          SPEED LIMIT 80            0.5657              
+00009_00047_00016.png           ROUNDABOUT               0.6835              
+00009_00047_00017.png           ROUNDABOUT               0.8928              
+00009_00047_00018.png          SPEED LIMIT 30            0.6855              
+00009_00047_00019.png           ROUNDABOUT               0.9056              
+00009_00047_00020.png           ROUNDABOUT               0.4336              
+00009_00047_00021.png           ROUNDABOUT               0.4544              
+00009_00047_00022.png          SPEED LIMIT 100           0.7142              
+00009_00047_00023.png           KEEP RIGHT               0.9460              
+00009_00047_00024.png           CYCLISTS                 0.9932              
+00009_00047_00025.png           TURN LEFT                0.9517              
+00009_00047_00026.png           KEEP RIGHT               0.5969              
+00009_00047_00027.png           ROUNDABOUT               0.6756              
+00009_00047_00028.png          SPEED LIMIT 80            0.4413              
+00009_00047_00029.png           ROUNDABOUT               0.9989              
+00009_00048_00000.png           NO OVERTAKING BY TRUCKS  0.9630              
+00009_00048_00001.png          SPEED LIMIT 100           0.8647              
+00009_00048_00002.png          SPEED LIMIT 30            0.7612              
+00009_00048_00003.png          SPEED LIMIT 100           0.4623              
+00009_00048_00004.png          SPEED LIMIT 30            0.7037              
+00009_00048_00005.png          SPEED LIMIT 60            0.6892              
+00009_00048_00006.png          END OF SPEED LIMIT 80     0.8422              
+00009_00048_00007.png           CHILDREN CROSSING        0.7265              
+00009_00048_00008.png          SPEED LIMIT 30            0.6415              
+00009_00048_00009.png          SPEED LIMIT 30            0.9444              
+00009_00048_00010.png          SPEED LIMIT 30            0.9361              
+00009_00048_00011.png          SPEED LIMIT 30            0.7417              
+00009_00048_00012.png          SPEED LIMIT 30            0.6079              
+00009_00048_00013.png          SPEED LIMIT 30            0.9900              
+00009_00048_00014.png          SPEED LIMIT 50            0.7909              
+00009_00048_00015.png          SPEED LIMIT 30            0.9641              
+00009_00048_00016.png          SPEED LIMIT 30            0.9762              
+00009_00048_00017.png          SPEED LIMIT 30            0.8222              
+00009_00048_00018.png          SPEED LIMIT 30            0.7723              
+00009_00048_00019.png          SPEED LIMIT 70            0.9948              
+00009_00048_00020.png          SPEED LIMIT 30            0.8877              
+00009_00048_00021.png          SPEED LIMIT 70            0.3903              
+00009_00048_00022.png          SPEED LIMIT 20            0.5429              
+00009_00048_00023.png          NO OVERTAKING             0.8716              
+00009_00048_00024.png          SPEED LIMIT 20            0.3196              
+00009_00048_00025.png          NO OVERTAKING             0.7240              
+00009_00048_00026.png          NO OVERTAKING             0.9856              
+00009_00048_00027.png          SPEED LIMIT 20            0.5165              
+00009_00048_00028.png          NO OVERTAKING             0.9831              
+00009_00048_00029.png          NO OVERTAKING             0.9991              
+

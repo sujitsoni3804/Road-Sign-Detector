@@ -1,0 +1,13 @@
+# IDE and environment folders
+.idea/
+.venv/
+.vscode/
+
+# Model and binary files
+Scikit_learn/model.pkl
+Scikit_learn/scaler.pkl
+
+# YOLO outputs and weights
+YOLO/runs/
+YOLO/best.pt
+YOLO/yolov8n-cls.pt

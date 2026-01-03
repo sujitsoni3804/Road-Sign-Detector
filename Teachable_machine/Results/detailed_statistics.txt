@@ -1,0 +1,16 @@
+Image Directory: C:/Users/sujit/PycharmProjects/Road-Sign-Recognition/Dataset/Train/2
+
+Summary Statistics
+================================================================================
+Total Images Processed: 0
+
+Class                     Count      Avg Confidence      
+--------------------------------------------------------------------------------
+
+
+
+Detailed Prediction Results
+================================================================================
+Image Name                     Predicted Class           Confidence Score    
+--------------------------------------------------------------------------------
+
